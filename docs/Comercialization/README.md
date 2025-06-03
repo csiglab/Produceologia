@@ -2,8 +2,6 @@
 
 Companies can export their products **in multiple ways**, depending on their size, strategy, and the nature of the product. Here are the main methods:
 
----
-
 ### ✅ **1. Direct Exporting**
 
 * The company sells **directly to foreign customers** (businesses, retailers, or governments).
@@ -90,3 +88,4 @@ Yes — in most cases, **commercialization in the destination country** happens 
 ## How companies exports?
 
 > ...
+

@@ -25,3 +25,5 @@
 
 - [Trading company](https://en.wikipedia.org/wiki/Trading_company)
 - [List of trading companies](https://en.wikipedia.org/wiki/List_of_trading_companies)
+- [List of commodity traders](https://en.wikipedia.org/wiki/List_of_commodity_traders)
+- [List of chartered companies](https://en.wikipedia.org/wiki/List_of_chartered_companies)
