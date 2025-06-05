@@ -1,4 +1,4 @@
-# Semantic Clustering of Corporate Business Profiles Extracted from Form 10-K Reports
+# Extrating  Economic Sector in  Corporate Business Profiles Extracted from Form 10-K Reports
 
 > **Goal**: Cluster firms by industry using SEC data.
 
@@ -42,6 +42,69 @@
 
   * Domain knowledge
   * Elbow method or silhouette scores for internal validation
+
+## NER
+
+> Does not work for "Asana is a work management platform that helps organizations orchestrate work, from daily tasks to cross-functional strategic initiatives. Over 139,000 paying customers use Asana to manage everything from product launches to marketing campaigns to organization-wide goal setting. Our platform adds structure to unstructured work, creating clarity, transparency, and accountability to everyone within an organization—individuals, team leads, and executives—so they understand exactly who is doing what, by when."; in order to get the economic sectors.
+
+## Used LLM's
+
+> ...
+
+## Word Embeding of the Enteirse 10-k Form Document -> Industry Classification
+
+Extracting the economic sector from a 10-K form (or similar business description text) can definitely be framed as a **prediction** or **sequence tagging** problem in NLP. Here’s a more detailed breakdown of how this can work:
+
+* **Input:**
+  Raw text (e.g., business description section of a 10-K filing).
+
+* **Goal:**
+  Predict a label or tag corresponding to the economic sector of the company.
+
+### Approach Using Word Embeddings + Prediction Model
+
+1. **Preprocessing & Tokenization:**
+   Break the text into tokens (words, subwords, or sentences).
+
+2. **Word Embeddings / Feature Extraction:**
+   Convert tokens into dense vector representations using techniques like:
+
+   * Pretrained embeddings (e.g., GloVe, FastText)
+   * Contextual embeddings (e.g., BERT, RoBERTa, GPT)
+     These embeddings capture semantic information from the text.
+
+3. **Model Architecture:**
+   Several architectures are possible:
+
+   * **Sequence classification model:**
+     Feed the embedding sequence into a model (e.g., LSTM, Transformer) and generate a single label representing the sector.
+   * **Sequence tagging / NER model:**
+     Label each token or phrase with tags (like BIO tagging) to extract the relevant sector phrase.
+   * **Text classification models:**
+     Use the whole text embedding pooled (CLS token in BERT) to classify into a predefined sector category.
+
+4. **Output:**
+
+   * The predicted economic sector (e.g., "Technology", "Healthcare", "Financial Services", etc.)
+   * Or extracted phrase(s) representing the sector
+
+### Why This Works Well
+
+* **Semantic understanding:**
+  Word embeddings capture relationships and meanings beyond surface words.
+
+* **Context-aware:**
+  Modern contextual embeddings adjust meaning based on surrounding text.
+
+* **Supervised learning:**
+  If you have labeled examples (text + sector), the model can learn to associate patterns of language with economic sectors.
+
+### Practical Notes
+
+* You’ll need a labeled dataset of 10-K descriptions with sectors for training.
+* Sectors can come from standard taxonomies like NAICS or GICS.
+* The model can be fine-tuned on financial domain text for better performance.
+* Ambiguity and overlap between sectors may require hierarchical or multi-label classification approaches.
 
 ## **Evaluation & Interpretation**
 

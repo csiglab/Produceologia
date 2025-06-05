@@ -52,3 +52,4 @@ Primarily used for international trade and tariffs.
 ## References
 
 - [Product](https://en.wikipedia.org/wiki/Product_(business))
+- [Global Industry Classification Standard (GICS)](https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard)
