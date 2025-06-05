@@ -106,6 +106,35 @@ Extracting the economic sector from a 10-K form (or similar business description
 * The model can be fine-tuned on financial domain text for better performance.
 * Ambiguity and overlap between sectors may require hierarchical or multi-label classification approaches.
 
+## Topic Modelling
+
+> ...
+
+- Use topic modeling for exploratory analysis and feature extraction to discover thematic structures.
+
+- Then feed topic distributions as features into supervised classifiers (e.g., neural nets, transformers) trained on labeled sector data.
+
+- Alternatively, use topic modeling to cluster companies initially and then manually assign sector labels to clusters, creating a semi-supervised approach.
+
+Pros:
+- Unsupervised Approach: Topic models (like LDA) do not require labeled data, so you can discover latent topics representing sectors without pre-tagged examples.
+
+- Insightful Themes: They can reveal underlying thematic clusters of words that correspond to industry sectors or sub-sectors.
+
+- Interpretability:  Topics are distributions over words, which can be inspected to understand the semantic grouping.
+
+- Scalable:  Easily applied to large corpora of filings.
+
+Cons / Limitations:
+
+- Granularity & Ambiguity: Topics may be too broad or too mixed to cleanly represent a specific economic sector, especially if company descriptions contain multiple lines of business.
+
+- No Direct Labeling: Topics themselves are unlabeled clusters of words; mapping them to standard sector codes (NAICS, GICS) requires manual interpretation or additional classification.
+
+- Sparse & Noisy Text: 10-K filings are long and verbose, with boilerplate language that can dilute sector-specific terms, reducing topic model effectiveness.
+
+- Less Precision Than Supervised Models: If labeled data is available, supervised classifiers using embeddings (BERT/finBERT) usually outperform topic models in accuracy.
+
 ## **Evaluation & Interpretation**
 
 * **Validate Clusters**:
@@ -143,6 +172,10 @@ Firms:
 ## Data Sources
 
 - [SEC's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) System](https://www.sec.gov/search-filings)
+
+## Previous Works
+
+
 
 ## References
 

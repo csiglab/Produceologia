@@ -53,3 +53,4 @@ Primarily used for international trade and tariffs.
 
 - [Product](https://en.wikipedia.org/wiki/Product_(business))
 - [Global Industry Classification Standard (GICS)](https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard)
+- [Standard Industrial Classification (SIC) Code List ](https://www.sec.gov/search-filings/standard-industrial-classification-sic-code-list)
