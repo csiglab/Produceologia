@@ -173,9 +173,25 @@ Firms:
 
 - [SEC's Electronic Data Gathering, Analysis, and Retrieval (EDGAR) System](https://www.sec.gov/search-filings)
 
+- [Welcome to the Hoberg-Phillips Data Library](https://hobergphillips.tuck.dartmouth.edu/tnic_basedata.html)
+
 ## Previous Works
 
+- [Text-based Industry Classification](https://github.com/Sivalavida/Text-based-Industry-Classification)
 
+- [Global text-based industry classification](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4985855)
+
+- [Company classification using zero-shot learning](https://arxiv.org/abs/2305.01028)
+
+- [Text-Based Industry Classification Based on Chinese A Share Annual Reports](https://ieeexplore.ieee.org/document/9696061)
+
+- [Using text data instead of SIC codes to tag innovative firms and classify industrial activities](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0270041)
+
+- [Emerging industry classification based on BERT model](https://www.sciencedirect.com/science/article/pii/S030643792400142X)
+
+- [A Multimodal Embedding-Based Approach to Industry Classification in Financial Markets](https://arxiv.org/abs/2211.06378)
+
+- [Text-based Industry Reclassification and Industry Momentum](https://mrkaiwu.github.io/ind_momentum.html)
 
 ## References
 
