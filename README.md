@@ -1,8 +1,10 @@
 # Produceologia
 
-> Laboratorium Maior Negotialis
+> **Laboratorium Maius Productivum et Mercatorum**: Characterize productive systems, design convergence plans with the most sophisticated productive systems, and experiment with new forms of production and business at the frontier.
 
-![image](img/logo.png)
+> Nuevas formas de hacer, mejores formas de producir.
+
+![Produceologia](img/logo.png)
 
 ## Linux: Build & Run
 
