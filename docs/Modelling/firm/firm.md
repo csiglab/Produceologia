@@ -132,6 +132,95 @@ QA:
 - Financial Risks: Risks related to financial stability (e.g., currency fluctuations, credit risks).
 - Compliance Risks:  Risks related to legal and regulatory compliance.
 
+## Conceptual Model
+
+| Concept | Description |
+| --- | --- |
+| Strategic Planning | The process of defining strategy and making decisions on allocating resources. |
+| Organizational Structure | The system outlines how activities are directed to achieve goals. |
+| Leadership | The ability to guide individuals or groups toward achieving organizational goals. |
+| Financial Management | The planning, directing, monitoring, organizing, and controlling financial resources. |
+| Operations Management | Overseeing, designing, and controlling production processes and business operations. |
+| Human Resources Management | Managing the employee lifecycle, including hiring, training, and development. |
+| Change Management | Approaches to prepare, support, and help individuals make organizational change. |
+| Risk Management | Identifying, assessing, and controlling threats to an organization's capital and earnings. |
+| Marketing Management | Promoting and selling products or services, including market research and advertising. |
+| Customer Relationship Management | Managing interactions with potential and current customers to improve business relationships. |
+| Innovation Management | The process of managing ideas from inception through to market introduction. |
+| Compliance and Ethics | Adhering to laws, regulations, and ethical standards in business practices. |
+
+## Taxonomy of Models
+
+> Here's a basic table layout that categorizes some common models used to analyze enterprise output:
+> 
+
+| Model Type | Focus Area | Data Type | Intended Outcome |
+| --- | --- | --- | --- |
+| Financial Analysis Models | Financial health and stability | Financial data | Profitability, liquidity, solvency |
+| Operational Analysis Models | Efficiency of operations | Operational metrics | Process improvement, cost reduction |
+| Strategic Analysis Models | Long-term strategic positioning | Market data | Competitive advantage, market position |
+| Human Resource Models | Employee performance | HR metrics | Employee productivity, retention strategies |
+| Customer Analysis Models | Customer behavior and trends | Customer data | Customer satisfaction, loyalty improvement |
+| Supply Chain Models | Supply chain efficiency | Supply chain metrics | Supply chain optimization, risk management |
+| IT Systems Analysis Models | Technology infrastructure | IT performance data | System performance, upgrade and maintenance needs |
+| Organization Models | … | … | … |
+| Business Model | … | … | … |
+| Risk Models | **Risk Assessment Matrix**: Identifies and assesses risks and their potential impacts. - **Bowtie Analysis**: Visualizes the causes, consequences, and controls of potential risks. |  |  |
+| Cost Models | **Activity-Based Costing (ABC)**: Allocates costs to activities and products/services based on their consumption. - **Total Cost of Ownership (TCO)**: Calculates the full cost of owning and operating assets. |  |  |
+| Value Chain Models | **Porter’s Value Chain** analyzes an organization’s activities to identify sources of competitive advantage. **SCOR (Supply Chain Operations Reference)** is a framework for analyzing and improving supply chain processes. |  |  |
+| Capability Models | **Capability Maturity Model (CMM)**: Evaluates and improves the maturity level of an organization’s processes. - **Business Capability Model**: Represents an organization’s core capabilities and how they align with its objectives. |  |  |
+| Models of Competitiveness | … | … | .. |
+
+## Strategic Analysis Models
+
+> **OKR (Objectives and Key Results)**: Aligns and tracks organizational objectives and outcomes to drive strategy execution and improve performance.
+> 
+
+> …
+> 
+
+Strategic analysis models are essential tools enterprises use to evaluate their competitive environment, internal capabilities, and strategic options. Here's a table that outlines some of the most commonly used strategic analysis models, along with a brief description of each and their typical applications:
+
+| Model Name | Description | Typical Application |
+| --- | --- | --- |
+| SWOT Analysis | Analyze strengths, weaknesses, opportunities, and threats. | They are used to assess internal and external factors affecting a company. |
+| PESTEL Analysis | Examines Political, Economic, Social, Technological, Environmental, and Legal factors. | It helps understand the broader macro-environmental factors. |
+| Porter's Five Forces | Analyzes competitive forces, including supplier power, buyer power, competitive rivalry, the threat of substitution, and the threat of new entrants. | They are used to analyze industry structure and profitability potential. |
+| BCG Matrix | Categorizes business units or products into four categories: Stars, Cash Cows, Question Marks, and Dogs. | It helps allocate resources among different business units or products. |
+| Ansoff Matrix | Analyzes growth strategies through market penetration, market development, product development, and diversification. | They are used for planning strategic growth. |
+| Value Chain Analysis | Examines the activities that create value in the business. | Identifies critical activities that can create a competitive advantage. |
+| Balanced Scorecard | Measures organizational performance from a balanced financial, customer, internal processes, and learning and growth perspective. | They are used to align business activities to the vision and strategy of the organization. |
+| Scenario Planning | Develops detailed and plausible views of possible futures to aid strategic decision-making. | It helps in preparing for future uncertainties and opportunities. |
+| Blue Ocean Strategy | Focuses on creating new market spaces (blue oceans) rather than competing in existing markets. | They are used for discovering new growth areas free from intense competition. |
+| **Change Management Models** |  (e.g., ADKAR, Lewin’s Change Model) - Guide the organizational change process by identifying stages and strategies to facilitate successful transitions. |  |
+| **PESTLE Analysis** | Analyzes external factors that impact the enterprise, including political, economic, social, technological, legal, and environmental aspects. |  |
+| **Gap Analysis** | Compares current performance with desired goals to identify the gaps and plan necessary actions for improvement. |  |
+| **Risk Assessment Models** | **Risk Assessment Models** (e.g., Risk Matrix, Risk Priority Number (RPN)) - Evaluate and prioritize risks based on likelihood and impact to develop risk mitigation strategies. |  |
+| **Balanced Scorecard** | **Balanced Scorecard**: This scorecard aligns business activities with the organization's vision and strategy, measuring performance across financial and non-financial perspectives. |  |
+
+## Firm Phenomena
+
+| **Phenomenon** | **Model/Theory** | **Description** |
+| --- | --- | --- |
+| **Profit Maximization** | Neoclassical Theory of the Firm | Firms aim to maximize profits by equating marginal cost to marginal revenue. |
+| **Production Decisions** | Production Function | Describes the relationship between inputs and outputs, showing how firms transform inputs into outputs efficiently. |
+| **Cost Structures** | Cost Functions | Analyzes how costs change with varying levels of output, including fixed, variable, and marginal costs. |
+| **Market Structure** | Perfect Competition, Monopoly, Oligopoly, Monopolistic Competition | Different market structures explain firm behavior in various competitive environments. |
+| **Price Setting** | Price Theory | Examines how firms set prices for their goods and services based on demand, cost, and competition. |
+| **Firm Size and Growth** | Growth Theory | This section explains the factors influencing the size of firms and their growth over time, including economies of scale and scope. |
+| **Transaction Costs** | Transaction Cost Economics | Focuses on the costs of exchanging goods or services, which affect firm boundaries and market interactions. |
+| **Vertical Integration** | Vertical Integration Theory | Describes why firms might integrate vertically to control more stages of production or distribution to reduce transaction costs and increase efficiency. |
+| **Agency Problems** | Principal-Agent Theory | This course addresses conflicts of interest between owners (principals) and managers (agents) and how contracts and incentives can align their interests. |
+| **Information Asymmetry** | Information Economics | Studies the impact of asymmetric information between buyers and sellers on market outcomes, including adverse selection and moral hazard. |
+| **Innovation and R&D** | Innovation Theory | Examines how firms invest in research and development (R&D) to innovate and maintain competitive advantage. |
+| **Entrepreneurship** | Entrepreneurship Theory | Explores the role of entrepreneurs in the creation, management, and growth of firms, including risk-taking and innovation. |
+| **Market Power** | Monopoly and Oligopoly Theories | Analyzes how firms with market power can influence prices, outputs, and overall market conditions. |
+| **Mergers and Acquisitions** | Merger and Acquisition Theories | Studies the reasons behind mergers and acquisitions, including synergies, market share expansion, and diversification. |
+| **Corporate Governance** | Corporate Governance Theory | Investigates the systems, rules, and processes by which firms are directed and controlled, focusing on the roles of stakeholders, including shareholders. |
+| **Firm Boundaries** | Boundary of the Firm Theory | Determines the optimal boundaries of the firm, considering the trade-offs between integration and outsourcing. |
+| **Strategic Behavior** | Game Theory | Uses strategic interaction models to predict firm behavior in competitive situations, including pricing, output decisions, and market entry. |
+| **Industrial Organization** | Industrial Organization Theory | Studies the structure of and boundaries between firms and markets and the interactions of firms within an industry. |
+
 ## Enterprise Organization Models
 
 > We can categorize these models based on their primary structural approach and key characteristics to provide a useful overview of **Enterprise Organization Models**
@@ -172,6 +261,35 @@ QA:
 | Financial Forecasting | Predicting future financial outcomes based on historical and current data. |
 | Tax Planning | Strategies to manage tax liabilities effectively. |
 | Risk Management | Identifying and mitigating financial risks that could impact the business. |
+
+## Firm Metrics
+
+## Firm Metrics
+
+> …
+> 
+
+| **Metric** | **Description** | **Formula/Calculation** | **Usage/Application** |
+| --- | --- | --- | --- |
+| **Total Factor Productivity (TFP)** | Measures efficiency by comparing output to combined inputs (labor, capital, etc.). | TFP = Output / (Weighted Inputs) | Assesses overall productivity; common in cross-industry comparisons. |
+| **Labor Productivity** | Output per unit of labor input, typically measured as output per worker or hour worked. | Labor Productivity = Output / Labor Input | Used to compare efficiency across firms or sectors. |
+| **Capital Productivity** | Measures output relative to capital input, reflecting efficiency of capital usage. | Capital Productivity = Output / Capital Input | Useful in capital-intensive industries. |
+| **Return on Assets (ROA)** | Indicates how efficiently assets are used to generate profit. | ROA = Net Income / Total Assets | Assesses asset utilization efficiency; key in performance benchmarking. |
+| **Revenue per Employee** | Calculates the revenue generated per employee, reflecting labor efficiency. | Revenue per Employee = Total Revenue / Number of Employees | Highlights productivity on a per-employee basis. |
+| **Cost per Unit** | Average cost of producing a single unit, reflecting cost efficiency. | Cost per Unit = Total Costs / Total Output | Used to assess cost management and pricing strategies. |
+| **Inventory Turnover Ratio** | Shows how often inventory is sold and replaced over a period, reflecting operational efficiency. | Inventory Turnover = Cost of Goods Sold / Average Inventory | Helps optimize inventory levels and supply chain efficiency. |
+| **Gross Margin** | Measures the percentage of revenue remaining after cost of goods sold, showing production efficiency. | Gross Margin = (Revenue - COGS) / Revenue | Evaluates efficiency in production and pricing. |
+| **Operating Margin** | Reflects efficiency of core business operations, excluding non-operational items. | Operating Margin = Operating Income / Revenue | Used for comparing core operational efficiency. |
+| **Capacity Utilization** | Indicates the extent to which a firm uses its productive capacity. | Capacity Utilization = (Actual Output / Potential Output) * 100% | Measures efficiency in resource utilization. |
+| **Minimum efficient scale (MES)** | … | .. | .. |
+| **Fixed cost** | … | … |  |
+| **Marginal cost** | … | … | … |
+| **Earnings Before Interest, Taxes, Depreciation, and Amortization (EBITDA)** | Shows operating performance by removing effects of non-operational costs. |  |  |
+| **Customer Acquisition Cost (CAC)** | Cost associated with acquiring a new customer, reflecting marketing efficiency. |  |  |
+| **Customer Lifetime Value (CLTV)** | Expected total revenue from a customer over their relationship with the business. |  |  |
+| **Market Share** | Percentage of total market revenue or volume captured by the enterprise. |  |  |
+| **Proportion of Value Capture Along the Value Chain** | This term emphasizes the share or portion of total value that a firm retains at each stage of the value chain.  It considers the **distribution of captured value** across different activities or stakeholders, assessing how much value is kept by each stage versus how much is passed to other stages (e.g., suppliers, distributors). |  |  |
+| Value Added | "Value added" refers to the **additional worth** created at each stage of the production or service process, calculated by subtracting input costs from the final product’s selling price.  It measures the **direct contribution** of each stage to the final product or service, highlighting the economic value generated by the firm or process.  |  |  |
 
 ## References
 

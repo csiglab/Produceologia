@@ -1,3 +1,0 @@
-
-- https://payproglobal.com/
-- ...

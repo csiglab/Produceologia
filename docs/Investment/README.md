@@ -137,3 +137,4 @@ Tags: Investment
 - https://www.youtube.com/watch?v=GmW71-3_ONc
 - https://www.youtube.com/watch?v=ongFIXpx0wo
 - https://en.wikipedia.org/wiki/Carry_(investment)
+- https://en.wikipedia.org/wiki/Valuation_(finance)

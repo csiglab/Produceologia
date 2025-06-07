@@ -39,7 +39,24 @@ Tags: Business, Laboratory
 | **Technology Integration** | Data-Driven Models | Rely heavily on analytics and big data. | AI-driven recommendations, predictive analytics | Make informed, proactive decisions. |
 |  | Platform-Based Models | Create ecosystems that facilitate interactions. | App stores, marketplaces | Enable multiple value exchanges. |
 
----
+## Business Model
+
+Business models in enterprises describe the fundamental ways in which organizations create, deliver, and capture value. Here's a table that provides an overview of various enterprise business models, highlighting their core concepts and how they generally operate:
+
+| Business Model | Core Concept | Description |
+| --- | --- | --- |
+| B2B (Business-to-Business) | Selling products or services to other businesses | Focuses on the needs of other businesses as customers, often involving larger deals and longer sales cycles. |
+| B2C (Business-to-Consumer) | Selling products or services directly to consumers | Targets individual consumers, emphasizing marketing and customer service. |
+| Subscription | Recurring revenue through periodic payments | Customers pay a recurring fee to access products or services, ensuring steady revenue over time. |
+| Freemium | Basic services for free, premium for a fee | Attracts a large user base with free services, while charging for advanced features. |
+| Franchise | Expansion through licensed replication | Allows individuals to operate a branded business using the parent company’s business model and brand. |
+| Direct Sales | Selling directly to the end user without intermediaries | Increases margins by cutting out the middleman, often facilitated by online platforms. |
+| Advertising | Revenue generated from advertising | Free access to products/services but includes advertising revenue from third parties. |
+| Marketplace | Facilitates transactions between buyers and sellers | Operates a platform where third-party sellers can transact with buyers, earning a fee per transaction. |
+| Licensing | Permission to use intellectual property | Companies earn royalties from allowing others to use their patented or copyrighted materials. |
+| E-commerce | Online retailing | Selling goods and services through the internet, reaching a broad audience with relatively low overhead. |
+| Affiliate | Commission-based promotion | Affiliates earn commissions by promoting other companies' products or services. |
+
 
 ### **Purpose of the Taxonomy**
 
