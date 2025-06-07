@@ -107,3 +107,8 @@ Here’s a table summarizing **Service Classification Schemas** used globally fo
 
 - United Nations Comtrade Database
 - [International Trade Data (SITC, Rev. 2)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/H8SFD2)
+
+- https://www.census.gov/naics/
+    - https://www.census.gov/naics/?48967
+    -  I did not find a page with a simple search and visualization tool for this.
+    - Only xlsx and pdf files.
