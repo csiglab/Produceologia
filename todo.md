@@ -9,3 +9,5 @@
 - https://clinicaltrials.gov/
 - https://www.fda.gov/drugs/development-approval-process-drugs/drug-approvals-and-databases
 - https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/rl.cfm
+- https://envistaco.com/en
+- Zhiyuan Robotics -> Strategy Of Investment in the Supply Chain

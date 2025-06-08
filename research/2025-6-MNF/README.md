@@ -32,3 +32,4 @@
 - https://stocknewsapi.com/
 - https://www.marketaux.com/
 - https://www.lseg.com/en/data-analytics
+- https://www.businesswire.com/
