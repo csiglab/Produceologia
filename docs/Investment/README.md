@@ -45,7 +45,6 @@ Tags: Investment
 ## Investment Strategies
 
 > Here's a table summarizing different types of investment models, outlining their approach, key features, and typical uses:
-> 
 
 | **Investment Strategy** | **Approach** | **Key Features** | **Typical Uses** |
 | --- | --- | --- | --- |
@@ -121,7 +120,6 @@ Tags: Investment
 ## Conceptual Model
 
 > …
-> 
 
 [Conceptual Model: Finance](Investment%2017ac0f5171ec813e852ddbadbbc2af82/Conceptual%20Model%20Finance%2017ac0f5171ec81d0a3cbfc066948aa59.csv)
 
@@ -138,3 +136,8 @@ Tags: Investment
 - https://www.youtube.com/watch?v=ongFIXpx0wo
 - https://en.wikipedia.org/wiki/Carry_(investment)
 - https://en.wikipedia.org/wiki/Valuation_(finance)
+
+
+- [From pharma to AGI hype, and developing AI in finance: Martin Shkreli’s journey](https://www.youtube.com/watch?v=IzDEfkRFKmI)
+- [Martin Shkreli Explains Why Value Investing In Tech Stocks Don't Work](https://www.youtube.com/watch?v=IzDEfkRFKmI)
+- []()
