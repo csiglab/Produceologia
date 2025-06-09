@@ -11,3 +11,8 @@
 - https://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfrl/rl.cfm
 - https://envistaco.com/en
 - Zhiyuan Robotics -> Strategy Of Investment in the Supply Chain
+- https://en.wikipedia.org/wiki/Short_(finance)
+- How to think deeply abou the value of share?
+- https://en.wikipedia.org/wiki/Short_(finance)
+- https://www.deshawresearch.com/
+- ...
