@@ -5,10 +5,10 @@ Related Conceptual Model: Enterprise: Eurodollar System (Eurodollar%20System%201
 Tags: Investment
 
 > …
-> 
+>
 
 > Carry: …
-> 
+>
 
 ## Investment Instruments
 
@@ -16,7 +16,7 @@ Tags: Investment
 > 
 
 > …
-> 
+>
 
 | **Category** | **Instrument** | **Description** | **Examples of Use** |
 | --- | --- | --- | --- |
@@ -122,6 +122,17 @@ Tags: Investment
 > …
 
 [Conceptual Model: Finance](Investment%2017ac0f5171ec813e852ddbadbbc2af82/Conceptual%20Model%20Finance%2017ac0f5171ec81d0a3cbfc066948aa59.csv)
+
+## Bullet Proof Strategy
+
+> Ray Dalio's "All Weather" portfolio is built on four uncorrelated pillars:
+
+-Growth assets (like stocks)
+-Inflation hedges (like commodities)
+-Deflation assets (like long-term bonds)
+-Rising interest rate assets (like inflation-linked bonds)
+
+This balance creates a portfolio that's designed to perform in any economic environment.
 
 ## References
 
