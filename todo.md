@@ -1,6 +1,7 @@
 # TODO'S
 
 - How to find foreing clients?
+- What determines (or influence) the seeling of a stock?
 - How to take the `FORM 10-K` - Business Information and Make Clusters of Companies?
 - How to analyze markets?
 - How to analyze firms?
@@ -51,7 +52,7 @@
    - ...
 - Endesa
 - Enel S.p.A
-
+-
 
 ## Real State Contracts
 
