@@ -49,6 +49,8 @@
 - Micheal Saylor -> https://www.youtube.com/watch?v=7hyoONj4nEY
    - https://www.strategysoftware.com/
    - ...
+- Endesa
+- Enel S.p.A
 
 
 ## Real State Contracts
