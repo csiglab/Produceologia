@@ -4,7 +4,7 @@
 
 > Nuevas formas de hacer, mejores formas de producir.
 
-![Produceologia](img/logo.png)
+![Produceologia Logo](https://raw.githubusercontent.com/csiglab/Meta/refs/heads/main/img/resized/bremontix-laboratorio-procuceologia_256x256.png)
 
 ## Linux: Build & Run
 
