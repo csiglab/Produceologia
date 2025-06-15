@@ -1,4 +1,6 @@
-# Quantitative Analysis (QA)
+# Quantitative Investment (QI)
+
+![quant-trading-iceberg](../../../img/quant-trading-iceberg.png)
 
 Workflow:
 
