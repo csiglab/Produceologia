@@ -52,7 +52,7 @@
    - ...
 - Endesa
 - Enel S.p.A
--
+- Market Research Software: > https://ottogrid.ai/
 
 ## Real State Contracts
 
