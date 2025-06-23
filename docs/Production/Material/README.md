@@ -23,3 +23,4 @@
 - Miller, Mark S., and K. Eric Drexler. "Markets and computation: Agoric open systems." The ecology of computation 1 (1988).
 - Hao, Jun, Zeyu Deng, and Jianping Li. "The evolution of data pricing: From economics to computational intelligence." *Heliyon* 9.9 (2023).
 - Mirowski, Philip. "Markets come to bits: Evolution, computation and markomata in economic science." *Journal of Economic Behavior & Organization* 63.2 (2007): 209-242.
+- [The Material Project](https://next-gen.materialsproject.org/)
