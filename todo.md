@@ -71,3 +71,10 @@
 - Sale-Leaseback with Control Terms
 - https://en.wikipedia.org/wiki/Real_estate_contract
 - https://en.wikipedia.org/wiki/Closing_(real_estate)
+
+## Law
+
+- SAFE (Simple Agreement for Future Equity)
+- Convertible Note
+- Warrant
+   
