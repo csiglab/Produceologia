@@ -27,12 +27,12 @@ You are not just building companies. You are building a **meta-organizational st
 
 ## Goals
 
+- **Environmental Sustainability**: Avoid ecological degradation.
 - **Import Substitution**: Reduce reliance on key imports.
 - **Export Orientation**: Build sectors with high export potential.
 - **Employment Creation**: Enter labor-intensive sectors.
 - **Technological Upgrading**: Foster skills and innovation capacity.
 - **Strategic Autonomy**: Control critical infrastructure and value chains.
-- **Environmental Sustainability**: Avoid ecological degradation.
 
 ## Structure
 
@@ -178,7 +178,17 @@ Trading
 | **Bremontix Academia** | Focuses on education and training programs, offering courses, certifications, and knowledge-sharing initiatives. |
 | **Bremontix Trading** |  |
 
-bandera de ecuador
+## Case Studies
+
+- Tata Group
+- Orkla Group
+- Investor AB
+- Virgin Group
+- Samgumg Group
+- Sumitomo Group
+- Mitsubishi Group
+- Keppel Corporation
+- Corporación Mondragón
 
 ## References
 
