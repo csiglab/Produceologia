@@ -9,6 +9,7 @@
 QA:
 
 - How to diversify?
+- How a firm enters and exit the group?
 - How to integrate employee-led companies?
 - How to decide if an industry / firm should be in the group?
 - How to make sure that this company align fully with the **Country National Development Goals**?
@@ -127,6 +128,7 @@ You are not just building companies. You are building a **meta-organizational st
 | ⚡ **Electrical Equipment**      | **Switches, Breakers & Wiring**    | Components for homes, factories, and infrastructure projects                                |
 |                                 | **Transformers & Power Control**   | Medium-voltage gear and industrial electrification                                          |
 | 🛠 **Repair & Services**        | **Multi-sector Repair Networks**   | National networks for authorized repair of electronics, tools, and transport equipment      |
+| 💱 Trading & Intermediation     | **Domestic & Export Trading**      | Import-export platforms, wholesaling, commodity trading, and value-chain intermediation    |
 
 ## Diversificatoin Model
 
