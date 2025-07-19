@@ -175,3 +175,22 @@ References
 ## References
 
 - historico.dbremont@gmail.com
+- https://www.incar.fi/en/
+- https://meko.com/
+- Inditex
+- Amcor
+- Nestlé
+- Yara International
+- HeidelbergCement
+- Teva Pharmaceuticals
+- First Solar
+- KUKA AG
+- Universal Robots
+- Accenture
+- AP Møller–Maersk
+- Netafim
+- IHS Markit
+- Finlayson Oy
+- Craft Sportswear
+- Arcadia
+-
