@@ -129,6 +129,10 @@ You are not just building companies. You are building a **meta-organizational st
 |                                 | **Transformers & Power Control**   | Medium-voltage gear and industrial electrification                                          |
 | 🛠 **Repair & Services**        | **Multi-sector Repair Networks**   | National networks for authorized repair of electronics, tools, and transport equipment      |
 | 💱 Trading & Intermediation     | **Domestic & Export Trading**      | Import-export platforms, wholesaling, commodity trading, and value-chain intermediation    |
+|🧭 Precision Manufacturing|Watchmaking, Instruments, Optics|...
+|Scientific Instrument|...|...|
+|🌲 Wood & Forestry|...|...|
+|🏨 Tourism & Services|...|..|
 
 ## Diversificatoin Model
 
