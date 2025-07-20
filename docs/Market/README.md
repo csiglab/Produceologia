@@ -99,6 +99,134 @@ Here’s a table summarizing **Service Classification Schemas** used globally fo
 | **Technology Trends Database** | - | Global | Tracks emerging technologies and trends in various industries | Various (e.g., Gartner, CB Insights, Tech Trends) |
 | **Global Innovation Index** | GII | Global | Measures innovation performance and classifies countries/technologies by capability | World Intellectual Property Organization (WIPO) |
 
+## Market
+
+> A market is a complex adaptive system consisting of interacting economic agents (individuals, firms, institutions) who exchange goods, services, or rights through structured and unstructured protocols, where allocation decisions emerge from the decentralized processing of incomplete, local information, and are mediated through price signals, contracts, or other coordination mechanisms.
+
+| Component                 | Technical Description                                                                                                                                             |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Agents**                | Autonomous decision-makers with preferences, constraints, and objectives (e.g. profit maximization, utility maximization).                                        |
+| **Goods/Services**        | Objects of exchange with defined or emergent value (tangible, intangible, digital, financial).                                                                    |
+| **Exchange Rules**        | Legal, algorithmic, or institutional protocols for transactions (e.g. auctions, fixed price, barter).                                                             |
+| **Prices/Signals**        | Encoded information about relative scarcity and desirability, often serving as decentralized coordination tools.                                                  |
+| **Information Asymmetry** | Agents typically have unequal or incomplete knowledge, leading to dynamics like adverse selection or signaling.                                                   |
+| **Institutions**          | Regulatory frameworks or platforms (e.g. clearinghouses, marketplaces, blockchain protocols) that reduce transaction costs, enforce contracts, or shape behavior. |
+| **Dynamics**              | Markets evolve through feedback loops, adaptive expectations, learning, and shocks (e.g., demand surges, policy changes).                                         |
+
+
+| Layer             | Description                                                                      |
+| ----------------- | -------------------------------------------------------------------------------- |
+| **Ontological**   | A distributed mechanism of coordination under scarcity.                          |
+| **Epistemic**     | An information-processing system that aggregates local preferences.              |
+| **Computational** | A decentralized algorithm that converges (or fails to) to efficient allocations. |
+| **Institutional** | Embedded in rules, norms, and platforms that enable or constrain behavior.       |
+| **Evolutionary**  | Adaptive over time through innovation, feedback, and systemic shocks.            |
+
+
+**🔁 Market as a Distributed Algorithm**
+
+From a computational or systems-theoretic lens:
+- A market computes an allocation of resources given local inputs and decentralized decision-making.
+- In general equilibrium theory, markets are modeled as systems solving a set of interdependent nonlinear equations, where supply equals demand across all goods.
+- In mechanism design, markets are constructed to incentivize truthful revelation of preferences under constraints (e.g., Vickrey-Clarke-Groves auctions).
+
+### Taxonomy
+
+> Veblen Goods Theory
+
+> Conspicuous Consumption (Thorstein Veblen)
+
+> Functional vs Expressive Consumption
+
+> Maslow's Hierarchy of Needs
+
+
+- Digital vs Physical: Online marketplaces vs brick-and-mortar.
+
+- Centralized vs Decentralized: Exchange-based vs peer-to-peer (e.g., blockchain DEXs).
+
+- Single-sided vs Two-sided: One type of agent vs platforms connecting buyers and sellers.
+
+- Commodity vs Differentiated Goods: Fungible vs unique.
+
+- Utility vs Non-Utility vs  Hybrid Products: Utility + Symbolism
+
+
+| **Category**                       | **Subtypes & Description**                                                                 |
+| ---------------------------------- | ----------------------------------------------------------------------------------------- |
+| **1. By Structure & Organization** |                                                                                           |
+| - **Perfect Competition**          | Many buyers/sellers, homogeneous goods, free entry/exit, perfect info, price takers.      |
+| - **Monopolistic Competition**     | Many sellers, differentiated products, some pricing power.                                |
+| - **Oligopoly**                    | Few sellers, interdependent pricing, strategic behavior (e.g., airlines).                 |
+| - **Monopoly**                     | Single seller controls supply, sets price, high entry barriers.                           |
+| - **Monopsony**                    | Single buyer dominates the market (e.g., labor market in a company town).                 |
+| - **Bilateral Monopoly**           | One buyer and one seller negotiate terms (rare, e.g., unique supplier).                   |
+| **2. By Regulation & Legality**    |                                                                                           |
+| - **Formal/Regulated Markets**     | Legal frameworks, regulated exchanges (e.g., NYSE, commodity futures).                    |
+| - **Informal Markets**             | Little or no regulation, common in developing economies (e.g., street vendors).           |
+| - **Black Markets**                | Illegal goods/services exchanged (e.g., drugs, counterfeit goods).                       |
+| - **Gray Markets**                 | Legal goods sold through unauthorized channels (e.g., parallel imports).                  |
+| **3. By Goods/Services Exchanged** |                                                                                           |
+| - **Commodity Markets**            | Standardized, fungible goods (oil, wheat, gold).                                          |
+| - **Financial Markets**            | Stocks, bonds, derivatives, forex.                                                       |
+| - **Labor Markets**                | Employment and human capital allocation.                                                  |
+| - **Product Markets**              | Consumer goods and services (electronics, apparel).                                       |
+| - **Service Markets**              | Intangible services (consulting, healthcare).                                            |
+| - **Intellectual Property Markets**| Patents, copyrights, licenses.                                                           |
+| **4. By Market Mechanism**         |                                                                                           |
+| - **Auction Markets**              | Goods sold to highest bidder (English, Dutch, sealed bid).                                |
+| - **Brokered Markets**             | Intermediaries facilitate matching (real estate, stock brokers).                         |
+| - **Dealer Markets**               | Dealers hold inventories and set bid/ask spreads (OTC trading).                           |
+| - **Electronic/Algorithmic Markets**| Automated platforms (cryptocurrency exchanges, ad auctions).                             |
+| - **Bilateral Negotiation Markets**| Prices determined by direct negotiation (B2B contracts).                                 |
+| **5. By Degree of Competition**    |                                                                                           |
+| - **Perfectly Competitive**        | No individual influence on price.                                                         |
+| - **Monopolistic/Imperfect**       | Some control over price or product differentiation.                                       |
+| - **Oligopolistic**                | Limited sellers with significant pricing power.                                           |
+| **6. By Geographical Scope**       |                                                                                           |
+| - **Local Markets**                | Limited geographic reach (farmers markets, local services).                               |
+| - **Regional Markets**             | Cover a state, province, or multi-city area.                                              |
+| - **National Markets**             | Entire country (national stock exchanges).                                                |
+| - **Global/International Markets** | Cross-border trade, currency exchange, global commodities.                               |
+| **7. By Temporal Structure**       |                                                                                           |
+| - **Spot Markets**                 | Immediate delivery and payment (commodity spot prices).                                   |
+| - **Futures/Forward Markets**      | Contracts for delivery/payment at future date.                                            |
+| - **Options Markets**              | Rights but not obligations to buy/sell at set price/time.                                |
+| **8. By Transparency**             |                                                                                           |
+| - **Open/Public Markets**          | Transparent pricing (stock exchanges).                                                    |
+| - **Closed/Private Markets**       | Restricted participants (private equity).                                                 |
+| - **Dark Pools**                   | Non-transparent order books (institutional investors).                                    |
+
+## Modelling Tools
+
+| Tool                         | Use in Luxury Modeling                                               |
+| ---------------------------- | -------------------------------------------------------------------- |
+| **Game theory**              | To model **status competition** among consumers                      |
+| **Behavioral economics**     | To include **aspiration, mimicry, envy**                             |
+| **Positional externalities** | To model **status as a zero-sum game**                               |
+| **Discrete choice models**   | To estimate consumer preferences for luxury vs functional attributes |
+
+
+## Model Type
+
+| Model Type                | Key Feature                      | Use Case                      |
+| ------------------------- | -------------------------------- | ----------------------------- |
+| Perfect Competition       | Price-taking agents              | Commodity markets             |
+| Monopoly                  | One seller with market power     | Patents, utilities            |
+| Oligopoly (Cournot, etc.) | Strategic interaction            | Telecom, airlines             |
+| Two-Sided Market          | Platforms, cross-network effects | Uber, app stores              |
+| Auction                   | Price via bidding                | Ads, government assets        |
+| Matching Market           | No money; stable matches         | Labor, education, kidney swap |
+| Asymmetric Info           | Hidden quality/action            | Insurance, credit             |
+| General Equilibrium       | Multi-market optimization        | Policy, theoretical economics |
+| Search Market             | Frictions in finding partners    | Labor, dating apps            |
+| Behavioral                | Cognitive biases and heuristics  | Consumer behavior, luxury     |
+
+
+## Supply and Demand
+
+> Does **luxury markets**; follow the supply and demand model?
+
 ## References
 
 - https://www.mapa.gob.es/es/alimentacion/temas/control-calidad/

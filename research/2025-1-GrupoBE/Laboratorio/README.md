@@ -4,6 +4,16 @@
 
 > csiglab@gmail.com
 
+> Open Problem Solving:
+
+- Like : https://contest.com/
+- https://www.kaggle.com/
+- https://99designs.com/
+- https://devpost.com/
+- https://www.challenge.gov/
+- https://www.herox.com/\
+- https://www.upwork.com/services/
+
 ## Laboratorium Arbitri
 
 ## Laboratorium Personale
