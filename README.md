@@ -29,4 +29,4 @@ find . -type f -not -path './env/**' -not -path  './.*' | shuf -n 1
 
 ## References
 
-- [Bremontix Empreseria: A Vision for a Business Group](https://www.notion.so/Bremontix-Empreseria-A-Vision-for-a-Business-Group-17dd38c7497c80c6ae3cc59eb66fcab2?source=copy_link)
+- [Bremontix Empreseria: A Vision for a Business Group](https://windy-parent-de9.notion.site/Bremontix-Empreseria-A-Vision-for-a-Business-Group-234d38c7497c80a282b1c83ace86c35f?source=copy_link)
