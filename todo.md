@@ -1,5 +1,6 @@
 # TODO'S
 
+- How to think deeply on **Bremontix Obras Pias**?
 - How to find foreing clients?
 - What determines (or influence) the seeling of a stock?
 - How to take the `FORM 10-K` - Business Information and Make Clusters of Companies?
