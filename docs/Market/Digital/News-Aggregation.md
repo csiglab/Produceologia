@@ -44,6 +44,30 @@
 | **ReadPartner** | ReadPartner AI | AI-powered media intelligence platform offering news aggregation and analysis.              | Austria/USA     | 2024         |
 | **NewsPlus**    | NewsPlus       | Aggregates global news in multiple languages, focusing on emerging markets.                 | Singapore/India | 2015         |
 
+## Related Markets
+
+| Category                       | Market                             | Description                                                                      | Notes                               |
+| ------------------------------ | ---------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **Content & Media**            | Digital Publishing                 | Online newspapers, magazines, and blogs that generate original content.          | The New York Times, Medium, Vox                |
+|                                | Broadcast & Streaming              | TV, radio, and streaming platforms that produce news content.                    | CNN, BBC, YouTube News                         |
+| **Information Retrieval**      | Search Engines                     | Platforms indexing content across the web, enabling discovery of news.           | Google Search, Bing                            |
+|                                | Web Crawling & Indexing Tools      | Software frameworks that collect, parse, and index online content.               | Apache Nutch, Scrapy, Heritrix                 |
+| **Content Distribution**       | Social Media Platforms             | Platforms that distribute news through user feeds and sharing.                   | Facebook, X (Twitter), LinkedIn                |
+|                                | Content Syndication                | Services that license or distribute content across multiple platforms.           | Reuters, Associated Press feeds                |
+| **Data & Analytics**           | Data Aggregation & Analytics       | Tools analyzing news trends, sentiment, and reach.                               | Meltwater, Dataminr, NewsWhip                  |
+|                                | Recommendation Systems             | Algorithms suggesting news to users based on behavior and interests.             | Taboola, Outbrain                              |
+| **Cloud & Infrastructure**     | Cloud Hosting & CDN                | Services that host large amounts of content with high availability.              | AWS, Cloudflare, Google Cloud                  |
+|                                | On-premise Data Centers            | Companies building in-house infrastructure to serve content.                     | Enterprises with private news platforms        |
+| **Advertising & Monetization** | Digital Advertising Networks       | Monetization of aggregated content via ads and sponsorships.                     | Google AdSense, Criteo                         |
+|                                | Subscription & Paywalls            | Platforms offering premium news subscriptions.                                   | The Wall Street Journal, Substack              |
+| **Adjacent Tech Markets**      | Natural Language Processing (NLP)  | AI for summarization, classification, sentiment, and entity recognition in news. | OpenAI, Hugging Face, Cohere                   |
+|                                | Machine Learning & AI              | Predictive models for trends, engagement, and personalization.                   | Recommendation engines, trend prediction tools |
+|                                | Push Notifications & Mobile Alerts | Delivery of breaking news through apps and messaging.                            | Apple News, Google News app, Push API tools    |
+
+## Value Analysis
+
+> Does this add value? Would society be better off with it?  What problems does it solve?
+
 ## References
 
 - [News Aggregation](https://en.wikipedia.org/wiki/News_aggregator)
