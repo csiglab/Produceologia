@@ -30,3 +30,5 @@ find . -type f -not -path './env/**' -not -path  './.*' | shuf -n 1
 ## References
 
 - [Bremontix Empreseria: A Vision for a Business Group](https://windy-parent-de9.notion.site/Bremontix-Empreseria-A-Vision-for-a-Business-Group-234d38c7497c80a282b1c83ace86c35f?source=copy_link)
+- [Knowledge graph visualization: A comprehensive guide](https://datavid.com/blog/knowledge-graph-visualization)
+- [Google Trends](https://trends.google.com)
