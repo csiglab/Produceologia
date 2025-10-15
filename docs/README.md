@@ -10,7 +10,8 @@
 * **Service Space** – Design and delivery of services, labor dynamics, and value creation.
 * **Market Space** – Market structures, competition, demand and supply, pricing, and trade flows.
 * **Technology Space** – Tools, processes, and innovations that drive productivity and industrial evolution.
-* **Social Technology** – Institutions, networks, organizational frameworks, and human capital that underpin economic activity.
+* **Production Organization (Organizing Economic Activity)** – How societies apply technology, expertise, and technical resources to produce and deliver goods and services, encompassing individual firms, networks of firms, and other economic agents.
+* **Social Technology**  – Institutions, networks, organizational frameworks, and human capital that underpin economic activity.
 * **Foundations** – Core systems that sustain production: energy, natural resources, and ecological constraints.
 
 ## Praxis
