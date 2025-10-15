@@ -2,9 +2,22 @@ site_name: Bremontix Empreseria
 
 docs_dir: ../docs
 
-# nav:
-#   - Home: docs/Meta/README.md  # This will now be served at /
-#   - About: docs/Meta/Guia-Mayor.md
+theme:
+  name: material
+  logo: logo.png
+  favicon: favicon.ico 
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
 
 extra_javascript:
   # - https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js
