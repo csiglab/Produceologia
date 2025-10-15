@@ -92,6 +92,45 @@
             padding-top: 2rem;
         }
 
+        /* Coat of Arms Styles */
+        .coat-of-arms {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 1.5rem;
+        }
+
+        .coat-image {
+            width: 120px;
+            height: 120px;
+            object-fit: contain;
+            filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2));
+            transition: transform 0.3s ease, filter 0.3s ease;
+            margin-bottom: 0.5rem;
+        }
+
+        .coat-image:hover {
+            transform: scale(1.05);
+            filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.3));
+        }
+
+        body.theme-corporate .coat-image {
+            filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
+        }
+
+        body.theme-corporate .coat-image:hover {
+            filter: drop-shadow(0 6px 12px rgba(0, 0, 0, 0.15));
+        }
+
+        .coat-caption {
+            color: var(--text-medium);
+            font-size: 0.85rem;
+            font-style: italic;
+            opacity: 0.9;
+            max-width: 200px;
+            text-align: center;
+        }
+
         h1 {
             color: var(--text-white);
             font-size: 3.5rem;
@@ -532,6 +571,11 @@
             .firm-card {
                 min-height: 22rem;
             }
+
+            .coat-image {
+                width: 100px;
+                height: 100px;
+            }
         }
 
         @media (max-width: 576px) {
@@ -547,16 +591,28 @@
             .firm-card {
                 min-height: 20rem;
             }
+
+            .coat-image {
+                width: 80px;
+                height: 80px;
+            }
         }
     </style>
 </head>
 
 <body>
     <div class="container">
+        
+        
         <header>
+            <div class="coat-of-arms">
+                <img src="/img/bremontix.png" alt="Bremontix Empreseria Coat of Arms" class="coat-image">
+                <!-- <p class="coat-caption">Symbol of Courage & Authority</p> -->
+            </div>
             <h1>Bremontix Empreseria</h1>
             <p class="subtitle">Conocimiento en acción al servicio del bien común.</p>
         </header>
+
 
         <!-- Theme Switcher -->
         <div class="theme-switcher">
@@ -753,5 +809,4 @@
         }
     </script>
 </body>
-
 </html>
