@@ -1,0 +1,81 @@
+{
+  "firms": [
+    {
+      "id": 1,
+      "name": "Quantum Technologies",
+      "category": "Technology & Innovation",
+      "icon": "fa-microchip",
+      "description": "Leading provider of quantum computing solutions for complex business challenges and scientific research.",
+      "location": "San Francisco",
+      "employees": "2,500+",
+      "revenue": "$850M",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "name": "Global Finance Partners",
+      "category": "Finance",
+      "icon": "fa-chart-pie",
+      "description": "Trusted global asset management firm providing strategic financial planning and secure investment services.",
+      "location": "New York",
+      "employees": "850",
+      "revenue": "$2.1B",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "name": "MediCare Innovations",
+      "category": "Healthcare",
+      "icon": "fa-heartbeat",
+      "description": "Advanced healthcare solutions provider specializing in innovative medical treatments and patient care technologies.",
+      "location": "Boston",
+      "employees": "2,100",
+      "revenue": "$1.8B",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "name": "Precision Manufacturing",
+      "category": "Manufacturing",
+      "icon": "fa-industry",
+      "description": "Industry leader in precision engineering and advanced manufacturing technologies for automotive and aerospace sectors.",
+      "location": "Detroit",
+      "employees": "3,500",
+      "revenue": "$3.2B",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "name": "Elite Retail Group",
+      "category": "Retail",
+      "icon": "fa-shopping-bag",
+      "description": "Premium retail conglomerate offering curated luxury experiences across multiple brands and global markets.",
+      "location": "Chicago",
+      "employees": "5,200",
+      "revenue": "$4.5B",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "name": "Green Energy Solutions",
+      "category": "Sustainability",
+      "icon": "fa-leaf",
+      "description": "Sustainable energy provider developing cutting-edge renewable solutions for a greener future.",
+      "location": "Austin",
+      "employees": "750",
+      "revenue": "$680M",
+      "link": "#"
+    },
+    {
+      "id": 7,
+      "name": "Capital Innovations",
+      "category": "Technology & Innovation",
+      "icon": "fa-code-branch",
+      "description": "A disruptive FinTech firm focused on AI-driven wealth management and blockchain-based security solutions.",
+      "location": "London",
+      "employees": "1,100",
+      "revenue": "$950M",
+      "link": "#"
+    }
+  ]
+}
