@@ -1,22 +1,6 @@
 # Point of Sale (POS)
-
-: 19
-
-> …
-> 
-
 1. Elegant Camera → …
 2. Digital …
-
-![image.png](Point%20of%20Sale%20(POS)%20179c0f5171ec8182849bd218a383affc/image.png)
-
-![image.png](Point%20of%20Sale%20(POS)%20179c0f5171ec8182849bd218a383affc/image%201.png)
-
-![image.png](Point%20of%20Sale%20(POS)%20179c0f5171ec8182849bd218a383affc/image%202.png)
-
-![image.png](Point%20of%20Sale%20(POS)%20179c0f5171ec8182849bd218a383affc/image%203.png)
-
-![image.png](Point%20of%20Sale%20(POS)%20179c0f5171ec8182849bd218a383affc/image%204.png)
 
 ## References
 
