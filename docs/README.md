@@ -23,6 +23,7 @@
 
 ## Index
 
+* **Activity**: The domain of **productive action**—the concrete realization of economic life through coordinated processes of transformation aimed at producing specific goods and services.
 * **Bremontix**:  A glimpse into the materialization of many ideas discussed here, exemplified by **Bremontix Empreseria**.
 * **Breviarium** – A compact compendium of key concepts, definitions, and principles in produciologia, serving as a reference handbook.
 * **Catalog** – An organized repository of products, services, technologies, and organizational practices relevant to production and exchange.
