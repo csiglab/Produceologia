@@ -1,4 +1,4 @@
-# Strategy
+# Business Strategy
 
 : 8
 Related Conceptual Model: Enterprise: Corporate Strategy (Corporate%20Strategy%2017bc0f5171ec80409f75d42b8dbbac8b.md), Enterprise (Enterprise%2017ac0f5171ec81509a3ec53fc11ed75e.md)

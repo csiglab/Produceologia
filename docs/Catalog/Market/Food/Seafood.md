@@ -1,7 +1,6 @@
 # Seafood
 
-Tags: Food
-: 7
+> Tags: Food
 
 Seafood production involves various models and methods, including wild capture fisheries and aquaculture. Here are the main seafood production models:
 
@@ -111,4 +110,6 @@ These models contribute to aquaculture's sustainable development and management 
 ## References
 
 - [Seafood](https://en.wikipedia.org/wiki/Seafood)
-- …
+- https://en.wikipedia.org/wiki/Fish_farming
+- https://en.wikipedia.org/wiki/Fish
+- https://en.wikipedia.org/wiki/Aquaculture

@@ -1,4 +1,4 @@
-#  Human Resources (HR)
+# Human Resources (HR)
 
 > Human Resources (HR) seems like a horrible name; humans are not a resource.
 > 

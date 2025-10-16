@@ -1,4 +1,8 @@
-# Good Nomenclature System
+# Product
+
+> ...
+
+## Good Nomenclature System
 
 > A **good nomenclature system** is a structured and consistent method of naming that ensures clarity, precision, and universality across a specific domain of knowledge or practice.
 
@@ -31,6 +35,7 @@
 
 ## References
 
-- HS Code (Harmonized System Code)
-- https://www.wcoomd.org/en/topics/nomenclature/instrument-and-tools/hs-nomenclature-2022-edition/hs-nomenclature-2022-edition.aspx
-- https://en.wikipedia.org/wiki/Harmonized_System
+- [Harmonized System (HS)](https://en.wikipedia.org/wiki/Harmonized_System)
+- [Product](https://en.wikipedia.org/wiki/Product_(business))
+- [Global Industry Classification Standard (GICS)](https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard)
+- [Standard Industrial Classification (SIC) Code List](https://www.sec.gov/search-filings/standard-industrial-classification-sic-code-list)
