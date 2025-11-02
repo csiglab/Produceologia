@@ -181,3 +181,4 @@ Here's a **table of evaluation metrics** to assess the performance of a Mini-Mar
 
 - https://en.wikipedia.org/wiki/Business_plan
 - https://en.wikipedia.org/wiki/Strategic_management
+- [Accounting](https://righteous-guardian-68f.notion.site/Accounting-179c0f5171ec8143b0d1eacbcd07683b?source=copy_link)
