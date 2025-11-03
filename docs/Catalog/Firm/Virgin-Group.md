@@ -5,4 +5,4 @@
 ## References
 
 - [Virgin Group](https://en.wikipedia.org/wiki/Virgin_Group)
-- [Virgin corporate strategy, Case Study](https://robabdul.com/business/virgin-corporate-strategy-case-study-article-this-report-closely-examines-the-virgin-groups-corporate-rationale/)
+- [Virgin Corporate Strategy, Case Study](https://robabdul.com/business/virgin-corporate-strategy-case-study-article-this-report-closely-examines-the-virgin-groups-corporate-rationale/)
