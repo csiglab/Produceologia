@@ -2,6 +2,9 @@
 
 >  Grupo: Bremontix Nutrimento.
 
+Bremontix Index: ...
+Marca (Nombe Comecial) : ...
+
 > **Commercialization**: Fruit Shop, Butcher Shop, Fish Market, Vegetable Shop, Groceries, Spices.
 > 
 
@@ -26,16 +29,13 @@ TODOS:
 ## Products & Services
 
 > …
-> 
-
-[CAISE Mercado: Products Catalog](https://www.notion.so/17dd38c7497c8099a088e4410c881cb4?pvs=21)
 
 ## Services
 
 > …
-> 
-- Delivery or pickup services
-- Loyalty programs or discounts for repeat customers
+
+- Delivery or Pickup Services
+- Loyalty Programs or Discounts for Repeat Customers
 
 ## Employments
 
