@@ -1,26 +1,26 @@
-    #!/usr/bin/env bash
+#!/usr/bin/env bash
 
-    echo "Building the project..."
+echo "Building the project..."
 
-    ## Set up the environment
-    if [ ! -d ".venv" ]; then
-        uv init .venv
-        source .venv/bin/activate
-        uv add -r requirements.txt
-    fi
-
-    ## Activate the virtual environment
+## Set up the environment
+if [ ! -d ".venv" ]; then
+    uv init .venv
     source .venv/bin/activate
+    uv sync
+fi
 
-    ## Updating Repository
-    git pull origin main
+## Activate the virtual environment
+source .venv/bin/activate
 
-    # Build the project
-    cd web
-    mkdocs build
-    cd ..
+## Updating Repository
+git pull origin main
 
-    ## Deactivate the virtual environment
-    deactivate
-    echo "Build complete."
-    exit 0
+# Build the project
+cd web
+mkdocs build
+cd ..
+
+## Deactivate the virtual environment
+deactivate
+echo "Build complete."
+exit 0
