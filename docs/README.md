@@ -1,39 +1,46 @@
 # Guide
 
-> Welcome to **Laboratorium Productivum et Mercatorum (Produciologia)**: a space to study the economy in depth—its technologies, production systems, markets, and people—with the goal of designing systems of production, distribution, and exchange that enhance human well-being while ensuring long-term economic sustainability.
+> Welcome to **Laboratorium Productivum et Mercatorum (Produciologia)** — a research space dedicated to the in-depth study of the economy: its technologies, productive systems, markets, and human actors.
+
+> Its mission is to **design and analyze systems of production, distribution, and exchange** that enhance human well-being, strengthen productive capabilities, and ensure the long-term sustainability of economic life.
 
 ## Research Domain
 
-> Understanding the spheres of production and exchange.
+> Systematic study and design of how societies **produce, exchange, generate technology, and evolve their productive structures**, integrating material, technological and  organizational dimensions.
 
-* **Product Space** – Goods, manufacturing processes, innovation, and supply chains.
-* **Service Space** – Design and delivery of services, labor dynamics, and value creation.
-* **Technology Space** – Tools, processes, and innovations that drive productivity and industrial evolution.
-* **Production Organization (Organizing Economic Activity)** – How societies apply technology, expertise, and technical resources to produce and deliver goods and services, encompassing individual firms, networks of firms, and other economic agents.
-* **Social Technology**  – Institutions, networks, organizational frameworks, and human capital that underpin economic activity.
-* **Foundations** – Core systems that sustain production: energy, natural resources, and ecological constraints.
+| **Research Domain**         | **Description**                                                                                                                   | **Guiding Questions**                                                                                                                                                                                                                     |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Product Space**           | Examines *what is produced* and *how productive capabilities evolve* across goods, processes, and value chains.                   | • How do sectors and firms upgrade or diversify production?<br>• What patterns of specialization or dependence emerge in the product space?<br>• How can production networks be restructured for higher value creation?                   |
+| **Service Space**           | Studies the design, delivery, and organization of services as key sources of value creation and employment.                       | • How are services organized and delivered efficiently?<br>• What role do labor, knowledge, and digitalization play in productivity growth?<br>• How do service sectors interact with manufacturing and technology?                       |
+| **Technology Space**        | Investigates the tools, processes, and innovations that enable productivity, transformation, and industrial evolution.            | • How do technologies diffuse and shape production frontiers?<br>• What are the local capabilities and dependencies in critical technologies?<br>• How can technological ecosystems be strengthened and governed effectively?             |
+| **Production Organization** | Analyzes how societies coordinate economic activity — through firms, institutions, and networks — to transform inputs into value. | • How are firms and production networks structured and governed?<br>• What organizational and institutional designs foster innovation and cooperation?<br>• How do human capital and social technologies shape productive efficiency?     |
+| **Foundations**             | Explores the material, energetic, and ecological bases that sustain production and constrain economic evolution.                  | • How do energy systems, resources, and infrastructure enable or limit production?<br>• How can ecological sustainability be integrated into productive systems?<br>• What are the trade-offs between growth, efficiency, and resilience? |
+| **Finance Space**           | Studies the systems that mobilize, allocate, and govern capital for productive and technological transformation.                  | • How do financial structures shape industrial and technological trajectories?<br>• What mechanisms channel savings into productive investment?<br>• How can financial architectures support innovation and long-term development?        |
+| **Organizational Design**   | Studies the internal architecture, coordination, and reflexive systems of firms and institutions.                                 | • How can organizations be designed to balance efficiency, adaptability, and innovation?<br>• What design principles foster learning, coordination, and viability?<br>• How does design interact with workflow, culture, and strategy?    |
 
-## Praxis
 
-> Designing new social structures that support and enhance production systems.
+## Service Domain
 
-* Integrating institutional, technological, and human factors to optimize production and exchange.
-* **Developing** governance frameworks, cooperative structures, and networks that promote efficiency, resilience, and equity.
-* **Translating research** insights into actionable isnights  in the domain of  business strategies and organizational models.
+> What are the services that the Lab Offers?
 
-## Index
-
-* **Activity**: The domain of **productive action**—the concrete realization of economic life through coordinated processes of transformation aimed at producing specific goods and services.
-* **Bremontix**:  A glimpse into the materialization of many ideas discussed here, exemplified by **Bremontix Empreseria**.
-* **Breviarium** – A compact compendium of key concepts, definitions, and principles in produciologia, serving as a reference handbook.
-* **Catalog** – An organized repository of products, services, technologies, and organizational practices relevant to production and exchange.
-* **Foundation**: Core systems, resources, and infrastructures (energy, materials, ecological constraints) that sustain production and economic activity.
-* **Labor**: Human capital, workforce dynamics, skill distribution, and labor relations that drive productivity and value creation.
-* **Production**: Mechanisms, processes, and structures by which goods and services are created, including firms, networks, and technologies.
-* **Toolkit**: Methods, analytical frameworks, instruments, and models for studying, designing, and improving economic and production systems.
-* **Unit**: Agents, organizations, or entities that actively participate in shaping and sustaining the economic sphere of social reality.
+| **Service**                                               | **Description**                                                                                                                                          | **Target(s)**                                                                       |
+| --------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Industrial Intelligence & Mapping**                     | Comprehensive analysis of productive sectors, supply chains, and technological capabilities to identify opportunities for upgrading and diversification. | Government agencies · Investment firms · Industry associations                      |
+| **Technology Foresight & Innovation Strategy**            | Evaluation of emerging technologies, R&D ecosystems, and innovation potential to guide strategic investments and policy priorities.                      | R&D institutions · Industrial clusters · Ministries of Science & Industry           |
+| **Productivity Diagnostics & Firm Capability Assessment** | In-depth analysis of firm-level performance, organizational systems, and productivity bottlenecks.                                                       | Firms · Development banks · Policy design units                                     |
+| **Industrial Policy Design & Evaluation**                 | Co-design and simulation of targeted industrial policies, incentives, and regulatory frameworks.                                                         | Economic planning agencies · Ministries of Economy & Industry                       |
+| **Financial Architecture & Investment Design**            | Structuring of financial instruments and mechanisms to support productive and technological investment.                                                  | Investment funds · Development finance institutions · Central banks                 |
+| **Training & Capability Development**                     | Tailored programs for managers, policymakers, and researchers on production systems, innovation, and policy design.                                      | Firms · Universities · Public institutions                                          |
+| **Data Infrastructure & Observatory Services**            | Creation and maintenance of data systems for continuous monitoring of productive, technological, and financial indicators.                               | Research centers · Public policy units · Economic observatories                     |
+| **Sustainability & Energy Systems Consulting**            | Integration of ecological and energy considerations into industrial and infrastructure planning.                                                         | Energy ministries · Industrial firms · Environmental agencies                       |
+| **Policy Simulation & Systems Modeling**                  | Development of computational and cybernetic models to anticipate policy outcomes and systemic feedback effects.                                          | Governments · Think tanks · Multilateral organizations                              |
+| **Ecosystem Co-Design & Governance Facilitation**         | Design of collaborative frameworks that align research, industry, and government around common development missions.                                     | Innovation ecosystems · Regional development agencies · Private–public partnerships |
 
 ## References
 
 * [Arbitriologia](https://github.com/csiglab/Arbitriologia)
 * [Produceologia](https://github.com/csiglab/Produceologia)
+* [Boston Consulting Group](https://www.bcg.com/)
+* [MIT Industrial Performance Center](https://ipc.mit.edu/)
+* [The Productivity Institute](https://www.productivity.ac.uk/)
+* [Institute for Manufacturing (IfM)](https://www.ifm.eng.cam.ac.uk/)

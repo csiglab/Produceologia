@@ -87,6 +87,12 @@
 * What environmental, sustainability, or social pressures influence production, consumption, or regulation?
 * How do cultural or demographic trends shape demand or product adoption?
 
+## Government Forces
+
+* What government policies, incentives, or regulations affect the industry?
+* How do taxation, subsidies, or trade restrictions influence firm behavior and market structure?
+* Are there upcoming legislative or regulatory changes that could reshape operations, competition, or profitability?
+
 ## References
 
 * [Industry Analysis](../Toolkit/Specific/Industry.md)
