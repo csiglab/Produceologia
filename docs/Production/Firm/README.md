@@ -83,6 +83,8 @@ Using VSM allows the firm to maintain **structural integrity while adapting dyna
 
 > Which techniques can be used to run a firm from (vision - reflection to operations)?
 
+> See more in [🛠️ Generic Toolkit](../Firm/Toolkit/README.md) and [🛠️ Special Toolkit](../Industry/Toolkit/README.md).
+
 | Agential Level | Category                     | Description                                                              | Instance(s)                                                                            |
 | -------------- | ---------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
 | Operation      | **Production**               | Methods for converting inputs into goods or services.                    | Lean manufacturing, Just-in-Time (JIT), Mass production, Modular production            |
@@ -98,6 +100,11 @@ Using VSM allows the firm to maintain **structural integrity while adapting dyna
 | Mechanism      | **Logistics & Distribution** | Techniques for moving products from production to customers efficiently. | Fleet management, Warehousing optimization, Third-party logistics, Route planning      |
 | Framework      | **Legal & Regulatory**       | Techniques to ensure compliance and protect firm interests.              | Contract management, Intellectual property management, Regulatory reporting            |
 
+## Growth
+
+> ...
+
 ## References
 
 * [Firm](https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Unit/Firm/)
+* [The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise](https://www.amazon.com/Alchemy-Growth-Practical-Insights-Enterprise/dp/0738203092)

@@ -1,10 +1,6 @@
 # Customer
 
-: 8
-Tags: Persona
-
 > …
-> 
 
 QA:
 
@@ -22,7 +18,12 @@ QA:
 - How do dynamic pricing strategies affect customer perceptions of fairness and value in the airline industry?
 - How can customer segmentation models be optimized to account for both demographic and psychographic factors in predicting purchasing behavior?
 
+## Price Formation
+
+> also Horrible Called 'Price Discovery'.
+
 ## References
 
-- https://en.wikipedia.org/wiki/Customer
-- https://en.wikipedia.org/wiki/Client_(business)
+- [Customer](https://en.wikipedia.org/wiki/Customer)
+- [Client](https://en.wikipedia.org/wiki/Client_(business))
+- [Price Discovery](https://en.wikipedia.org/wiki/Price_discovery)

@@ -61,3 +61,6 @@ QA:
 * **Tariffs and Quotas**: To protect domestic agriculture from international competition.
 * **Insurance and Credit**: To mitigate risk from crop failure and support investment.
 
+## References
+
+- https://frutasberi.com/productos/
