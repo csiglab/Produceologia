@@ -6,6 +6,8 @@
 
 > "Industry is not a movable object... At its core, it is an organizational and social capacity—and it is this capacity that determines the effectiveness of physical capital." — Lu Feng
 
+> Enterprises have a very deep relationship with suppliers → almost a **symbiotic one**.  So Industrial policy perce - as buy local cannot create an suppliers ecosystem - China was helped by the US in jump-starting there industry.
+
 ## Industry Classification
 
 | **Level** | **Name**             | **Description**                                                                                                                                       |

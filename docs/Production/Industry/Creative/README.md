@@ -61,3 +61,5 @@
 - Müller, Kathrin, Christian Rammer, and Johannes Trüby. "The role of creative industries in industrial innovation." Innovation 11.2 (2009): 148-168.
 - Higgs, Peter, and Stuart Cunningham. "Creative industries mapping: Where have we come from and where are we going?." Creative industries journal 1.1 (2008): 7-30.
 - Potts, Jason. Creative industries and economic evolution. Edward Elgar Publishing, 2011.
+- [Creative industries](https://en.wikipedia.org/wiki/Creative_industries)
+- [Pinewood Group](https://pinewoodgroup.com/)
