@@ -31,4 +31,4 @@
 * [Automobile Manufacturing](https://en.wikipedia.org/wiki/Automobile_manufacturing)
 * [NAICS 336 – Transportation Equipment Manufacturing](https://www.census.gov/naics/)
 * Whitfield, L., & Wuttke, T. (2024). Incumbent Advantage, Barriers to Entry, and Latecomer Catch-up in the Global Automotive Industry.
-* [Car](9https://en.wikipedia.org/wiki/Car)
+* [Car](https://en.wikipedia.org/wiki/Car)
