@@ -59,11 +59,60 @@
 
 ## Product Space
 
-> ...
-
 > See more here [Finance Product Space](../../../Catalog/Service/Finance/README.md).
 
 ## Actor Space
+
+| Actor                           | Description                                                                         | Role                                                                           |
+| ------------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| Pioneer Bank                    | Commercial bank offering retail and corporate banking services                      | Provides deposits, loans, and financial services to individuals and businesses |
+| Development Bank                | Government-backed institution funding economic development projects                 | Finances infrastructure, SMEs, and strategic projects to promote growth        |
+| Central Bank                    | National monetary authority                                                         | Regulates money supply, sets interest rates, ensures financial stability       |
+| Microfinance Institution        | Provides small loans and financial services to underserved populations              | Expands financial inclusion for low-income individuals and communities         |
+| Investment Fund                 | Pool of capital managed professionally for investments                              | Allocates capital to projects, stocks, or bonds to generate returns            |
+| Insurance Company               | Offers risk management products for individuals and businesses                      | Provides coverage against financial losses, promoting economic stability       |
+| Fintech Startup                 | Technology-driven company offering financial products and services                  | Innovates banking, payments, lending, and financial services digitally         |
+| Payment Processor               | Facilitates electronic transactions                                                 | Enables fast, secure payments between consumers, merchants, and banks          |
+| Pension Fund                    | Manages retirement savings for individuals                                          | Invests funds to ensure long-term financial security for retirees              |
+| Credit Rating Agency            | Evaluates the creditworthiness of governments, companies, and financial instruments | Provides ratings that inform investors, lenders, and policymakers about risk   |
+| Hedge Fund                      | Investment fund using advanced strategies to generate returns                       | Pursues high-return investment strategies, often with higher risk exposure     |
+| Venture Capital Firm            | Provides funding to startups and early-stage companies                              | Supports innovation by financing high-growth potential businesses              |
+| Brokerage Firm                  | Facilitates buying and selling of securities                                        | Connects investors to financial markets and provides trading services          |
+| Clearing House                  | Institution that settles trades between financial entities                          | Reduces counterparty risk and ensures smooth operation of financial markets    |
+| Asset Management Firm           | Manages investment portfolios for individuals and institutions                      | Optimizes returns on assets while managing risk                                |
+| Commodity Exchange              | Platform for trading raw materials like metals, energy, and agricultural products   | Provides price discovery, liquidity, and risk management for commodities       |
+| Stock Exchange                  | Organized marketplace for buying and selling equities                               | Facilitates capital raising and liquidity for publicly listed companies        |
+| Mutual Fund                     | Pooled investment fund open to retail investors                                     | Provides diversification and professional management for small investors       |
+| Sovereign Wealth Fund           | State-owned investment fund                                                         | Invests government reserves in global markets for long-term returns            |
+| Corporate Treasury              | Department managing a company’s liquidity and financial risk                        | Ensures operational funding, hedging, and strategic investment                 |
+| Savings & Loan Association      | Institution focused on accepting deposits and providing mortgage loans              | Promotes home ownership and consumer savings                                   |
+| Credit Union                    | Member-owned financial cooperative                                                  | Provides banking services at favorable terms to members                        |
+| Peer-to-Peer Lending Platform   | Online platform connecting borrowers and lenders directly                           | Expands access to credit outside traditional banks                             |
+| Online Bank                     | Digital-only banking service                                                        | Offers banking services via apps/web without physical branches                 |
+| Digital Wallet                  | Mobile or online tool for storing and transacting funds                             | Enables fast, convenient payments and fund transfers                           |
+| Money Transfer Operator         | Facilitates domestic and international remittances                                  | Provides safe and efficient transfer of funds across borders                   |
+| Factoring Company               | Provides financing by purchasing accounts receivable                                | Improves liquidity for businesses by advancing cash on invoices                |
+| Leasing Company                 | Provides assets for lease instead of purchase                                       | Offers businesses access to equipment, vehicles, and machinery                 |
+| Trade Finance Institution       | Provides financing solutions for international trade                                | Facilitates export/import operations and mitigates trade risk                  |
+| Export Credit Agency            | Government-backed agency supporting exporters                                       | Provides financing, insurance, or guarantees to support exports                |
+| Investment Bank                 | Specializes in advisory, underwriting, and market-making                            | Supports capital raising, M&A, and complex financial transactions              |
+| Private Equity Firm             | Invests in private companies with long-term value creation                          | Acquires and restructures companies to generate high returns                   |
+| Structured Finance Provider     | Offers securitization, CLOs, and other structured products                          | Enables capital markets access and risk redistribution                         |
+| Derivatives Exchange            | Platform for trading futures, options, and swaps                                    | Provides risk management and speculation instruments                           |
+| Regulator / Financial Authority | Government body overseeing financial markets and institutions                       | Ensures market integrity, protects consumers, and maintains stability          |
+| Anti-Money Laundering Agency    | Monitors and enforces compliance to prevent illicit financial flows                 | Protects financial system from fraud, terrorism financing, and crime           |
+| Custodian Bank                  | Safeguards financial assets and manages settlements                                 | Ensures security of clients’ investments and facilitates transactions          |
+| Trust Company                   | Manages trusts, estates, and fiduciary services                                     | Administers assets according to legal and fiduciary obligations                |
+| Mortgage Lender                 | Provides loans specifically for real estate purchases                               | Facilitates home ownership by financing residential and commercial property    |
+| Credit Bureau                   | Collects and reports credit history and scoring                                     | Provides lenders with risk assessment and creditworthiness information         |
+| Commodity Trading Firm          | Engages in buying and selling commodities for profit                                | Provides liquidity, hedging, and speculation in commodity markets              |
+| Financial Technology Provider   | Offers software solutions for financial institutions                                | Enhances operations, compliance, analytics, and customer experience            |
+| Regulatory Sandbox              | Framework for testing innovative financial products under supervision               | Promotes safe innovation while monitoring risks                                |
+| Remittance Platform             | Enables global money transfers for individuals                                      | Facilitates low-cost, fast, and secure cross-border payments                   |
+| Digital Asset Exchange          | Platform for trading cryptocurrencies and tokenized assets                          | Provides market infrastructure and liquidity for digital assets                |
+| Crowdfunding Platform           | Online platform for funding projects via small contributions from many users        | Enables capital raising for startups, creative projects, or social causes      |
+|Sector Fund|Investment fund focused on a specific industry or sector|Allocates capital to companies within a target sector, enabling focused growth and returns|
+
 
 ## Structure
 
