@@ -13,5 +13,5 @@
 
 ## References
 
-- [Hey (Email Server)](hey.com)
+<!-- - [Hey (Email Server)](hey.com) -->
 - [How to Write Better Emails at Work](https://hbr.org/2021/08/how-to-write-better-emails-at-work)

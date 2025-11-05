@@ -16,9 +16,9 @@
 - Feedback Life Cycle Models → Tools
 - …
 
-[Meetings Models](Enterprise%20Information%20Flow%20Models%20179c0f5171ec81818061dfabe4fa9391/Meetings%20Models%20179c0f5171ec81228d43d083423dcff0.md)
+<!-- [Meetings Models](Enterprise%20Information%20Flow%20Models%20179c0f5171ec81818061dfabe4fa9391/Meetings%20Models%20179c0f5171ec81228d43d083423dcff0.md)
 
-[Mail Strategies](Enterprise%20Information%20Flow%20Models%20179c0f5171ec81818061dfabe4fa9391/Mail%20Strategies%20179c0f5171ec816fa53df93b3d22b14c.md)
+[Mail Strategies](Enterprise%20Information%20Flow%20Models%20179c0f5171ec81818061dfabe4fa9391/Mail%20Strategies%20179c0f5171ec816fa53df93b3d22b14c.md) -->
 
 ## References
 

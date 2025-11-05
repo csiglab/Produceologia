@@ -109,7 +109,7 @@
 
 ## References
 
-* [Industry Analysis](../Toolkit/Specific/Industry.md)
+* [Industry Analysis](../Toolkit/Type/Industry.md)
 * Porter, M. E. Competitive Strategy. Free Press, 1980.
 * Kotler, P., Keller, K. Marketing Management. Pearson, 2016.
 * Barney, J. B. Gaining and Sustaining Competitive Advantage. Pearson, 2011.

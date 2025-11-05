@@ -252,7 +252,7 @@ Below is the updated table of **food industry byproducts**, now including **bioe
 | **Algae Biomass** | Algae cultivation for food and biofuels. | **Biofuel production**, animal feed, nutritional supplements. |
 | **Manure** | Livestock farming. | **Biogas production**, fertilizer, compost. |
 
-[Food](Food%2017ad38c7497c81de845cda7ba8c6ce7f/Food%2017cd38c7497c80c79516da9a64bf7e96.csv)
+<!-- [Food](Food%2017ad38c7497c81de845cda7ba8c6ce7f/Food%2017cd38c7497c80c79516da9a64bf7e96.csv) -->
 
 ## References
 

@@ -11,7 +11,7 @@ Tags: Laboratory, Marketing
 > **Studying a market** thoroughly requires research skills, strategic thinking, and attention to detail.
 > 
 
-![Untitled](Mercadologia%20a7a62b79223d42d6aa48fc5a195b79aa/Untitled.png)
+<!-- ![Untitled](Mercadologia%20a7a62b79223d42d6aa48fc5a195b79aa/Untitled.png) -->
 
 ## Technique Space
 

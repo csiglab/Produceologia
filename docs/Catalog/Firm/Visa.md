@@ -1,18 +1,8 @@
 # Visa
 
-Tags: Observatorio
-ID: PRO-1487
-L: 4
-Status: Not started
-
 > Visa's business model primarily revolves around providing a payment network that connects consumers, merchants, financial institutions, and governments to facilitate electronic payments.
-> 
 
-![Untitled](Visa%20133956e8f40e8147bd11e66204ba8ea7/Untitled.png)
-
-Here’s a breakdown of **Visa's business model**:
-
-### **Key Components of Visa’s Business Model**
+## Key Components of Visa’s Business Model
 
 1. **Transaction Processing**:
     - Visa operates a global network (VisaNet) that authorizes, clears, and settles payment transactions between cardholders, merchants, and banks.

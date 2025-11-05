@@ -1,6 +1,6 @@
 # Rare Earth
 
-![Rare Earth Production Chain](../../../img/Rare_Earth_Production_Chain.png)
+<!-- ![Rare Earth Production Chain](../../../img/Rare_Earth_Production_Chain.png) -->
 
 > Here’s a clear and structured table showing the **uses of rare earth elements (REEs)** across industries, including **which specific element** is used, **why**, and **example applications**:
 

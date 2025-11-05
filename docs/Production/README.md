@@ -21,7 +21,7 @@
 
 ## References
 
-- [Good Nomenclature System](../Toolkit/Specific/Market/Good-Nomenclature.md)
+- [Good Nomenclature System](../Toolkit/Data/Nomenclature.md)
 - [Technology Catalog](../Catalog/Technology/README.md)
 - [Good Catalog](../Catalog/Good/README.md)
 - [Service Catalog](../Catalog/Service/README.md)

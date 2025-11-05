@@ -61,6 +61,4 @@ It's important to note that meat production practices and regulations vary signi
 ## References
 
 - [Maduración de la carne en casa](https://www.valorcarne.com.ar/maduracion-de-la-carne-en-casa/)
-- …
-
-[Ham](Meat%2017ad38c7497c810f8abcd3af82c192d3/Ham%2017ad38c7497c81a1bc72fb6bf8d3de23.md)
+<!-- [Ham](Meat%2017ad38c7497c810f8abcd3af82c192d3/Ham%2017ad38c7497c81a1bc72fb6bf8d3de23.md) -->

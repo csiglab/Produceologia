@@ -1,8 +1,8 @@
 # Business Strategy
 
-: 8
-Related Conceptual Model: Enterprise: Corporate Strategy (Corporate%20Strategy%2017bc0f5171ec80409f75d42b8dbbac8b.md), Enterprise (Enterprise%2017ac0f5171ec81509a3ec53fc11ed75e.md)
-Tags: Strategy
+<!-- : 8 -->
+<!-- Related Conceptual Model: Enterprise: Corporate Strategy (Corporate%20Strategy%2017bc0f5171ec80409f75d42b8dbbac8b.md), Enterprise (Enterprise%2017ac0f5171ec81509a3ec53fc11ed75e.md)
+Tags: Strategy -->
 
 > Aka. **Meta dynamics**.
 > 
@@ -130,7 +130,7 @@ Tags: Strategy
 > **Strategic management** involves the formulation, implementation, and evaluation of long-term goals and initiatives to align an organization's resources and capabilities with its external environment, ultimately achieving sustainable competitive advantage.
 > 
 
-![Untitled](Strategy%20179c0f5171ec81eaaa53f4c209043d09/Untitled.png)
+<!-- ![Untitled](Strategy%20179c0f5171ec81eaaa53f4c209043d09/Untitled.png) -->
 
 ## Strategic Management Tools
 

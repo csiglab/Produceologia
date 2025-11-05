@@ -2,10 +2,9 @@
 
 > ...
 
+<!-- # Risk Modelling -->
 
-# Risk Modelling
-
-![Risk Projects](../../img/riskpb.png)
+<!-- ![Risk Projects](../../img/riskpb.png) -->
 
 ## References
 

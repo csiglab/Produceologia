@@ -115,7 +115,7 @@
 
 > …
 
-[Conceptual Model: Finance](Investment%2017ac0f5171ec813e852ddbadbbc2af82/Conceptual%20Model%20Finance%2017ac0f5171ec81d0a3cbfc066948aa59.csv)
+<!-- [Conceptual Model: Finance](Investment%2017ac0f5171ec813e852ddbadbbc2af82/Conceptual%20Model%20Finance%2017ac0f5171ec81d0a3cbfc066948aa59.csv) -->
 
 ## Bullet Proof Strategy
 
