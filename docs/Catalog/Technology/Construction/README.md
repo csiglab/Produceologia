@@ -2,7 +2,6 @@
 
 > Construction Technology and Technical Objects: Exploring the methods, tools, and systems that enable the creation of built environments, from infrastructure to buildings, focusing on the intersection of technical innovation, materials science, and process optimization.
 
-
 - Steel frame
 - Modular Construction
 - Protection - Corrosion
