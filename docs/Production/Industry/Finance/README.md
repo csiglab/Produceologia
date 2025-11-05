@@ -2,6 +2,10 @@
 
 > **Finance Industry**: The finance industry encompasses firms and institutions that manage money, including banking, investment, insurance, asset management, and financial technology services. Its primary function is to allocate capital efficiently, manage risk, and facilitate economic growth.
 
+> A **financial product** is a marketable instrument or offering provided by a financial institution to consumers, businesses, or investors. It is designed to meet financial needs such as savings, investment, borrowing, or risk management.
+
+> A **financial instrument** is a contract that represents a legal agreement involving a monetary value. Instruments can be traded, transferred, or used for hedging and investment purposes.
+
 ## Index
 
 - How does the industry create value?
