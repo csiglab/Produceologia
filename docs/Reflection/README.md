@@ -15,6 +15,7 @@
 ## Index Quaestionum
 
 - Which improves faster: quality or cost structure?
+- What type of scheme enables investment in shared property?
 - If you have a robot how to compute the cost for an hour of operation?
 - How should prices be set for joint products with mixed demand? Case study: chicken and related products.
 
