@@ -93,13 +93,20 @@
 * How do taxation, subsidies, or trade restrictions influence firm behavior and market structure?
 * Are there upcoming legislative or regulatory changes that could reshape operations, competition, or profitability?
 
-
 ## Product Space
 
 > ...
 
 | Product                      | Description                                                    | NAICS Code |
 
+## Techno-Productive Matrix
+
+> Technical Object (Constitutive Technique) - Constitutive Technique + Operating Technique → Product(s)
+
+## Case
+
+| **Technical Object (Constitutive Technique)** | **Constitutive Technique**  | **Operating Technique**                              | **Product(s)**                          |
+| --------------------------------------------- | --------------------------- | ---------------------------------------------------- | --------------------------------------- |
 
 ## Related Industry(s)
 
@@ -115,3 +122,5 @@
 * Barney, J. B. Gaining and Sustaining Competitive Advantage. Pearson, 2011.
 * PESTEL Analysis guides from industry research portals (e.g., IBISWorld, Statista).
 * Harvard Business Review articles on industry analysis and value chains.
+* [Technology](https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Facet/Knowledge/Technology/)
+* [Production](../Production/README.md)
