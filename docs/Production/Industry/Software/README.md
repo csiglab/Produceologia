@@ -1,6 +1,14 @@
 # Software Industry
 
-> ...
+> In this note we will analyze several aspects of the software industry — as an overview — with links to Bremontix and to the entire production process, including market analysis and related topics.
+
+Guiding Questions:
+
+* What is the *product space* of the software industry? What is the structure of production inside a software firm?
+* What is the *technical space* of the industry? How technical research works?
+    - Are software techniques *operational*, or something else? For example, is a technique for implementing a hash table an operational technique? Or is it considered operational because it functions as part of the language’s building blocks?
+* What are the *markets* of the industry?
+* (Add more guiding questions as needed.) 
 
 ## Product Type
 
@@ -25,11 +33,14 @@
 
 ## Software Industry Structure
 
--
+* ...
 
 ## References
 
-- [Bremontix Ars](https://righteous-guardian-68f.notion.site/In-136c0f5171ec80f9a969eb374ac750c6?source=copy_link)
-- [Software Technology](../../../Catalog/Technology/Software/README.md)
-- [Technology](../../../Catalog/Technology/README.md)
-- [A Guide to Profile an Industry](../../../Breviarium/a-guide-to-profile-an-industry.md)
+* [Bremontix Ars](https://righteous-guardian-68f.notion.site/In-136c0f5171ec80f9a969eb374ac750c6?source=copy_link)
+* [Software Technology](../../../Catalog/Technology/Software/README.md)
+* [Technology](../../../Catalog/Technology/README.md)
+* [A Guide to Profile an Industry](../../../Breviarium/a-guide-to-profile-an-industry.md)
+* [Taxonomy of Software Products](https://righteous-guardian-68f.notion.site/Computational-System-Space-195c0f5171ec80dc9d11e8dc52cbad9c?source=copy_link)
+* [Software Market Size](https://www.grandviewresearch.com/industry-analysis/software-market-report)
+* [The Software Complexity of Nations](https://arxiv.org/abs/2407.13880)
