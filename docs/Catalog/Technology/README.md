@@ -8,6 +8,8 @@
 
 > Technical Object (Constitutive Technique) - Constitutive Technique + Operating Technique → Product(s)
 
+> Note: There can be other types of techniques for specialized technologies. In computing, Representational Techniques.
+
 ## Case
 
 | **Technical Object (Constitutive Technique)** | **Constitutive Technique**  | **Operating Technique**                              | **Product(s)**                          |
