@@ -97,6 +97,18 @@ Tags: Service
 4. **Sustainability**: Promoting eco-friendly products and practices.
 5. **Voice Commerce**: Integration with voice assistants like Alexa and Google Assistant.
 
+
+- Shopify
+- BigCommerce
+- Nuvemshop
+- …
+- …
+- Whatsapp Business
+- Facebook Marketplace
+
+
+
 ## References
 
 - https://en.wikipedia.org/wiki/Online_marketplace
+- https://en.wikipedia.org/wiki/E-commerce

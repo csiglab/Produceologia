@@ -40,6 +40,10 @@
 
 | **Category** | **Product** | **Description** | **Technique Characterization** |
 | ------------ | ----------- | --------------- | ------------------------------ |
+| Aerospace | Aircraft wing panels | Lightweight, high-strength panels for aircraft structures | Composite lamination, autoclave curing, CAD/FEA design |
+| Medical | Surgical implant | Biocompatible, mechanically stable implant | Alloy selection, CNC machining, surface passivation |
+| Energy | Battery casing | Protective and structural component for battery packs | Metal stamping, polymer molding, coating |
+| Industrial | Cutting tool insert | Wear-resistant insert for machining | Carbide sintering, coating, heat treatment |
 
 ## References
 

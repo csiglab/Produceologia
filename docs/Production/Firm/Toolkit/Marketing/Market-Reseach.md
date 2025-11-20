@@ -1,8 +1,10 @@
 # Market Research
 
-
 > **Capital**: …
-> 
+
+- What is the concept of a market segment?
+- What is the concept of product differentiation?
+- What defines or constitutes a market?
 
 - Market Size
 - Loyalty Analysis
