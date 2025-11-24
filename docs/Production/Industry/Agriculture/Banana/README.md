@@ -95,3 +95,4 @@
 
 * [Production](https://en.wikipedia.org/wiki/Production_%28economics%29)
 * Standard descriptions of agricultural value chains, tropical crop production, and banana export industry literature
+* [Producción de Banano Tecnificado](https://www.youtube.com/watch?v=OkYlkTYwEN0)
