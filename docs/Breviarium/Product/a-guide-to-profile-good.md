@@ -1,3 +1,0 @@
-# A Guide to Profile a Good
-
-> ...
