@@ -1,66 +1,32 @@
 # Agriculture
 
-QA:
+> Agriculture is extremely broad—so it is best understood as a sector composed of a system of industries, each with its own technologies, production models, market structures, labor systems, and value chains.
 
-- How to computed added value?
-- How to comptued productivity?
-- How to model the cnosumer markets?
-- How comercialization works in the sector?
+> **Industry**: A set of firms producing similar goods or services using similar technologies or processes.
 
-## 1. **Primary Sector Activity**
+> **Market**: A social and institutional mechanism for exchange between buyers and sellers of a given good or service.
 
-* **Definition**: Agriculture is part of the **primary sector** of the economy, which involves the extraction and harvesting of natural resources.
-* **Inputs**: Land, labor, capital (e.g., machinery, seeds), water, and biological resources (plants, animals).
-* **Outputs**: Food (crops, livestock), raw materials (cotton, rubber), and biofuels.
+## Industry Set
 
----
-
-### 2. **Economic Functions**
-
-* **Production Function**: Converts inputs (e.g., land, labor, fertilizer) into outputs (e.g., wheat, beef) through biological processes.
-* **Employment**: In many developing countries, agriculture employs a large share of the labor force, though productivity is often low.
-* **Income Generation**: Especially important in rural economies, where household incomes often depend on farm output and prices.
-
----
-
-### 3. **Types of Markets**
-
-* **Factor Markets**: Land rental, agricultural labor, input markets (fertilizers, seeds, machinery).
-* **Product Markets**: Local markets, national markets, and global commodity markets for outputs like grain, coffee, or soy.
-* **Price Volatility**: Subject to fluctuations due to weather, pests, geopolitical events, and global demand.
-
----
-
-### 4. **Economic Characteristics**
-
-* **Seasonality**: Outputs and labor demands vary by season, affecting income flows and employment.
-* **Inelastic Demand**: Food is a necessity, so demand is relatively inelastic—changes in price have a small effect on quantity demanded.
-* **Diminishing Returns**: Increasing inputs like labor or fertilizer on a fixed amount of land eventually yields less additional output.
-* **Economies of Scale**: Larger farms may achieve lower costs per unit through mechanization and input bulk purchasing.
-
----
-
-### 5. **Role in Economic Development**
-
-* **Structural Transformation**: As economies develop, agriculture’s share of GDP and employment declines, while productivity rises.
-* **Linkages**: Strong forward linkages to agro-processing and food industries; backward linkages to machinery, fertilizer, and finance sectors.
-* **Capital Accumulation**: Agricultural surplus can fund industrialization and urban development in early development stages.
-
----
-
-### 6. **Externalities and Public Goods**
-
-* **Positive**: Environmental stewardship, landscape preservation, food security.
-* **Negative**: Deforestation, water pollution, greenhouse gas emissions from livestock and fertilizers.
-
----
-
-### 7. **Government Intervention**
-
-* **Subsidies**: To stabilize income and encourage food production (e.g., EU’s CAP, US farm bill).
-* **Tariffs and Quotas**: To protect domestic agriculture from international competition.
-* **Insurance and Credit**: To mitigate risk from crop failure and support investment.
+| **Industry**           | **Description**                                                   | **Tags**                                                |
+| ---------------------- | ----------------------------------------------------------------- | ------------------------------------------------------- |
+| **Banana Industry**    | Cultivation, harvesting, packing, and export of bananas.          | Crop; Tropical; Commodity; Plantation; Export-oriented  |
+| **Dairy Industry**     | Production and processing of milk and dairy products.             | Livestock; Perishable; Intensive; Cold-chain            |
+| **Poultry Industry**   | Industrial raising of chickens and other birds for meat and eggs. | Livestock; Intensive; High-turnover; Industrial-farm    |
+| **Sugarcane Industry** | Cultivation of sugarcane for sugar, ethanol, and derivatives.     | Crop; Agro-industrial; Plantation; Biofuel              |
+| **Grain Industry**     | Production of cereals such as rice, maize, wheat, and sorghum.    | Crop; Staple; Mechanized; Bulk-commodity                |
+| **Horticulture**       | Production of fruits, vegetables, nuts, and specialty crops.      | Crop; High-value; Intensive; Fresh-produce              |
+| **Floriculture**       | Production of flowers and ornamental plants.                      | Crop; High-value; Perishable; Greenhouse/Controlled-env |
+| **Cattle Industry**    | Raising cattle for beef, dairy, hides, and byproducts.            | Livestock; Extensive/Intensive; Ruminant; Commodity     |
+| **Aquaculture**        | Farming of fish, crustaceans, and aquatic plants.                 | Aquatic; Intensive; Controlled-env; High-density        |
 
 ## References
 
-- https://frutasberi.com/productos/
+* [Industry Analysis](../Toolkit/Type/Industry.md)
+* Porter, M. E. Competitive Strategy. Free Press, 1980.
+* Kotler, P., Keller, K. Marketing Management. Pearson, 2016.
+* Barney, J. B. Gaining and Sustaining Competitive Advantage. Pearson, 2011.
+* PESTEL Analysis guides from industry research portals (e.g., IBISWorld, Statista).
+* Harvard Business Review articles on industry analysis and value chains.
+* [Technology](https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Facet/Knowledge/Technology/)
+* [Production](../Production/README.md)
