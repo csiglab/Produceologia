@@ -122,7 +122,7 @@ A canonical pipeline consists of **eight recursive subsystems**, each feeding th
 
 **Output:** *Improved System + Updated Knowledge Base*
 
-## **3. The Production Logistic Layer**
+### The Production Logistic Layer
 
 These are cross-cutting systems enabling the pipeline:
 
