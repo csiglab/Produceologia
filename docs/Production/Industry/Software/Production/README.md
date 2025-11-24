@@ -139,27 +139,27 @@ These are cross-cutting systems enabling the pipeline:
 
 ## Product Form
 
-### **5.1. Executable Artifacts**
+### Executable Artifacts
 
 * Binaries
 * Bytecode
 * Container images
 * Function bundles
 
-### **5.2. Structural Artifacts**
+### Structural Artifacts
 
 * Architecture diagrams
 * API contracts
 * Data schemas
 
-### **5.3. Cognitive Infrastructure**
+### Cognitive Infrastructure
 
 * Documentation
 * Test suites
 * Developer knowledge
 * Operational knowledge
 
-### **5.4. Sociotechnical Structures**
+## Sociotechnical Structures
 
 * Teams
 * Processes
