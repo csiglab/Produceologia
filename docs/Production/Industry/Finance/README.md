@@ -2,14 +2,21 @@
 
 > **Finance Industry**: The finance industry encompasses firms and institutions that manage money, including banking, investment, insurance, asset management, and financial technology services. Its primary function is to allocate capital efficiently, manage risk, and facilitate economic growth.
 
-> A **financial product** is a marketable instrument or offering provided by a financial institution to consumers, businesses, or investors. It is designed to meet financial needs such as savings, investment, borrowing, or risk management.
-
-> A **financial instrument** is a contract that represents a legal agreement involving a monetary value. Instruments can be traded, transferred, or used for hedging and investment purposes.
-
-## Index
+QA
 
 - How does the industry create value?
 - What problems does the industry solved?
+- What is money in finance? Mechanism, Instrument?a
+
+## Terminology
+
+| **Term**                       | **Definition**                                                                                                                              | **Case(s)**                                                                              |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Financial Instrument**       | A **contractual asset or liability** whose value comes from a claim on future cash flows.                                                   | Stock of Apple, U.S. Treasury bond, Bitcoin futures                                      |
+| **Financial Mechanism**        | A **structured process, rule, or arrangement** that enables the transfer, allocation, transformation, or protection of financial resources. | Interest compounding, securitization of mortgages, collateralized loan obligations       |
+| **Financial Vehicle**          | A **legal or organizational structure** created to hold, manage, or invest assets using financial instruments.                              | Vanguard S&P 500 ETF, Cayman SPV for project finance, pension fund structure             |
+| **Financial Product**          | A **packaged offering sold to end-users**, composed of instruments and mechanisms, often delivered through a vehicle.                       | Fixed-rate mortgage, life insurance policy, structured note linked to equity performance |
+| **Financial Institution**      | An **entity that provides, mediates, or regulates financial services** using instruments, products, and mechanisms.                         | JPMorgan Chase (bank), BlackRock (asset manager), Allianz (insurance company)            |
 
 ## Formulation
 
@@ -117,7 +124,6 @@
 | Crowdfunding Platform           | Online platform for funding projects via small contributions from many users        | Enables capital raising for startups, creative projects, or social causes      |
 |Sector Fund|Investment fund focused on a specific industry or sector|Allocates capital to companies within a target sector, enabling focused growth and returns|
 
-
 ## Structure
 
 > ...
@@ -129,6 +135,15 @@
 ## Research
 
 > ...
+
+## QA
+
+### What is the relation between the term finantial instrument and finatial assets?
+
+> A **financial instrument** is like the recipe, while the financial asset is the cake you get from following it.
+
+- **Financial asset** is the economic resource/value itself that you hold.
+- **Financial instrument** is the contract or legal mechanism that creates or represents that asset.
 
 ## References
 
