@@ -91,27 +91,14 @@ The **pricing problem** thus integrates:
 ## References
 
 * [Pricing](https://en.wikipedia.org/wiki/Pricing)
-* [Razor and blades model](https://en.wikipedia.org/wiki/Razor_and_blades_model)
+* [Price](https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Facet/Economy/Intersection/Price/)
 * [Fair Pricing](https://news.ycombinator.com/item?id=42944371)
-* [Pricing Money: A beginner's guide to money, bonds, futures and swaps](https://news.ycombinator.com/item?id=36358754)
+* [Razor and blades model](https://en.wikipedia.org/wiki/Razor_and_blades_model)
 * [Pricing niche products (kevinlynagh.com)](https://news.ycombinator.com/item?id=36358754)
 * [Do not talk about pricing (medium.com/fluxx-studio-notes)](https://news.ycombinator.com/item?id=11563378)
-* https://news.ycombinator.com/item?id=22027912
-* https://news.ycombinator.com/item?id=23053271
-* https://news.ycombinator.com/item?id=9501892
-* https://news.ycombinator.com/item?id=29348328
-* https://news.ycombinator.com/item?id=23053271
-* https://news.ycombinator.com/item?id=34509188
-* https://news.ycombinator.com/item?id=40971553
-* https://news.ycombinator.com/item?id=22895842
-* https://news.ycombinator.com/item?id=33502567
-* https://news.ycombinator.com/item?id=5746118
-* https://news.ycombinator.com/item?id=16180570
-* https://news.ycombinator.com/item?id=4370904
-* https://news.ycombinator.com/item?id=19180158
-* https://news.ycombinator.com/item?id=19980532
-* https://news.ycombinator.com/item?id=43436315
-* https://news.ycombinator.com/item?id=4912615
-* https://news.ycombinator.com/item?id=3047720
-* https://news.ycombinator.com/item?id=4207134
-*
+* [Don't just roll the dice – Software pricing guide (2012)](https://news.ycombinator.com/item?id=22027912)
+* [The Psychology of Pricing: A Gigantic List of Strategies](https://news.ycombinator.com/item?id=9501892)
+* [A Guide to Pricing Plans (capitalandgrowth.org)](https://news.ycombinator.com/item?id=22895842)
+* [Ten Years' Worth of Learning About Pricing (tomtunguz.com)](https://news.ycombinator.com/item?id=16180570)
+* [Pricing psychology - 33% more beats 33% off (time.com)](https://news.ycombinator.com/item?id=4207134)
+* [Pricing Money: A beginner's guide to money, bonds, futures and swaps](https://news.ycombinator.com/item?id=36358754)
