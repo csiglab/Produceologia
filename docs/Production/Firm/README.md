@@ -83,7 +83,7 @@ Using VSM allows the firm to maintain **structural integrity while adapting dyna
 
 > Which techniques can be used to run a firm from (vision - reflection to operations)?
 
-> See more in [🛠️ Generic Toolkit](../Firm/Toolkit/README.md) and [🛠️ Special Toolkit](../Industry/Toolkit/README.md).
+> See more in [🛠️ Generic Toolkit](../Toolkit/README.md) and [🛠️ Special Toolkit](../Industry/Toolkit/README.md).
 
 | Agential Level | Category                     | Description                                                              | Instance(s)                                                                            |
 | -------------- | ---------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |

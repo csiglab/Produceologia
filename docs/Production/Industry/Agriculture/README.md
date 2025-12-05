@@ -22,11 +22,9 @@
 
 ## References
 
-* [Industry Analysis](../Toolkit/Type/Industry.md)
 * Porter, M. E. Competitive Strategy. Free Press, 1980.
 * Kotler, P., Keller, K. Marketing Management. Pearson, 2016.
 * Barney, J. B. Gaining and Sustaining Competitive Advantage. Pearson, 2011.
 * PESTEL Analysis guides from industry research portals (e.g., IBISWorld, Statista).
 * Harvard Business Review articles on industry analysis and value chains.
 * [Technology](https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Facet/Knowledge/Technology/)
-* [Production](../Production/README.md)
