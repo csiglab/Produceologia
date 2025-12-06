@@ -114,15 +114,24 @@ Dataset
 
 ## Software Industry Structure
 
-* ...
+> ...
 
 ## Technology
 
-> See more in ...
-
-## Productivity
-
-> ...
+| **Technique Dimension**                 | **Description**                                                                                                                                          | **Instance(s)**                                                                                              |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Technical Research Technique**        | Methods for generating new technical knowledge; concerned with discovery, invention, modeling, and theoretical–experimental exploration.                 | Scientific experimentation, algorithm research, materials R&D, ML model training, simulation-based inquiry   |
+| **Operational Technique**               | Methods for operating, maintaining, executing, and supervising technological systems in real environments; grounded in procedure and routine.            | DevOps, IT operations, manufacturing operations, NOC processes, industrial control routines                  |
+| **Constitutive Technique**              | Techniques for creating technological systems: designing, assembling, composing, implementing, and architecting components into functioning wholes.      | Software architecture, system design patterns, PCB design, CAD/CAM methods, compiler construction            |
+| **Representational Technique**          | Techniques for encoding, modeling, abstracting, and representing phenomena, structures, or processes so they can be understood or processed technically. | Data modeling, ontology design, UML diagrams, mathematical modeling, visualization methods                   |
+| **Diagnostic Technique**                | Techniques for identifying, analyzing, and explaining faults, inefficiencies, or anomalies in systems.                                                   | Debugging, profiling, root cause analysis, system health monitoring, failure analysis                        |
+| **Measurement Technique**               | Techniques for quantifying properties, states, or performance of systems or phenomena.                                                                   | Telemetry, instrumentation, benchmarking, metrology, sensor calibration                                      |
+| **Optimization Technique**              | Techniques for improving systems—reducing cost, increasing performance, improving efficiency, tuning parameters, or optimizing processes.                | Performance tuning, algorithmic optimization, control optimization, A/B testing                              |
+| **Integration Technique**               | Techniques for connecting heterogeneous components, systems, or subsystems into cohesive, interoperable architectures.                                   | API integration, data pipeline assembly, enterprise system integration, robotics system integration          |
+| **Validation & Verification Technique** | Techniques used to ensure correctness, reliability, and adherence to requirements or constraints.                                                        | Testing, formal verification, compliance checks, QA pipelines                                                |
+| **Protection & Safety Technique**       | Techniques ensuring security, safety, integrity, or resilience of systems.                                                                               | Cryptographic methods, access control schemes, safety engineering, hazard analysis, cybersecurity monitoring |
+| **Execution Technique**                 | Techniques related to runtime execution, deployment, and distribution of technological artifacts.                                                        | Build systems, container orchestration, distributed execution frameworks, CI/CD pipelines                    |
+| **Materialization Technique**           | Techniques for transforming designs into physical artifacts (in cyber-physical or hardware systems).                                                     | Fabrication processes, additive manufacturing, machining techniques, semiconductor processes                 |
 
 ## References
 
