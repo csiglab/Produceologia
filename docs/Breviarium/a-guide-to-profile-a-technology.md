@@ -48,3 +48,4 @@
 ## References
 
 - [Technology](https://en.wikipedia.org/wiki/Technology)
+- [Ar · Technology]( https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Facet/Knowledge/Technology/)
