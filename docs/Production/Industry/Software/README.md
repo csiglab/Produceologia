@@ -6,6 +6,8 @@
 
 > Note: This note is highly unfinished, including its formulation. Open question: Does a newsfeed aggregator — a type of software — belong within the Digital Production Sector?
 
+> Note: For organizational reasons, Machine Learning (ML) is considered part of the software industry.
+
 Guiding Questions:
 
 * What is the *product space* of the software industry? What is the structure of production inside a software firm?

@@ -1,5 +1,7 @@
 # TODO'S
 
+- Reason deeply about production creation -  and that some new products are actually creating a new market - and what's the different for product development on existing market? How product developmetn is related with research?
+
 - How to think deeply on **Bremontix Obras Pias**?
 - How to find foreing clients?
 - What determines (or influence) the seeling of a stock?

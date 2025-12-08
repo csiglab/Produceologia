@@ -12,7 +12,24 @@
 ## File Browsing
 
 > …
-> 
+>
+
+### Retrieval System
+
+> Product Space
+
+| **Type of System** | **Type** | **Description** | **Instance(s)** |
+| --- | --- | --- | --- |
+| **Web Search Engines** | General-purpose retrieval | Systems designed to index and retrieve web content using crawling, indexing, and ranking algorithms. Optimized for scalability, freshness, and relevance across heterogeneous data. | Google Search, Bing, DuckDuckGo |
+| **Enterprise Search** | Organizational / Intranet retrieval | Retrieves documents, emails, reports, and databases within an organization. Often includes access control, domain-specific ranking, and metadata handling. | Elastic Enterprise Search, SharePoint Search |
+| **Digital Library / Scholarly IR** | Domain-specific / Academic | Focused on curated collections of scholarly or structured content. Supports Boolean, faceted, and semantic queries. | PubMed / Entrez, ACM Digital Library |
+| **Multimedia Retrieval** | Content-based retrieval | Indexes and retrieves non-textual data (images, audio, video) using content descriptors like color histograms, SIFT features, or embeddings. | Google Images, YouTube Search, Shazam |
+| **Question-Answering Systems** | Semantic / QA retrieval | Maps natural language queries to concise answers rather than document lists. Integrates NLP, knowledge graphs, and deep learning models. | IBM Watson, OpenAI Chat-based QA, WolframAlpha |
+| **Recommender Systems** | Personalized retrieval | Suggests items based on user preferences, behavior, or collaborative filtering. Focused on ranking rather than explicit search. | Netflix Recommendations, Amazon Product Suggestions |
+| **Federated / Distributed IR** | Multi-source retrieval | Aggregates results from multiple independent repositories or databases, sometimes in real-time. Supports heterogeneous query translation and merging. | PubMed Central + Institutional Repositories, Meta-search engines |
+| **Vertical / Domain-specific Engines** | Specialized retrieval | Optimized for specific domains like legal, medical, or e-commerce data. Often uses domain-specific ontologies or taxonomies. | LexisNexis (Legal), WebMD (Medical), Zillow (Real Estate) |
+| **Real-time / Streaming Retrieval** | Dynamic content retrieval | Focused on time-sensitive or continuously updating data streams. Supports low-latency indexing and retrieval. | Twitter Search, Google News, Stock Data Retrieval |
+
 
 ## Information System
 
