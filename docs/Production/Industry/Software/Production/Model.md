@@ -140,3 +140,19 @@ Software 2.0 production requires tight coupling between data scientists, ML engi
 - [Software Technology](../../../../Catalog/Technology/Software/README.md)
 - [Technology](../../../../Catalog/Technology/README.md)
 
+- https://lovable.dev/
+- https://www.bremontix.xyz/lab/pro/Production/Industry/Software/
+- https://bigideasdb.com/
+- https://leadsnipe.io/
+- https://www.reddit.com/r/micro_saas/
+- [An Essay On Personal Programming Workflow](https://www.notion.so/An-Essay-On-Personal-Programming-Workflow-162c0f5171ec80378c25e846231dad0f?pvs=21)
+- [Learning System](https://www.notion.so/Learning-System-248c0f5171ec80a692d2ee54ee4fe677?pvs=21)
+- https://github.com/janhq/jan?tab=readme-ov-file
+- [Platform](https://www.notion.so/Platform-2c3c0f5171ec80b38a7ac3bd6045cc63?pvs=21)
+- [Cloud Computing System](https://www.notion.so/Cloud-Computing-System-16ac0f5171ec80ca9211fe13955c602c?pvs=21)
+- https://www.reddit.com/r/LocalLLaMA/comments/1phcnyt/vllm_supports_the_new_glm46v_and_glm46vflash/
+- https://www.foundertoolkit.org/#pricing
+- https://www.specode.ai/
+- https://github.com/karpathy/nanochat?tab=readme-ov-file “…”
+- https://www.reddit.com/r/LocalLLaMA/comments/1pigb3i/deepseekv32reap_508b_and_345b_checkpoints/
+- https://agents.md/
