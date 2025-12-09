@@ -170,3 +170,4 @@ These are cross-cutting systems enabling the pipeline:
 
 * [Software Engineering](https://en.wikipedia.org/wiki/Software_engineering)
 * [Software Development](https://en.wikipedia.org/wiki/Software_development)
+* [An Essay On Personal Programming Workflow](https://www.notion.so/An-Essay-On-Personal-Programming-Workflow-162c0f5171ec80378c25e846231dad0f?source=copy_link)
