@@ -99,7 +99,6 @@ Using VSM allows the firm to maintain **structural integrity while adapting dyna
 | **Technology Integration** | Data-Driven Models | Rely heavily on analytics and big data. | AI-driven recommendations, predictive analytics | Make informed, proactive decisions. |
 |  | Platform-Based Models | Create ecosystems that facilitate interactions. | App stores, marketplaces | Enable multiple value exchanges. |
 
-
 ### Space
 
 Business models in enterprises describe the fundamental ways in which organizations create, deliver, and capture value. Here's a table that provides an overview of various enterprise business models, highlighting their core concepts and how they generally operate:
@@ -178,4 +177,5 @@ Business models in enterprises describe the fundamental ways in which organizati
 ## References
 
 * [Firm](https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Unit/Firm/)
+* [A Guide to Profile a Firm](./../Breviarium/a-guide-to-profile-a-firm.md)
 * [The Alchemy of Growth: Practical Insights for Building the Enduring Enterprise](https://www.amazon.com/Alchemy-Growth-Practical-Insights-Enterprise/dp/0738203092)

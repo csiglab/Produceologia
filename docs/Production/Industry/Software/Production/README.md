@@ -1,4 +1,4 @@
-# Software Production
+# Production
 
 > What software products exist? Which production models are commonly used? Which organizational structures implement those models?
 

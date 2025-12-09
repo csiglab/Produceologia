@@ -888,6 +888,10 @@ UI Automation [Do we Have Another Name For This] - User Automation - HCI Automat
 - https://immich.app/ (Image Server)
 - https://huggingface.co/microsoft/VibeVoice-Realtime-0.5B
 
+- https://github.com/OvidijusParsiunas/deep-chat?fbclid=IwAR0uSvTiVXL5rICg3YfKqV2er0E355LGrg5ha6JVkUEaem8PKU98sU6ysbE
+
+
+
 ## References
 
 - [Software Value Chain](https://ideas.repec.org/p/dar/wpaper/52732.html)
@@ -895,3 +899,4 @@ UI Automation [Do we Have Another Name For This] - User Automation - HCI Automat
 - [miscellanea-labs](https://github.com/dbremont/miscellanea-labs)
 - [Profiler](https://www.notion.so/Profiler-1c1c0f5171ec80f0ae85c627e8971d92?pvs=21)
 - [documentorum](https://github.com/dbremont/documentorum)
+
