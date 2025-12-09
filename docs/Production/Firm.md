@@ -137,7 +137,7 @@ Business models in enterprises describe the fundamental ways in which organizati
 
 > Which techniques can be used to run a firm from (vision - reflection to operations)?
 
-> See more in [🛠️ Generic Toolkit](../Toolkit/README.md) and [🛠️ Special Toolkit](../Industry/Toolkit/README.md).
+> See more in [🛠️ Generic Toolkit](../Toolkit/README.md) and [🛠️ Special Toolkit](../Production/Industry/Toolkit/README.md).
 
 | Agential Level | Category                     | Description                                                              | Instance(s)                                                                            |
 | -------------- | ---------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------- |
@@ -173,7 +173,7 @@ Business models in enterprises describe the fundamental ways in which organizati
 
 ## QA
 
-- How to Model Firm Growth? How to Relate Firm Growth (Outputs) to Internal Capabilities Growth? What is the Limit of Growth? Can we Growth at 40% Per Month?
+* How to Model Firm Growth? How to Relate Firm Growth (Outputs) to Internal Capabilities Growth? What is the Limit of Growth? Can we Growth at 40% Per Month?
 
 ## References
 
