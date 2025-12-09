@@ -81,6 +81,10 @@ QA:
 | ****Industrial Policy****                  | EU-aligned innovation and SME programs            | Fragmented, politically unstable programs      |
 | ****Workforce Institutions****             | Apprenticeships, retraining, unions present       | Weak links between training and production     |
 
+## Working On
+
+- How do changes in market regimes—from stable to dynamic—affect a firm’s performance, adaptive behavior, and overall outcomes?
+
 ## References
 
 - [Firm](https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Unit/Type/Firm/)

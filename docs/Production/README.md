@@ -10,11 +10,35 @@
 
 ## Terminology
 
-| **Term**                 | **Description**                                                                                                                                                                                                                  |
-| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Economies of scope**   | Cost advantages from producing **multiple different products jointly**, leveraging shared inputs, capabilities, or infrastructure, so that total cost is lower than producing each output independently.                         |
-| **Economies of density** | Cost advantages from **concentrating production, distribution, or consumption in a specific geographic area**—allowing more efficient infrastructure use, higher utilization rates, shorter distances, and lower per-unit costs. |
-| **Economies of scale**   | Cost advantages from **increasing the volume of production**, allowing fixed costs to be spread out, improving specialization, and raising operational efficiency, thus reducing average cost per unit.                          |
+| **Term**                                 | **Description**                                                                                                                                                                                    |
+| ---------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Economies of Scope**                   | Cost advantages from jointly producing **multiple different products** using shared inputs, capabilities, knowledge, or infrastructure, yielding lower total costs than producing each separately. |
+| **Economies of Density**                 | Cost advantages from **geographic or network concentration** of production, distribution, or service delivery, increasing asset utilization and reducing marginal operating costs.                 |
+| **Economies of Scale**                   | Cost advantages from increasing **output volume of a single product**, allowing fixed costs to be spread over more units and improving specialization.                                             |
+| **Returns to Scale**                     | A production concept describing how **output changes when all inputs increase proportionally**. Can be increasing, constant, or decreasing depending on technological characteristics.             |
+| **Learning Effects / Learning-by-Doing** | Cost reductions achieved through **cumulative production experience**, process refinement, and worker learning, independent of scale effects.                                                      |
+| **Economies of Variety**                 | Benefits obtained from offering a **broader range of product variants**, usually tied to modularity, flexible manufacturing, and customer heterogeneity.                                           |
+| **Economies of Replication**             | Cost advantages from **repeating standardized processes or business models** across units, sites, or markets—common in retail chains, platforms, and franchises.                                   |
+| **Network Economies (Network Effects)**  | When the value of a product or service **increases with the number of users**, enabling scalability and reinforcing growth (e.g., platforms, communication networks).                              |
+| **Platform Economies**                   | Economies arising from **multi-sided markets** where platforms mediate interactions between distinct user groups, achieving scale by lowering interaction and matching costs.                      |
+| **Economies of Coordination**            | Efficiency gains from **integrating and synchronizing** activities across units, suppliers, or systems, reducing delays, transaction costs, and uncertainty.                                       |
+| **Economies of Information**             | Savings gained when **information, algorithms, or data** can be replicated and deployed at near-zero marginal cost.                                                                                |
+| **Economies of Complementarity**         | Cost or value advantages when **using two or more assets together** yields greater performance or output than using them separately.                                                               |
+| **Economies of Process Integration**     | Gains obtained from **combining sequential production activities**, reducing handoffs, inventories, and throughput time.                                                                           |
+| **Diseconomies of Scale**                | Cost increases that occur when firms grow too large, resulting in **coordination overload**, bureaucracy, slower decision-making, or cultural misalignment.                                        |
+| **Complexity Costs**                     | Additional costs created by **greater product, process, or organizational complexity**, often scaling non-linearly with variety or size.                                                           |
+| **Scope Diseconomies**                   | When producing multiple products jointly **raises costs** due to integration failures, incompatible capabilities, or managerial overload.                                                          |
+
+
+## Product Clasification System
+
+| System                                                      | Description                                                                       | Level of Detail             |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------- |
+| **HS (Harmonized System)**                                  | International standard for classifying traded goods (used in customs)             | Very detailed (6–10 digits) |
+| **NAICS (North American Industry Classification System)**   | Classifies industries (by the kind of product/service they produce)               | Moderate (2–6 digits)       |
+| **ISIC (International Standard Industrial Classification)** | UN system similar to NAICS                                                        | Moderate (4 levels)         |
+| **CPA (EU Classification of Products by Activity)**         | EU system for economic statistics, linked to NACE (EU version of ISIC)            | Very detailed               |
+| **BEC (Broad Economic Categories)**                         | Classifies products by their use (e.g., capital, consumption, intermediate goods) | Broad                       |
 
 
 ## Industry Classification
@@ -69,3 +93,4 @@
 - [Diseconomies of Scale](https://en.wikipedia.org/wiki/Diseconomies_of_scale)
 - Stigler, G. J. (1958). The Economies of Scale. 1, 54–71.
 - Haldi, John, and David Whitcomb. “Economies of scale in industrial plants.” Journal of Political Economy 75.4, Part 1 (1967): 373-385.
+- [Product](https://en.wikipedia.org/wiki/Product_(business))

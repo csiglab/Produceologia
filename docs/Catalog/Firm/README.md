@@ -1,11 +1,7 @@
 # Firm(s)
 
+> **Firm Catalog**: A structured catalog of firms, describing their economic, organizational, technological, and operational characteristics.
 
-Integrate with with Software Industy - https://retano.ai/es/sobre-nosotros/  ; Analiza Similar Firms.
+## References
 
-Selling Code as a Business Model - https://malachirails.com/
-
-TODO:
-
-- Firms Financial Model
-- How to Profile a Firm.
+- [A Guide to Profile a Firm](../../Breviarium/a-guide-to-profile-a-firm.md)
