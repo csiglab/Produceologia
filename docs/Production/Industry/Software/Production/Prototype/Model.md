@@ -1,4 +1,4 @@
-# ML Prototype
+# Model Prototype
 
 ## 📁 Data Handling & Exploration
 
