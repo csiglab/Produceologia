@@ -91,3 +91,4 @@ Software 1.0 is a human-authored, static set of instructions (source code) that 
 
 - [Software Technology](../../../../Catalog/Technology/Software/README.md)  
 - [Technology](../../../../Catalog/Technology/README.md)  
+- [An Essay On Personal Programming Workflow](https://www.notion.so/An-Essay-On-Personal-Programming-Workflow-162c0f5171ec80378c25e846231dad0f?source=copy_link)
