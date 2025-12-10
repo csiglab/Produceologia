@@ -8,6 +8,15 @@ This template introduces a structured methodology to model a firm across three a
 2. Institutional model (governance, contracts, organizational structure),
 3. Capabilities model (learning, innovation, routines, evolutionary dynamics).
 
+Analytical Model:
+
+- Operational Layer
+- Financial Layer
+- Intelligence Layer
+- Coordination Layer
+- Strategic Layer
+- Audit Layer
+
 ## Agency
 
 > What is the agential hierarchy of a firm?
@@ -169,6 +178,8 @@ Business models in enterprises describe the fundamental ways in which organizati
 | **Scott & Bruce SME Model**                       | Inception → Survival → Growth → Expansion → Maturity; emphasizes management systems and financial requirements.                          | SME financing; operational decision-making.                         |
 | **Kazanjian’s Technology Venture Model**          | Technology ventures pass through Development → Commercialization → Growth → Stability; constrained by tech–market fit.                   | Tech startup assessment; productization and scaling readiness.      |
 | **Miller & Friesen Organizational Life Cycle**    | Firms evolve through Birth → Growth → Maturity → Revival or Decline; structure and strategy change over time.                            | Long-term strategic planning; lifecycle diagnosis.                  |
+
+
 
 ## QA
 

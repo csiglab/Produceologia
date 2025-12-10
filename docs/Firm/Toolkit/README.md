@@ -88,3 +88,4 @@ QA:
 ## References
 
 - [Firm](https://www.bremontix.xyz/lab/ar/Locus-Social-Realitatis/Unit/Type/Firm/)
+- [Value-stream mapping](https://en.wikipedia.org/wiki/Value-stream_mapping)

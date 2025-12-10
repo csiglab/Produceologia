@@ -68,7 +68,7 @@
 | **By Digitalization**            | Physical markets, digital marketplaces/platforms, decentralized markets (blockchain-based).                                        |
 | **By Demand Segments**           | Subdivides the *population of buyers* into homogeneous groups based on characteristics, needs, preferences, or behaviors.          |
 
-## Economci Sector
+## Economic Sector
 
 > Which are the divisions of an economy?
 

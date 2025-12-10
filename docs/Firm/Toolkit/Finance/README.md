@@ -2,10 +2,33 @@
 
 > **Capital Structure**: **Capital financial structure** refers to the specific composition and proportional weighting of a firm’s permanent financing sources—principally equity (common and preferred stock), long-term and short-term debt (including bonds, loans, and convertible instruments), and hybrid securities—optimized under constraints such as tax shields, bankruptcy costs, agency conflicts, and market conditions, to minimize the weighted average cost of capital (WACC) and maximize firm value.
 
-- How to finance a firm?
-- How should the financial dimension of a firm be defined and structured?
+## Formulation
 
-## Taxonomy
+How should the financial dimension of a firm be **defined and structured**?
+
+> The **financial dimension** of a firm is the subsystem responsible for managing the firm's monetary resources, risk exposures, capital structure, and intertemporal economic decisions, with the objective of ensuring solvency, liquidity, and value creation under conditions of uncertainty.
+
+> It is the **set of processes**, instruments, positions, decisions, and controls through which the firm acquires, allocates, protects, accounts for, and transforms financial resources across time.
+
+> The financial dimension of the firm is the subsystem that regulates, buffers, and optimizes the flow of monetary energy required to maintain operational continuity, enable strategic action, and maximize productive transformation under uncertainty.
+
+> The financial dimension of a firm =
+(Positions + Flows + Decisions + Controls)
+integrated by (Strategy + Infrastructure)
+to ensure solvency, liquidity, and value creation across time.
+
+Structure:
+
+- Financial Position Architecture
+- Financial Flow Architecture
+- Financial Decisions Architecture
+- Financial Control & Information Architecture
+- Financial Strategy Integration
+- Financial Infrastructure
+
+## Methods of Financing a Firm
+
+> How to Finance a Firm?
 
 | **Instrument**                    | **Type**          | **Description**                                                                     | **Typical Use Cases**                                |
 | --------------------------------- | ----------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------- |

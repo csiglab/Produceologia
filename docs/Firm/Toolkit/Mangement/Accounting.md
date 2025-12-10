@@ -1,8 +1,5 @@
 # Management Accounting
 
-: 21
-Tags: Accounting
-
 > This taxonomy organizes key concepts, principles, and tools used in management accounting into a structured framework.
 > 
 

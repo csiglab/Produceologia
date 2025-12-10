@@ -1,8 +1,5 @@
 # Management
 
-: 10
-Tags: Governance
-
 > Management is the process of planning, organizing, leading, and controlling resources and activities within an organization to achieve its goals efficiently and effectively.
 > 
 
