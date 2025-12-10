@@ -2,7 +2,7 @@
 
 <!-- ![quant-trading-iceberg](../../../img/quant-trading-iceberg.png) -->
 
-![alt text](../../../../img/quant-trading-iceberg.png)
+![alt text](../../../img/quant-trading-iceberg.png)
 
 Workflow:
 
