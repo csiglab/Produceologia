@@ -16,7 +16,14 @@
 | **Guilds / Chapters (Spotify Model)**             | Communities of practice cutting across squads (e.g., “Mobile Guild”, “Testing Chapter”).                | **+** Knowledge sharing; standardization emerges organically. **–** Difficult to maintain; often becomes symbolic.                | agile; culture                                    |
 | **Open-Source / Meritocratic Model**              | Distributed contributors, loose governance, decisions by consensus or maintainers.                      | **+** Global talent; high innovation; transparency. **–** Coordination challenges; uneven code quality; volunteer burnout.        | open-source; distributed                          |
 | **Remote-First / Fully Distributed**              | Organization optimized for asynchronous work, documentation, and autonomy.                              | **+** Access to global talent; high autonomy; cost efficiency. **–** Requires strong documentation culture; time-zone challenges. | remote; async; distributed                        |
-| **Hierarchical Bureaucratic (Legacy Enterprise)** | Strong vertical hierarchy, formal processes, strict controls.                                           | **+** Predictable, controlled operations; clear authority. **–** Extremely slow change; poor adaptability; low innovation.        | enterprise; waterfall                             |
+| **Hierarchical Bureaucratic (Legacy Enterprise)** | Strong vertical hierarchy, formal processes, strict controls.                                           | **+** Predictable, controlled operations; clear authority. **–** Extremely slow change; poor adaptability; low innovation.        | enterprise; 
+waterfall                             |
+
+## Rol Space
+
+- CPO
+- CFO
+- ...
 
 ## References
 
