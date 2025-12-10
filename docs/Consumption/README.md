@@ -22,6 +22,10 @@ QA:
 
 > also Horrible Called 'Price Discovery'.
 
+## Market Space
+
+> What is a market? What is a market segment?
+
 ## References
 
 - [Customer](https://en.wikipedia.org/wiki/Customer)
