@@ -52,7 +52,7 @@ In the most abstract, system-level terms, the **function of finance** is:
 - **Asset Custody and Safekeeping**: Finance offers institutional mechanisms to hold, protect, administer, and record ownership of assets, including securities, cash, commodities, and digital claims. This function underpins trust, enforceability, and the integrity of property rights in the system.
 - **Exchange, Clearing, and Settlement Enablement**: Finance supplies the infrastructures and protocols that allow agents to transfer ownership and discharge obligations securely, reliably, and at scale. This includes payment rails, clearinghouses, custodians, and settlement systems.
 
-### Element Space
+## Element Space
 
 > Which types of elements exist in the financial system?
 
