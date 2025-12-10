@@ -8,6 +8,7 @@
 
 > Finance functions in economic systems like energy functions in physical systems: an abstract enabling medium that makes all higher-order processes possible through flows, transformations, and intertemporal storage.
 
+
 QA
 
 - How does the industry create value?
@@ -317,8 +318,7 @@ In the most abstract, system-level terms, the **function of finance** is:
 
 ## References
 
-- [A Guide to Profile an Industry](../../../Breviarium/a-guide-to-profile-an-industry.md)
-- [Finance Product Space](../../../Catalog/Service/Finance/README.md)
+- [A Guide to Profile an Industry](../Breviarium/a-guide-to-profile-an-industry.md)
 - [Financial Sector](https://corporatefinanceinstitute.com/resources/career-map/sell-side/capital-markets/financial-sector/)
 - [Financial Srvices](https://en.wikipedia.org/wiki/Financial_services)
 - [Global Industry Classification Standard](https://en.wikipedia.org/wiki/Global_Industry_Classification_Standard)

@@ -171,7 +171,7 @@ This balance creates a portfolio that's designed to perform in any economic envi
 
 ## References
 
-- [Finantial Industry](./../../Finance/README.md)
+- [Finantial Industry](../../../../Finance/README.md)
 - [Investment](https://en.wikipedia.org/wiki/Investment)
 - [Martin Shkreli Shows How To Do Research On A Company](https://www.youtube.com/watch?v=o8ZFeriXBVA)
 
