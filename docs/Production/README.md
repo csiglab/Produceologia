@@ -94,3 +94,4 @@
 - Stigler, G. J. (1958). The Economies of Scale. 1, 54–71.
 - Haldi, John, and David Whitcomb. “Economies of scale in industrial plants.” Journal of Political Economy 75.4, Part 1 (1967): 373-385.
 - [Product](https://en.wikipedia.org/wiki/Product_(business))
+- [Idea Validation](https://beatable.co/)
