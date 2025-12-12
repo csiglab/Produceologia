@@ -4,15 +4,17 @@
 
 ## Terminology
 
-- **Light industry** refers to manufacturing activities that typically produce consumer-oriented goods, are less capital-intensive, generate lower pollution, and often require smaller factories or lower energy consumption than heavy industry.
-- Heavy Industry
-- Primary Industry
-- Secundaroy Industry
-- Tertiary Industry
-- Manufacturing
-- Service
-- Low Altite Economy
-- Energy Industry
+| Term                     | Definition                                                                                                                                                                                                                                                             |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Light Industry**       | Manufacturing activities focused on consumer goods; typically labor-intensive, less capital-intensive, lower pollution, smaller facilities, and lower energy requirements compared to heavy industry.                                                                  |
+| **Heavy Industry**       | Manufacturing activities involving large-scale capital equipment, high energy consumption, heavy machinery, and production of industrial inputs such as steel, chemicals, machinery, and large transport equipment. Often associated with higher environmental impact. |
+| **Primary Industry**     | Economic activities that extract or harvest natural resources (e.g., mining, agriculture, forestry, fishing). It is the first stage of the value chain.                                                                                                                |
+| **Secondary Industry**   | Industries that process raw materials into intermediate or final goods through manufacturing, construction, or industrial processing.                                                                                                                                  |
+| **Tertiary Industry**    | Service-based activities that provide intangible value, including retail, finance, health care, logistics, and professional services.                                                                                                                                  |
+| **Manufacturing**        | The industrial process of transforming raw or intermediate materials into finished or semi-finished goods using labor, machinery, tools, and processing technologies.                                                                                                  |
+| **Service**              | Economic activities that deliver intangible outputs—expertise, labor, experience, or solutions—rather than physical goods.                                                                                                                                             |
+| **Low-Altitude Economy** | An emerging concept referring to economic activities that occur in low-altitude airspace (typically below 1,000 meters), such as drone logistics, aerial urban mobility, low-altitude tourism, inspection services, and related infrastructure and services.           |
+| **Energy Industry**      | The sector involved in the production, transformation, distribution, and sale of energy resources (e.g., oil, gas, renewables, electricity) and related infrastructure and services.                                                                                   |
 
 ## Taxonomy
 

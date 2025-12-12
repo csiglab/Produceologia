@@ -178,4 +178,5 @@ This estimate includes small molecules, biologics (e.g. antibodies, mRNA), and d
 
 ## References
 
-- [Pharmaceutical Industry](https://en.wikipedia.org/wiki/Pharmaceutical_industry)
+* [Pharmaceutical Industry](https://en.wikipedia.org/wiki/Pharmaceutical_industry)
+* [Automation Solutions in Pharmaceuticals](https://www.automate.org/industry-insights/automation-solutions-in-pharmaceuticals)
