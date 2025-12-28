@@ -8,7 +8,6 @@
 
 Software 2.0 refers to systems where behavior is **not explicitly programmed** but **learned from data** using statistical or neural models. Instead of writing rules, engineers curate datasets, define architectures, and train models whose weights encode the program logic. Examples include large language models, vision systems, recommendation engines, and predictive maintenance models.
 
-
 ## Task Space  
 
 > **Which tasks (problems) are handled in the Technical Domain?**
