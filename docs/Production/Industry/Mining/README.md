@@ -1,6 +1,21 @@
-# Mining Industry
+# Mining Sector
 
 > The Mining Industry extracts minerals, metals, and other geological materials from the earth, which serve as raw materials for manufacturing, construction, energy, and chemical industries. This industry includes surface and underground mining as well as quarrying activities.
+
+## Guiding Questions
+
+- Is Mining an economic sector?
+- Which industries are included in this sector?
+- What is the production structure of the sector?
+- What is the technical space (both Technical Objects and Not)?
+- What are the major stages of production?
+- How does production scale relate to cost structure?
+- Which parts of the production chain are R&D intensive?
+- How is value added distributed along the production chain?
+- What is the distribution of revenue margins?
+- Which is the Product Space?
+- What is the relation of 'Mining' and Materials Science?
+- Which are the connection with others sectors and Industry?
 
 TODO:
 
