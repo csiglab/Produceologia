@@ -45,3 +45,4 @@
 - [List of largest container shipping companies](https://en.wikipedia.org/wiki/List_of_largest_container_shipping_companies)
 - Liu, Sijing, et al. "Logistics cluster and its future development: A comprehensive research review." Transportation Research Part E: Logistics and Transportation Review 168 (2022): 102974.
 - Liu, Sijing, Guoqi Li, and Fengjun Jin. "Quantitative measurement and development evaluation of logistics clusters in China." Journal of Geographical Sciences 73 (2018): 1540-1555.
+- Francoa, Vladimir Balza, and Carlos Paternina Arboleda. "Clúster logísticos, una nueva categoría conceptual en la teoría de economías de aglomeración." DERROTERO, Revista de la Ciencia y la Investigación. 8.1 (2016).
