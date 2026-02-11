@@ -1,33 +1,39 @@
 # Hospitality and Tourism Productive Ecosystem
 
-Tags: Service
-: 44
-
 > The tourism industry is diverse and encompasses various sectors contributing to the travel experience.
-> 
 
 > A very spacial location based industry.
-> 
-
-> En los '90 en Canarias, si querías trabajar en el turismo, tenias que tener FP hecho. Cocina, camareros, atención al cliente, etc. Se preparaba a todo tipo de trabajador, idiomas incluido. Desde el botones, freganchines, hasta el director del hotel tenían estudios. Al finales de los'90, sobre el 98 o por ahí, los hoteles dejaron de ser guiados por hosteleros para caer en las manos de los "grandes inversores" y sacarlos a bolsa. Cuando antes de esta fecha, habían hoteles de 4 y 5 estrellas llenos con clientes de calidad, que gastaban dinero en los hoteles, casinos y restaurantes de calidad, creando empleo y vida de calidad. Entonces, a algún inversor de estos se le ocurrió la idea de abaratar costes, y transformó los hoteles de 4 y 5 estrellas en habitaciones con todo incluido. Eso hundió el turismo. 30 años de Formación Profesional a la mier.... por el todo incluido. El cliente reservaba la habitación , la estancia, y las excursiones con agencias de toda Europa, incluida España que se peleaban por venir. Ahora solo queda una agencia española que vive del inserso y los turistas que vienen no gastan ni para un bocadillo y el dinero se queda en las agencias de esos países, pagan muy poco a los hoteles. De 50€ por día y por persona con alojamiento desayuno y cena, se ha pasado a 5€ por persona con todo incluido. Menos personal para trabajar, sí pero ninguna calidad. Unas islas que podrían ser como Dubai, hundidas por los corruptos de siempre.
-> 
 
 QA:
 
-- What is the value added of tourism?
+- At which level should we analyze 'Hospitality and Tourism' productive activities: industry, sector, sub-sector, or another classification?
+- What is the value added of tourism, and how is it calculated?
 - Which  are the side effects of tourism?
 - Which are the diminishing effects of tourism?
 - Is this industry an big enabler to other industries?
 - How new tourism destinations are develop and evolved over time?
 - Which are the path to upgrade tourism destinations from low-value to high-value?
 - How to develop high-value tourism destination? Can we design an skill based tourism industry? What are the effects of commoditization on the tourism industry?
+- Which are the `R&D` Activies that impact the Industry?
+- What is the set of techniques used for production?
 
-## Index
+## Industry Set
+
+> Which industries belong to the "Hospitality and Tourism" sub-sector?
+
+| Industry                                | Description                                                                                                                                     |
+| --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hotels and Resorts**                  | Accommodation services including hotels, resorts, motels, and hostels, providing lodging, amenities, and guest services.                        |
+| **Restaurants and Catering**            | Food and beverage services for on-site consumption (restaurants, cafes, bars) and off-site catering services.                                   |
+| **Travel Agencies and Tour Operators**  | Businesses that organize, package, and sell travel services and tour experiences, including transport and guided tours.                         |
+| **Recreational and Cultural Services**  | Attractions, amusement parks, museums, cultural sites, entertainment venues, and other leisure activities aimed at tourists and local visitors. |
+| **Transportation Services for Tourism** | Passenger transport services specific to tourism, e.g., airport shuttles, sightseeing buses, cruise lines, and charter services.                |
+| **Event and Convention Services**       | Planning, hosting, and management of conferences, exhibitions, weddings, festivals, and other events for leisure or business purposes.          |
+| **Online Travel Services**              | Platforms for booking travel, accommodation, experiences, and other tourism-related services (OTAs, travel apps, meta-search engines).          |
 
 ## Industry Characterization
 
 > …
-> 
 
 | **Category** | **Description** | **Examples** |
 | --- | --- | --- |
@@ -45,7 +51,6 @@ QA:
 ## Industry Competitiveness
 
 > …
-> 
 
 | **Factor** | **Description** | **Examples** |
 | --- | --- | --- |
@@ -89,30 +94,17 @@ QA:
 | **Specialized Tours** | Culinary Tours, Photography Tours, Volunteer and Community Service Tours |
 | … | … |
 
-## Global Market in Data
+## Anexos
 
-> …
-> 
-
-[https://ourworldindata.org/grapher/average-expenditures-of-international-tourists-domestically?tab=chart](https://ourworldindata.org/grapher/average-expenditures-of-international-tourists-domestically?tab=chart)
-
-[https://ourworldindata.org/grapher/tourism-gdp-proportion-of-total-gdp?tab=map](https://ourworldindata.org/grapher/tourism-gdp-proportion-of-total-gdp?tab=map)
-
-[https://ourworldindata.org/grapher/average-length-of-stay?tab=map](https://ourworldindata.org/grapher/average-length-of-stay?tab=map)
-
-https://ourworldindata.org/grapher/average-expenditures-of-international-tourists-domestically?tab=chart
-
-https://ourworldindata.org/grapher/tourism-gdp-proportion-of-total-gdp
-
-https://ourworldindata.org/grapher/average-length-of-stay
+> En los '90 en Canarias, si querías trabajar en el turismo, tenias que tener FP hecho. Cocina, camareros, atención al cliente, etc. Se preparaba a todo tipo de trabajador, idiomas incluido. Desde el botones, freganchines, hasta el director del hotel tenían estudios. Al finales de los'90, sobre el 98 o por ahí, los hoteles dejaron de ser guiados por hosteleros para caer en las manos de los "grandes inversores" y sacarlos a bolsa. Cuando antes de esta fecha, habían hoteles de 4 y 5 estrellas llenos con clientes de calidad, que gastaban dinero en los hoteles, casinos y restaurantes de calidad, creando empleo y vida de calidad. Entonces, a algún inversor de estos se le ocurrió la idea de abaratar costes, y transformó los hoteles de 4 y 5 estrellas en habitaciones con todo incluido. Eso hundió el turismo. 30 años de Formación Profesional a la mier.... por el todo incluido. El cliente reservaba la habitación , la estancia, y las excursiones con agencias de toda Europa, incluida España que se peleaban por venir. Ahora solo queda una agencia española que vive del inserso y los turistas que vienen no gastan ni para un bocadillo y el dinero se queda en las agencias de esos países, pagan muy poco a los hoteles. De 50€ por día y por persona con alojamiento desayuno y cena, se ha pasado a 5€ por persona con todo incluido. Menos personal para trabajar, sí pero ninguna calidad. Unas islas que podrían ser como Dubai, hundidas por los corruptos de siempre.
 
 ## References
 
 - [World Tourism Rankings](https://en.wikipedia.org/wiki/World_Tourism_rankings)
 - [La Competividad en Turismo](https://www.ucipfg.com/Repositorio/MGTS/MGTS15/MGTSV15-07/semana2/LS2.6.pdf)
-- https://ourworldindata.org/tourism
 - Dona, Ion, and Dan Popa. "Tourism destination mapping through cluster analysis." Scientific Papers Series Management, Economic Engineering in Agriculture and Rural Development 13.2 (2013): 133-138.
 - Yılmaz, Yıldırım, and Umit S. Bititci. "Performance measurement in tourism: a value chain model." *International journal of contemporary hospitality management* 18.4 (2006): 341-349.
 - Buhalis, Dimitrios. "Tourism in Greece: Strategic analysis and challenges." Current Issues in Tourism 4.5 (2001): 440-480.
 - Aldebert, Bénédicte, Rani J. Dang, and Christian Longhi. "Innovation in the tourism industry: The case of Tourism@." Tourism management 32.5 (2011): 1204-1213.
-- …
+- Paredes, Paula Greciet. "La Formación profesional reglada en hostelería y turismo:(Federación Española de Escuelas de Turismo)." Estudios turísticos 128 (1995): 81-98.
+- [Our World In Data · Tourism](https://ourworldindata.org/tourism)
