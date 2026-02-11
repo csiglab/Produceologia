@@ -29,6 +29,16 @@
 | **Complexity Costs**                     | Additional costs created by **greater product, process, or organizational complexity**, often scaling non-linearly with variety or size.                                                           |
 | **Scope Diseconomies**                   | When producing multiple products jointly **raises costs** due to integration failures, incompatible capabilities, or managerial overload.                                                          |
 
+## Industry Classification
+
+| **Level** | **Name**             | **Description**                                                                                                                                       |
+| --------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1         | **Product**          | A specific good or service produced (e.g., *Smartphone*, *Steel Rod*, *Wheat Flour*).                                                                 |
+| 2         | **Product Group**    | A group of closely related products with similar characteristics or functions (e.g., *Mobile Devices*, *Steel Products*, *Processed Grains*).         |
+| 3         | **Industry**         | A collection of firms producing similar products or services (e.g., *Telecommunications Equipment Manufacturing*, *Steel Manufacturing*).             |
+| 4         | **Industrial Group** | A broader aggregation of related industries sharing production processes, inputs, or markets (e.g., *Metals & Mining*, *Electronics Manufacturing*).  |
+| 5         | **Sector**           | A major segment of the economy composed of multiple industrial groups with shared characteristics (e.g., *Manufacturing*, *Information Technology*).  |
+| 6         | **Major Sector**     | The highest level of aggregation, representing a large division of the economy (e.g., *Goods-Producing Industries*, *Services-Producing Industries*). |
 
 ## Product Clasification System
 
@@ -40,17 +50,6 @@
 | **CPA (EU Classification of Products by Activity)**         | EU system for economic statistics, linked to NACE (EU version of ISIC)            | Very detailed               |
 | **BEC (Broad Economic Categories)**                         | Classifies products by their use (e.g., capital, consumption, intermediate goods) | Broad                       |
 
-
-## Industry Classification
-
-| **Level** | **Name**             | **Description**                                                                                                                                       |
-| --------- | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1         | **Product**          | A specific good or service produced (e.g., *Smartphone*, *Steel Rod*, *Wheat Flour*).                                                                 |
-| 2         | **Product Group**    | A group of closely related products with similar characteristics or functions (e.g., *Mobile Devices*, *Steel Products*, *Processed Grains*).         |
-| 3         | **Industry**         | A collection of firms producing similar products or services (e.g., *Telecommunications Equipment Manufacturing*, *Steel Manufacturing*).             |
-| 4         | **Industrial Group** | A broader aggregation of related industries sharing production processes, inputs, or markets (e.g., *Metals & Mining*, *Electronics Manufacturing*).  |
-| 5         | **Sector**           | A major segment of the economy composed of multiple industrial groups with shared characteristics (e.g., *Manufacturing*, *Information Technology*).  |
-| 6         | **Major Sector**     | The highest level of aggregation, representing a large division of the economy (e.g., *Goods-Producing Industries*, *Services-Producing Industries*). |
 
 ## Market
 
