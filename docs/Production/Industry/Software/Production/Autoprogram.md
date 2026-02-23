@@ -335,3 +335,5 @@ Process Architecture:
 - https://github.com/dbremont/documentorum/blob/main/tool
 - [Code Search](https://www.notion.so/Code-Search-ad65b85fa3714679a57e07c027b91b88?pvs=21)
 - https://prompts.chat/
+- https://github.com/dbremont/specs
+- https://skills.sh/
