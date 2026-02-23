@@ -1,5 +1,5 @@
 # Constitutive Technical Object
- 
+
 > A Software Component (Supply) represents any computational building block that can be produced, deployed, and integrated within a software system. Components are categorized by their Type/Domain, Form, Function, and Computational Role, providing a clear abstraction for system construction and analysis.
 
 ## Dimension
@@ -688,10 +688,38 @@ TODO:
 
 - [ ]  https://justaqrcode.com/
 
-## Useful Command
+## Text Autosuggestion
 
-- `docker container stop  $(docker container ls | awk  '{print $1}' | tail -n  +2)`
-- …
+> Powering Corrections, etc.
+
+> Text Autosuggestion is a real-time linguistic inference mechanism that predicts and proposes candidate tokens (words, phrases, or character sequences) during user text input, based on partial input and contextual signals.
+
+Constitutive Techniques:
+
+- Probabilistic Language Modeling
+- Sequence Modeling (Autoregression)
+- Context Encoding
+- Candidate Generation
+- Ranking & Scoring
+- Spell Correction Integration
+- Personalization & Online Adaptation
+- Latency Optimization Techniques
+- UI Mediation Strategy
+
+Constitutive Technical Objects: (Can these techniques be embedded into a technical object that can be integrated **(Embeddable)** to build larger end products?)
+
+- ...
+
+Evaluation Metrics -> (Solutions -> Trade offs):
+
+- ...
+
+Cases:
+
+- Apple Inc. Method, System, and Graphical User Interface for Providing Word Recommendations. U.S. Patent 8,074,172 B2, issued December 6, 2011.
+- Gboard — Gboard
+- SwiftKey — Microsoft SwiftKey
+- Gmail Smart Compose
 
 ## References
 
