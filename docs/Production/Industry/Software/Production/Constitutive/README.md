@@ -1,5 +1,5 @@
- Component (Supply)
-
+# Constitutive Technical Object
+ 
 > A Software Component (Supply) represents any computational building block that can be produced, deployed, and integrated within a software system. Components are categorized by their Type/Domain, Form, Function, and Computational Role, providing a clear abstraction for system construction and analysis.
 
 ## Dimension

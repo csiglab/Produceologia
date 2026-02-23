@@ -259,7 +259,7 @@ Often completely omitted.
 | Ethics | Sustainability Modeling | Environmental cost      |
 
 
-## Technique Space
+## Technique Space (Constitutive and Operational Techniques)
 
 > **Methods or techniques used to address tasks.**
 
