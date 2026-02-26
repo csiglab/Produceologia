@@ -7,11 +7,12 @@
 
 Guiding Questions:
 
-- How can we characterize the new vanguard of production (Technoetism)?
+- How can we characterize the new vanguard of production (Technoetism)? A synthesis of general-purpose technical objects with a large capacity for intelligent, adaptable, or cross-domain functionality.
+- Which is the **limit** of this **vanguard**?
 - Which other names are used for this vanguard? (e.g., Knowledge Economy, …)
-- How to integrate 'Smart' Functionality into Classical Software?
-- Transformation
+- Operation
      - How can current processes be reformulated using Technoetism?
      - How can existing workflows be upgraded through Technoetist methods?
      - How can Technoetism enable expansion into new problem domains?
+     - How to integrate 'Smart' Functionality into Classical Software?
 - Which questions should I be asking in order to characterize this new era?
