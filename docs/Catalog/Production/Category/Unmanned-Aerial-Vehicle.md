@@ -1,9 +1,6 @@
 # Unmanned Aerial Vehicle
 
-: 23
-
 > …
-> 
 
 ## Value Chain
 
