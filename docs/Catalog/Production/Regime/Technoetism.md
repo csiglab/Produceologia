@@ -9,7 +9,7 @@ Guiding Questions:
 - How can we characterize the new vanguard of production (Technoetism)? A synthesis of general-purpose technical objects with a large capacity for intelligent, adaptable, or cross-domain functionality.
 - Which is the **limit** of this **vanguard**?
 - Which other names are used for this vanguard? (e.g., Knowledge Economy, …)
-- Operation
+- Operation:
     - How can current processes be reformulated using Technoetism?
     - How can existing workflows be upgraded through Technoetist methods?
     - How can Technoetism enable expansion into new problem domains?
@@ -20,3 +20,4 @@ Guiding Questions:
 
 - [AI-First Company Memos](https://the-ai-native.company/)
 - [Software Production](../../../Production/Industry/Software/Production/README.md)
+- [The 2028 Chinese Intelligence Crisis](https://www.eastisread.com/p/the-2028-chinese-intelligence-crisis)
