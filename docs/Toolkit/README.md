@@ -22,3 +22,5 @@
 - [Yahoo Finance](https://finance.yahoo.com/)
 
 - [Finnhub Stock API](https://finnhub.io/)
+
+- [How will OpenAI compete?](https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x)

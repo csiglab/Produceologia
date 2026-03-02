@@ -321,7 +321,6 @@ Process Architecture:
 - https://skillsmp.com/
 - https://prpm.dev/
 - https://github.com/f/prompts.chat
--
 - https://github.com/dbremont/documentorum/blob/main/tool/firefox.md
 - https://www.bremontix.xyz/lab/pro/Production/Industry/Software/Production/Productivity/
 - https://github.com/browser-use/web-ui
@@ -337,3 +336,4 @@ Process Architecture:
 - https://prompts.chat/
 - https://github.com/dbremont/specs
 - https://skills.sh/
+- https://www.fast.ai/posts/2026-01-28-dark-flow/
