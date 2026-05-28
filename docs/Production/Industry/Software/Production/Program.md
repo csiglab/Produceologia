@@ -2,6 +2,13 @@
 
 > **How to Produce Software 1.0 (Program)?** Software 1.0 refers to traditional software: source code written by human developers using deterministic logic, algorithms, and data structures to solve well-specified problems.
 
+**TODO:**
+
+* [ ] Think more deeply about problematization.
+* [ ] Think more deeply about how to integrate software into the workflow. This typically requires redesigning the workflow in terms of better-defined technical objects, rather than adapting the software to a flawed process. This is critical: a poorly designed workflow or task-execution model will render even the best technical systems unproductive.
+
+
+
 ## Formulation
 
 > **What is a Software 1.0 (Program)?**
