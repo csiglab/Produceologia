@@ -30,8 +30,8 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/csiglab/Produceologia:${{ github.sha }}
-            ghcr.io/csiglab/Produceologia:latest
+            ghcr.io/csiglab/produceologia:${{ github.sha }}
+            ghcr.io/csiglab/produceologia:latest
 
 #  deploy:
 #    name: Deploy to server
