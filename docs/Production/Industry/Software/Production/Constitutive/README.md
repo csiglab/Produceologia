@@ -845,6 +845,8 @@ https://github.com/Infisical/infisical/
 
 https://github.com/openreplay/openreplay/
 
+https://github.com/rrweb-io/rrweb
+
 https://status.io/
 
 https://github.com/sinaptik-ai/pandas-ai
