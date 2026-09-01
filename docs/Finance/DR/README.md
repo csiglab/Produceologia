@@ -41,16 +41,30 @@
 
 ## References
 
-- [Banco Central de la República Dominicana](https://www.bancentral.gov.do) — Monetary authority, monetary policy, payments, financial statistics, and financial-system information.
-- [Ministerio de Hacienda de la República Dominicana](https://www.hacienda.gob.do) — Fiscal policy, public finances, government financing, and public debt.
-- [Superintendencia de Bancos de la República Dominicana](https://www.sb.gob.do) — Supervision and regulation of financial intermediation entities.
-- [Superintendencia del Mercado de Valores de la República Dominicana](https://simv.gob.do) — Regulation and supervision of the securities market and its participants.
-- [Superintendencia de Seguros de la República Dominicana](https://www.superseguros.gob.do) — Regulation and supervision of the insurance sector.
-- [Superintendencia de Pensiones de la República Dominicana](https://www.sipen.gov.do) — Regulation and supervision of the pension system.
-- [Dirección General de Impuestos Internos (DGII)](https://dgii.gov.do) — Tax administration and revenue collection.
-- [Dirección General de Aduanas (DGA)](https://www.aduanas.gob.do) — Customs administration and international trade-related fiscal flows.
-- [Bolsa y Mercado de Valores de la República Dominicana (BVRD)](https://bvrd.com.do) — Securities-market trading and market infrastructure.
-- [Depósito Centralizado de Valores (CEVALDOM)](https://www.cevaldom.com) — Securities custody, registration, clearing, and settlement infrastructure.
-- [Asociación de Bancos Múltiples de la República Dominicana (ABA)](https://aba.org.do) — Banking-sector industry association.
-- [Asociación Dominicana de Administradoras de Fondos de Pensiones (ADAFP)](https://adafp.org.do) — Pension-fund industry representation.
-- [Cámara de Comercio y Producción de Santo Domingo](https://www.camarasantodomingo.do) — Relevant business/institutional ecosystem reference.
+- [Banco Central de la República Dominicana (BCRD)](https://www.bancentral.gov.do?utm_source=chatgpt.com) — Monetary authority, monetary policy, payments, financial statistics, and financial-system information.
+
+- [Ministerio de Hacienda de la República Dominicana](https://www.hacienda.gob.do?utm_source=chatgpt.com) — Fiscal policy, public finances, government financing, and public debt.
+
+- [Dirección General de Crédito Público (DGCP)](https://www.creditopublico.gob.do/?utm_source=chatgpt.com) — Public-debt management, government borrowing, debt instruments, debt statistics, issuance, and public-credit operations.
+
+- [Superintendencia de Bancos de la República Dominicana (SB)](https://www.sb.gob.do?utm_source=chatgpt.com) — Supervision and regulation of financial intermediation entities.
+
+- [Superintendencia del Mercado de Valores de la República Dominicana (SIMV)](https://simv.gob.do?utm_source=chatgpt.com) — Regulation and supervision of the securities market, issuers, intermediaries, investment funds, and other market participants.
+
+- [Superintendencia de Seguros de la República Dominicana](https://www.superseguros.gob.do?utm_source=chatgpt.com) — Regulation and supervision of the insurance sector.
+
+- [Superintendencia de Pensiones (SIPEN)](https://www.sipen.gov.do?utm_source=chatgpt.com) — Regulation and supervision of the pension system and pension funds.
+
+- [Dirección General de Impuestos Internos (DGII)](https://dgii.gov.do?utm_source=chatgpt.com) — Tax administration, tax collection, taxpayer registration, and domestic fiscal flows.
+
+- [Dirección General de Aduanas (DGA)](https://www.aduanas.gob.do?utm_source=chatgpt.com) — Customs administration, imports and exports, customs duties, and international-trade-related fiscal flows.
+
+- [Bolsa y Mercado de Valores de la República Dominicana (BVRD)](https://bvrd.com.do?utm_source=chatgpt.com) — Securities-market trading, quotation, and market infrastructure.
+
+- [Depósito Centralizado de Valores (CEVALDOM)](https://www.cevaldom.com?utm_source=chatgpt.com) — Central securities depository, custody, registration, clearing, and settlement infrastructure.
+
+- [Asociación de Bancos Múltiples de la República Dominicana (ABA)](https://aba.org.do?utm_source=chatgpt.com) — Banking-sector industry association and institutional reference.
+
+- [Asociación Dominicana de Administradoras de Fondos de Pensiones (ADAFP)](https://adafp.org.do?utm_source=chatgpt.com) — Pension-fund industry association and institutional reference.
+
+- [Cámara de Comercio y Producción de Santo Domingo](https://www.camarasantodomingo.do?utm_source=chatgpt.com) — Business, corporate, commercial, and institutional ecosystem reference.
