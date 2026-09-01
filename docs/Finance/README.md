@@ -8,8 +8,9 @@
 
 > Finance functions in economic systems like energy functions in physical systems: an abstract enabling medium that makes all higher-order processes possible through flows, transformations, and intertemporal storage.
 
+- Tip: See our - research notes and tools (https://github.com/dbremont/fin-research).
 
-QA
+QA:
 
 - How does the industry create value?
 - What problems does the industry solved?
