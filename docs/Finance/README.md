@@ -1,47 +1,20 @@
-# Finance
+# Finance Sector
 
-> Financial Sector: The financial sector comprises the set of institutions, markets, infrastructures, and services responsible for the intermediation, allocation, transformation, and governance of financial resources. It includes banking, investment services, insurance, asset and wealth management, capital markets, payment systems, and financial technology providers. Its core functions are to allocate capital efficiently, manage and redistribute risk, enable liquidity and payment flows, and support economic growth and systemic stability.
-
-> **Finance** is the system through which financial claims (assets, liabilities, and risk exposures) are created, transferred, and reallocated among economic agents.
-
-> **Note**: Finance is placed at the root of the tree because it represents the most abstract set of tools through which surplus value is mobilized, allocated, and transformed.
+> In this subtree of the notes, we explore one of the backbones of civilization: the financial sector—the system responsible for mobilizing, allocating, transferring, transforming, and managing capital, financial resources, and risk throughout the economy.
 
 > Finance functions in economic systems like energy functions in physical systems: an abstract enabling medium that makes all higher-order processes possible through flows, transformations, and intertemporal storage.
 
-- Tip: See our - research notes and tools [fin-research](https://github.com/dbremont/fin-research).
+>  Tip: See our - research notes and tools in [fin-research](https://github.com/dbremont/fin-research).
 
 QA:
 
 - How does the industry create value?
 - What problems does the industry solved?
-- What is money in finance? Mechanism, Instrument?a
-
-## Terminology
-
-> Note: The same element (debt) can be characterized either as a financial instrument or as a financial product, depending on the context.
-
-> Note: Some intermediary firms - raise funds with financial products   - to deploy it with financial instruments.
-
-> **Note:** The notion of a **Financial Element** provides a unifying label for all categories of entities—whether physical, legal, contractual, or abstract—that participate in, structure, or operate within the financial system.
-
-| **Term**                  | **Definition**                                                                                                                                                                                                                                             | **Case(s)**                                                                                   |
-| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| **Financial Instrument**  | A **contractual claim that creates a financial asset for one party and a financial liability or equity position for another**, with value derived from specified cash-flow rights or risk exposures.                                                       | Common stock, U.S. Treasury bond, Bitcoin futures                                             |
-| **Financial Mechanism**   | A **structured process, rule set, or arrangement** that enables the transfer, allocation, transformation, or protection of financial resources.                                                                                                            | Interest compounding, mortgage securitization, collateralized loan obligation creation        |
-| **Financial Vehicle**     | A **legal or organizational structure** created to hold, manage, pool, or invest assets through financial instruments and mechanisms.                                                                                                                      | Vanguard S&P 500 ETF, Cayman project-finance SPV, pension fund trust                          |
-| **Financial Product**     | A **packaged, end-user–oriented offering**, typically integrating instruments, mechanisms, and sometimes vehicles into a commercially distributed solution.                                                                                                | Fixed-rate mortgage, life insurance policy, structured note linked to an equity index         |
-| **Financial Institution** | An **entity that produces, intermediates, manages, or regulates financial services** using instruments, mechanisms, vehicles, and products.                                                                                                                | JPMorgan Chase (bank), BlackRock (asset manager), Allianz (insurer)                           |
-| **Financial Asset**       | A **contractual right to receive cash, another financial asset, or a residual claim on an entity**, representing an economic resource for the holder.                                                                                                      | Cash, accounts receivable, debt securities held, equity held (ownership stake)                |
-| **Financial Element**     | A **fundamental unit or component within the financial domain**, such as an instrument, mechanism, vehicle, product, asset, or service, used to build, combine, or analyze financial structures and processes.                                             | A bank account (deposit), a repo agreement, a collateral pool, a credit enhancement           |
-| **Financial Security**    | A **standardized, tradable financial instrument** that represents either (a) an ownership claim, (b) a creditor relationship, or (c) a derivative exposure, and is intended for **market issuance, transferability, and price discovery**.                 | Publicly traded equities, corporate bonds, listed options, ETFs                               |
-| **Financial System**      | The **macro-level architecture** comprising institutions, markets, infrastructures, legal frameworks, and regulatory bodies that collectively enable the creation, allocation, transfer, pricing, and governance of financial resources across an economy. | U.S. financial system, Eurozone financial system, Singapore financial system                  |
-| **Financial Services**    | The set of **operational activities and functions** performed by financial institutions to facilitate intermediation, capital allocation, risk management, liquidity provision, payments, and advisory support.                                            | Lending, underwriting, asset management, custody services, payments processing, insurance     |
-| **Financial Market**      | An **organized environment or platform**—formal or informal—through which financial instruments and securities are issued, exchanged, priced, and settled, enabling liquidity, price discovery, and capital formation.                                     | Stock exchanges, bond markets, money markets, derivatives markets, FX markets                 |
-| **Monetary Authority**    | The **institutional entity responsible for monetary policy, financial stability oversight, macroprudential regulation, and currency issuance**, often including central banking and systemic risk governance functions.                                    | Federal Reserve System, European Central Bank, Monetary Authority of Singapore, Bank of Japan |
+- What is money in finance? Mechanism, Instrument?
 
 ## Formulation
 
-> How to think about finance?
+### How to think about finance?
 
 In the most abstract, system-level terms, the **function of finance** is:
 
@@ -53,197 +26,319 @@ In the most abstract, system-level terms, the **function of finance** is:
 - **Asset Custody and Safekeeping**: Finance offers institutional mechanisms to hold, protect, administer, and record ownership of assets, including securities, cash, commodities, and digital claims. This function underpins trust, enforceability, and the integrity of property rights in the system.
 - **Exchange, Clearing, and Settlement Enablement**: Finance supplies the infrastructures and protocols that allow agents to transfer ownership and discharge obligations securely, reliably, and at scale. This includes payment rails, clearinghouses, custodians, and settlement systems.
 
-## Element Space
+### How is the financial sector structured?
 
-> Which types of elements exist in the financial system?
+| **Division**                    | **Description**                                                                                                                                            | **Instance(s)**                                                                                |
+| ------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Financial Sector**            | Broad economic sector comprising activities concerned with financial intermediation, investment, risk transfer, payments, and related financial functions. | *                                                                               |
+| **Financial Subsector**         | Major branch of the financial sector grouping related industries according to a broad financial function.                                                  | Banking, Insurance, Capital Markets, Asset Management                                          |
+| **Financial Industry**          | Group of organizations performing a relatively distinct type of financial economic activity within a subsector.                                            | Commercial Banking, Investment Banking, Life Insurance, Securities Brokerage                   |
+| **Financial Industry Segment**  | Subdivision of an industry based on a specific business activity, customer group, product, market, or other relevant criterion.                            | Retail Banking, Corporate Banking, Mortgage Banking, Reinsurance                               |
+| **Specific Financial Activity** | A specific economic activity performed within an industry segment.                                                                                         | Deposit-taking, mortgage lending, equity underwriting, securities trading, claims underwriting |
 
-| **Type**                        | **Description**                                                                                                            | **Element(s)**                                                                        |
-| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
-| **Financial Instrument**        | Contractual claim that generates a financial asset for one party and a liability or equity position for another.           | Equity share, corporate bond, bank deposit, loan contract, option, swap               |
-| **Financial Asset**             | Economic resource representing a right to receive cash, another asset, or a residual claim.                                | Cash, accounts receivable, equity held, debt securities held                          |
-| **Financial Liability**         | Obligation to deliver cash or another financial asset to another party.                                                    | Issued bonds, bank deposits (bank side), outstanding loans                            |
-| **Financial Mechanism**         | Process, rule set, or structured arrangement that transforms, allocates, or protects financial resources.                  | Interest compounding, collateralization, securitization structure, netting agreements |
-| **Financial Vehicle**           | Legal or organizational structure designed to hold, pool, manage, or invest assets.                                        | ETF, mutual fund, SPV, pension fund trust                                             |
-| **Financial Product**           | Packaged, end-user-oriented offering integrating instruments and mechanisms into a commercial solution.                    | Mortgage, credit card, insurance policy, structured note                              |
-| **Financial Institution**       | Entity that produces, intermediates, manages, or regulates financial services using instruments, vehicles, and mechanisms. | Bank, insurer, asset manager, broker-dealer                                           |
-| **Financial Service**           | Operational activity that facilitates intermediation, risk transfer, liquidity provision, payments, or advisory support.   | Lending, underwriting, asset management, custody, payments processing                 |
-| **Financial Market**            | Organized environment where financial instruments and securities are issued, exchanged, priced, and settled.               | Stock market, bond market, derivatives exchange, FX market                            |
-| **Financial Infrastructure**    | Technical and institutional backbone that enables issuance, trading, clearing, settlement, and information exchange.       | Payment systems, clearinghouses, custodians, depositories, SWIFT                      |
-| **Financial Claim**             | Right to receive cash or assets from another party under predefined terms.                                                 | Deposit claim, bondholder claim, insurance claim                                      |
-| **Financial Contract**          | Formal legal agreement defining rights, obligations, cash flows, and contingencies between parties.                        | ISDA, loan agreement, repo contract, insurance contract                               |
-| **Financial Position**          | Quantified exposure held by a participant resulting from owning or owing instruments.                                      | Long equity position, short futures position, leveraged loan exposure                 |
-| **Financial Flow**              | Movement of value between parties resulting from instruments, contracts, or operational activities.                        | Coupon payment, dividend, margin posting, cash transfer                               |
-| **Legal/Organizational Entity** | Legal structure that can issue instruments, hold assets, incur liabilities, or operate financial activities.               | Corporation, trust, partnership, fund entity                                          |
-| **Regulatory Entity**           | Authority responsible for monetary policy, financial stability, market regulation, and systemic oversight.                 | Central bank, securities regulator, supervisory authority                             |
+### What are the ontic–epistemic categories of elements that exist in the financial sector?
 
+Ontic - Epistemic Category:
 
-## Market Space
+- Things/entities: financial entity, institution, vehicle, infrastructure
+- Institutional environments: financial market
+- Activities/processes: financial activity, service, mechanism, flow
+- Legal objects: contract, instrument, claim
+- Economic states/resources: asset, liability, equity, position
+- Properties/conditions: risk, exposure
+- Classifications: asset class
+- Normative elements: financial rule
+- Information/measurement: financial information, metric, valuation
 
-> Which are the types of financial markets?
+### Which types of elements exist in the financial sector?
 
-| **Category**                            | **Market**                         | **Description**                                                                           |
-| --------------------------------------- | ---------------------------------- | ----------------------------------------------------------------------------------------- |
-| **Money Markets**                       | Interbank Lending                  | Short-term unsecured loans between banks to manage daily liquidity.                       |
-| Money Markets                           | Repo Market                        | Collateralized short-term lending using securities (typically government bonds).          |
-| Money Markets                           | Treasury Bill Market               | Issuance and trading of short-term sovereign debt (T-bills).                              |
-| Money Markets                           | Commercial Paper Market            | Unsecured short-term corporate debt used for working capital financing.                   |
-| Money Markets                           | Certificates of Deposit Market     | Negotiable bank CDs traded among institutional investors.                                 |
-| Money Markets                           | Central Bank Liquidity Facilities  | Standing facilities, auctions, discount window, and short-term refinancing operations.    |
-| **Capital Markets**                     | Equity Market                      | Issuance and trading of company shares (primary and secondary).                           |
-| Capital Markets                         | Corporate Bond Market              | Issuance and trading of medium- and long-term corporate debt.                             |
-| Capital Markets                         | Government Bond Market             | Medium- and long-term sovereign debt securities.                                          |
-| Capital Markets                         | Municipal Bond Market              | Debt issued by subnational governments or public entities.                                |
-| Capital Markets                         | Convertible Securities Market      | Hybrid debt-equity instruments convertible into stock.                                    |
-| **Derivative Markets**                  | Futures Market                     | Exchange-traded standardized contracts for future delivery of assets.                     |
-| Derivative Markets                      | Options Market                     | Rights (but not obligations) to buy or sell assets at specified terms.                    |
-| Derivative Markets                      | Swap Market                        | OTC contracts exchanging cash flows (interest rate swaps, FX swaps, etc.).                |
-| Derivative Markets                      | Credit Derivatives Market          | Instruments for transferring credit risk (CDS, CDO tranches).                             |
-| Derivative Markets                      | Commodities Derivatives            | Derivatives on oil, metals, agriculture, etc.                                             |
-| **Foreign Exchange (FX) Markets**       | Spot FX Market                     | Immediate settlement of currency exchange.                                                |
-| FX Markets                              | Forward FX Market                  | Contracts to exchange currencies at a future date.                                        |
-| FX Markets                              | FX Swaps Market                    | Combined spot+forward operations to manage short-term funding in different currencies.    |
-| FX Markets                              | FX Options Market                  | Options on currency pairs for hedging and speculation.                                    |
-| **Credit Markets**                      | Retail Lending Market              | Consumer lending (personal loans, credit cards).                                          |
-| Credit Markets                          | Mortgage Market                    | Residential and commercial real estate lending and trading of mortgages.                  |
-| Credit Markets                          | Wholesale/Corporate Lending Market | Bank lending to firms and institutions.                                                   |
-| Credit Markets                          | Securitization Market              | Packaging loans (mortgages, auto loans, receivables) into tradable securities (ABS, MBS). |
-| Credit Markets                          | Private Credit Market              | Direct lending by non-bank entities (funds, institutional investors).                     |
-| **Insurance and Risk Transfer Markets** | Insurance Market                   | Risk pooling contracts covering life, health, and property risks.                         |
-| Insurance and Risk Transfer             | Reinsurance Market                 | Transfer of risk from insurers to other insurers or reinsurers.                           |
-| Insurance and Risk Transfer             | Catastrophe Risk Market            | CAT bonds and risk-linked securities transferring disaster risk to investors.             |
-| **Alternative Asset Markets**           | Private Equity Market              | Investment in private companies through buyouts and growth capital.                       |
-| Alternative Asset Markets               | Venture Capital Market             | Early-stage equity financing for startups.                                                |
-| Alternative Asset Markets               | Real Estate Capital Market         | Trading and financing for real estate assets and REITs.                                   |
-| Alternative Asset Markets               | Infrastructure Finance Market      | Equity and debt financing for infrastructure projects.                                    |
-| Alternative Asset Markets               | Commodities Market (Physical)      | Trading of physical commodities (energy, metals, agriculture).                            |
-| Alternative Asset Markets               | Digital Asset Market               | Trading of cryptoassets, stablecoins, tokenized assets.                                   |
-| **Market Infrastructure Spaces**        | Exchange Markets                   | Organized venues for trading equities, derivatives, and commodities.                      |
-| Market Infrastructure                   | OTC Markets                        | Bilateral markets without centralized exchanges.                                          |
-| Market Infrastructure                   | Clearing & Settlement Markets      | CCP intermediation, securities settlement, and collateral services.                       |
-| Market Infrastructure                   | Repo & Securities Lending          | Borrowing/lending of securities for liquidity and leverage.                               |
+> Note: Some financial elements are **not orthogonal** to one another; a single element, such as a bond, may span several categories—for example, instrument, asset, and financial product.
 
-## Financial Infrastructure
+> Broad economic sector comprising activities concerned with financial intermediation, investment, risk transfer, payments, and related financial functions.
 
-> How are financial transactions carried out?
+| **Type**                     | **Description**                                                                                                                           | **Element(s)**                                                                    |
+| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Financial Entity**         | Legal or organizational actor that participates in financial activity.                                                                    | Corporation, bank, insurer, fund, trust, partnership                              |
+| **Financial Institution**    | Entity whose principal activities involve providing, intermediating, managing, or regulating financial services.                          | Bank, insurer, asset manager, broker-dealer                                       |
+| **Regulatory Entity**        | Entity responsible for monetary, prudential, market, or systemic oversight.                                                               | Central bank, securities regulator, supervisory authority                         |
+| **Financial Market**         | Institutional or organized environment in which financial claims or instruments are issued, traded, priced, or settled.                   | Bond market, equity market, FX market, derivatives market                         |
+| **Financial Infrastructure** | Technical, institutional, and operational systems supporting financial transactions and information flows.                                | Payment system, clearinghouse, CSD, settlement system, SWIFT                      |
+| **Financial Service**        | Activity performed to provide a financial function to another participant.                                                                | Lending, underwriting, brokerage, custody, payments                               |
+| **Financial Product**        | Packaged financial offering provided to an end user or institutional customer.                                                            | Mortgage, credit card, insurance policy, structured note                          |
+| **Financial Vehicle**        | Legal or organizational structure established to hold, pool, finance, or invest assets.                                                   | ETF, mutual fund, SPV, pension fund                                               |
+| **Financial Mechanism**      | Process, rule, or arrangement through which financial resources, claims, risks, or obligations are transformed or transferred.            | Collateralization, securitization, netting, interest compounding                  |
+| **Financial Contract**       | Legal agreement establishing rights, obligations, cash flows, or contingencies between parties.                                           | Loan agreement, repo, ISDA, insurance contract                                    |
+| **Financial Instrument**     | Contractual instrument that creates, represents, transfers, or modifies financial claims, obligations, ownership interests, or exposures. | Bond, share, loan, option, swap, deposit                                          |
+| **Financial Claim**          | Enforceable right against another party to receive money, another financial asset, or a residual value.                                   | Deposit claim, bondholder claim, receivable                                       |
+| **Financial Asset**          | Financial resource representing a contractual right or residual claim.                                                                    | Cash, deposit, bond held, equity held, receivable                                 |
+| **Financial Asset Class**    | Category of financial assets sharing relevant economic, contractual, risk, or return characteristics.                                     | Equity, fixed income, cash, derivatives, commodities, alternative assets          |
+| **Financial Liability**      | Present obligation to deliver cash or another financial asset to another party.                                                           | Deposit liability, issued bond, loan payable, accounts payable                    |
+| **Financial Equity**         | Residual interest in an entity after deducting its liabilities from its assets.                                                           | Common equity, preferred equity, retained earnings                                |
+| **Financial Position**       | Participant's financial state or set of holdings and obligations at a given point in time.                                                | Long equity position, short futures position, net debt position                   |
+| **Financial Flow**           | Transfer or change in financial value between participants over time.                                                                     | Coupon payment, dividend, loan disbursement, margin payment                       |
+| **Financial Activity**       | Action or operation involving financial resources, claims, instruments, contracts, risks, or obligations.                                 | Borrowing, lending, investing, trading, underwriting, hedging                     |
+| **Financial Risk**           | Possibility that an uncertain event or variable produces an adverse financial outcome.                                                    | Credit risk, market risk, liquidity risk, operational risk                        |
+| **Financial Exposure**       | Degree or amount to which an entity is economically affected by a financial variable, event, or counterparty.                             | Interest-rate exposure, FX exposure, credit exposure, equity exposure             |
+| **Financial Rule**           | Formal or informal norm governing financial behavior, transactions, rights, obligations, or institutions.                                 | Capital requirement, accounting rule, margin requirement, trading rule            |
+| **Financial Information**    | Data or knowledge representing financial entities, transactions, instruments, positions, markets, performance, or risks.                  | Financial statements, transaction records, prices, interest rates, credit ratings |
+| **Financial Metric**         | Quantitative measure used to describe financial condition, performance, value, risk, or activity.                                         | Revenue, ROE, leverage ratio, volatility, Sharpe ratio                            |
+| **Financial Valuation**      | Process or resulting assessment of the economic value of a financial asset, liability, instrument, entity, or claim.                      | Bond valuation, equity valuation, option pricing, enterprise valuation            |
 
-> Add Deposit Instrument
-
-| **Category**                               | **System**                                   | **Description**                                                                                                         |
-| ------------------------------------------ | -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Payments Infrastructure**                | Real-Time Gross Settlement (RTGS)            | High-value, real-time settlement systems operated by central banks (e.g., Fedwire, TARGET2).                            |
-| Payments Infrastructure                    | Automated Clearing House (ACH)               | Batch-based clearing for low-value payments such as payroll, utility payments, and recurring transfers.                 |
-| Payments Infrastructure                    | Card Networks                                | Global payment networks (Visa, Mastercard, AmEx) enabling authorization, clearing, and settlement of card transactions. |
-| Payments Infrastructure                    | Fast Payment Systems                         | Instant retail payment systems (e.g., Faster Payments, PIX) enabling immediate funds transfers.                         |
-| Payments Infrastructure                    | Mobile and E-Money Platforms                 | Wallets, mobile money ecosystems, and stored-value systems enabling retail digital payments.                            |
-| **Clearing and Settlement Infrastructure** | Central Counterparties (CCPs)                | Entities that interpose themselves between trading parties, mitigating counterparty risk through multilateral netting.  |
-| Clearing & Settlement                      | Central Securities Depositories (CSDs)       | Systems for safekeeping, clearing, and transferring ownership of securities.                                            |
-| Clearing & Settlement                      | Securities Settlement Systems (SSS)          | Platforms ensuring delivery-versus-payment (DvP) finality of securities transactions.                                   |
-| Clearing & Settlement                      | Trade Repositories                           | Databases collecting and storing derivative transaction data for regulatory oversight.                                  |
-| **Information Infrastructure**             | Credit Bureaus                               | Systems collecting credit histories to support lending decisions and credit risk assessment.                            |
-| Information Infrastructure                 | Financial Market Data Providers              | Platforms such as Bloomberg or Refinitiv supplying prices, analytics, and market information.                           |
-| Information Infrastructure                 | Rating Agencies                              | Institutions issuing credit ratings for sovereigns, firms, and securities.                                              |
-| Information Infrastructure                 | Financial Reporting Systems                  | Accounting, auditing, and disclosure frameworks ensuring standardized information.                                      |
-| **Legal and Contractual Infrastructure**   | Secured Transactions Systems                 | Legal and registry systems enabling collateralization and security interests.                                           |
-| Legal Infrastructure                       | Bankruptcy & Resolution Regimes              | Frameworks governing insolvency, resolution, and creditor priority.                                                     |
-| Legal Infrastructure                       | Contract Enforcement Systems                 | Judicial and administrative systems that ensure enforceability of financial contracts.                                  |
-| **Regulatory Infrastructure**              | Prudential Supervision Systems               | Frameworks for monitoring capital, liquidity, and systemic risk in financial institutions.                              |
-| Regulatory Infrastructure                  | Market Conduct & Investor Protection Systems | Oversight mechanisms ensuring fair markets, transparency, and consumer protection.                                      |
-| Regulatory Infrastructure                  | AML/CFT Systems                              | Compliance infrastructure for anti-money laundering and counter-terrorist financing.                                    |
-| **Technical Infrastructure**               | Core Banking Systems                         | The operational backbone of banks supporting deposits, lending, payments, and accounting.                               |
-| Technical Infrastructure                   | Messaging Networks (e.g., SWIFT)             | Secure global communication systems enabling standardized financial messaging.                                          |
-| Technical Infrastructure                   | Collateral Management Systems                | Platforms managing collateral eligibility, valuation, and real-time margining.                                          |
-| Technical Infrastructure                   | Trading Platforms                            | Electronic trading systems for equities, bonds, derivatives, and FX.                                                    |
-| Technical Infrastructure                   | Digital Asset Infrastructure                 | Blockchains, custody solutions, and tokenization platforms enabling digital asset operations.                           |
-
-## Instrument Space
+## Financial Instrument Space
 
 > How is capital deployed?
 
-> **Note**: Depending on the perspective of the transaction, the same instrument can appear as an asset for one party and a liability for another. The instrument space formalizes this duality by specifying the contractual arrangement through which capital is deployed and the parties involved.
+> Note: A financial instrument is a contractual arrangement through which financial value, capital, rights, obligations, or exposures are created, transferred, financed, or allocated between parties. A financial instrument therefore establishes one or more financial positions, such as a financial asset, financial liability, or equity claim.
 
-| **Category**                           | **Instrument**                         | **Description**                                                                          | **Part(s)**                            |
-| -------------------------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------- | -------------------------------------- |
-| **Equity Instruments**                 | Common Equity                          | Ownership shares in a firm; residual claim on cash flows and governance.                 | Investor (owner); Firm (issuer)        |
-| Equity Instruments                     | Preferred Equity                       | Hybrid equity with fixed dividends and priority over common stock.                       | Investor; Firm                         |
-| Equity Instruments                     | Venture Equity                         | Early-stage equity deployed into startups with high uncertainty.                         | VC Fund; Startup                       |
-| Equity Instruments                     | Private Equity                         | Capital deployed to acquire, restructure, and operate firms privately.                   | PE Fund; Target Firm                   |
-| **Debt Instruments**                   | Corporate Bonds                        | Tradable debt obligations issued by firms with fixed or floating coupons.                | Lender (bondholder); Issuer (firm)     |
-| Debt Instruments                       | Loans (Term Loans, Revolvers)          | Bilateral or syndicated lending for operations, capex, or working capital.               | Lender (bank); Borrower                |
-| Debt Instruments                       | Government Bonds                       | Sovereign-issued debt for fiscal and liquidity purposes.                                 | Investor; Government                   |
-| Debt Instruments                       | Commercial Paper                       | Short-term unsecured corporate debt for working capital needs.                           | Investor; Issuer                       |
-| Debt Instruments                       | Mortgages                              | Collateralized real-estate loans with amortization and collateral rights.                | Lender; Borrower                       |
-| **Hybrid Instruments**                 | Convertible Notes                      | Debt that converts into equity under predefined triggers.                                | Investor; Issuing Firm                 |
-| Hybrid Instruments                     | Mezzanine Debt                         | Subordinated debt with equity features (warrants, PIK interest).                         | Lender; Borrower                       |
-| Hybrid Instruments                     | Perpetual Bonds                        | No-maturity hybrid securities combining debt-like and equity-like traits.                | Investor; Issuer                       |
-| **Securitized Instruments**            | Asset-Backed Securities (ABS)          | Claims backed by pools of loans (auto loans, credit cards).                              | Investor; SPV; Originator              |
-| Securitized Instruments                | Mortgage-Backed Securities (MBS)       | Claims backed by mortgage loans; principal/interest passed through.                      | Investor; SPV; Originator              |
-| Securitized Instruments                | Collateralized Debt Obligations (CDOs) | Tranches backed by structured pools of loans or ABS.                                     | Investor; SPV; Originator              |
-| **Derivative Instruments**             | Futures                                | Standardized contracts to buy/sell an asset in the future; used for hedging/speculation. | Long; Short; Exchange                  |
-| Derivatives                            | Options                                | Rights (not obligations) to buy/sell assets at specific terms.                           | Holder; Writer                         |
-| Derivatives                            | Swaps                                  | Bilateral exchange of cash flows (interest rate, FX, credit).                            | Party A; Party B                       |
-| Derivatives                            | Credit Default Swaps (CDS)             | Credit risk protection instrument; premium for default coverage.                         | Protection Buyer; Protection Seller    |
-| **Liquidity & Collateral Instruments** | Repo Agreements                        | Collateralized borrowing where securities are sold and repurchased.                      | Cash Lender; Cash Borrower; Collateral |
-| Liquidity Instruments                  | Securities Lending                     | Temporary loan of securities in exchange for collateral.                                 | Lender; Borrower; Collateral           |
-| Liquidity Instruments                  | Deposits                               | Capital deployed into bank liabilities for safekeeping and liquidity.                    | Depositor; Bank                        |
-| **Alternative Asset Instruments**      | Real Estate Investment Instruments     | Capital deployed into property assets, REIT shares, or project finance.                  | Investor; Property Vehicle             |
-| Alternative Assets                     | Infrastructure Finance Instruments     | Equity or debt funding for long‐lived infrastructure assets.                             | Investor; Project SPV                  |
-| Alternative Assets                     | Private Credit Instruments             | Non-bank loans from private funds; flexible structuring.                                 | Lender (Fund); Borrower                |
-| **Digital and Tokenized Instruments**  | Cryptoassets                           | Native digital assets (layer-1 tokens) used for value transfer or protocol staking.      | Holder; Network                        |
-| Digital Instruments                    | Stablecoins                            | Tokenized claims intending to maintain stable value (fiat-backed or algorithmic).        | Holder; Issuer                         |
-| Digital Instruments                    | Tokenized Securities                   | On-chain representations of traditional instruments (equity, bonds).                     | Investor; Issuer; Custodian            |
-| **Public Sector Instruments**          | Sovereign Wealth Fund Allocations      | State deployment of national capital into global investments.                            | SWF; Target Assets                     |
-| Public Sector Instruments              | Development Finance Instruments        | Concessional loans, guarantees, and blended finance to catalyze investment.              | DFI; Borrower                          |
+| **Instrument**                     | **Description**                                                                                                                | **Instrument Tree Path**                                            | **Usage**                                                    |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Financial Instrument**           | A contractual arrangement that creates a financial asset for one party and a financial liability or equity claim for another.  | Instrument → Financial Instrument                                   | General financial contracting                                |
+| **Debt Instrument**                | Contract creating an obligation to repay principal and usually interest or another return.                                     | → Financial Instrument → Debt Instrument                            | Borrowing and lending                                        |
+| **Loan**                           | Bilateral or otherwise negotiated debt arrangement in which funds are advanced and repaid under specified terms.               | → Debt Instrument → Loan                                            | Bank lending, corporate lending                              |
+| **Mortgage**                       | Loan secured by real property, with the property serving as collateral.                                                        | → Debt Instrument → Secured Debt → Mortgage                         | Real-estate finance                                          |
+| **Credit Facility**                | Arrangement giving a borrower access to funding up to a specified limit or under specified conditions.                         | → Debt Instrument → Credit Facility                                 | Revolving and committed financing                            |
+| **Line of Credit**                 | Credit facility from which the borrower may draw, repay, and potentially redraw funds.                                         | → Credit Facility → Line of Credit                                  | Working capital, liquidity                                   |
+| **Overdraft**                      | Facility permitting an account holder to withdraw beyond available account balances up to an agreed limit.                     | → Credit Facility → Overdraft                                       | Short-term liquidity                                         |
+| **Bond**                           | Tradable debt security representing a debt claim against an issuer.                                                            | → Debt Instrument → Security → Bond                                 | Government and corporate financing                           |
+| **Note**                           | Debt security, generally issued with specified principal, maturity, and payment terms.                                         | → Debt Instrument → Security → Note                                 | Debt financing                                               |
+| **Bill**                           | Short-term debt security, commonly issued at a discount and redeemed at maturity.                                              | → Debt Instrument → Security → Bill                                 | Short-term government/corporate funding                      |
+| **Commercial Paper**               | Unsecured short-term debt security issued by corporations or other eligible entities.                                          | → Debt Instrument → Security → Commercial Paper                     | Short-term corporate funding                                 |
+| **Certificate of Deposit**         | Negotiable or non-negotiable deposit instrument evidencing funds placed with a financial institution for specified terms.      | → Debt Instrument → Deposit Instrument → Certificate of Deposit     | Savings and bank funding                                     |
+| **Deposit**                        | Contract under which funds are placed with a financial institution, creating a claim of the depositor against the institution. | → Debt Instrument → Deposit Instrument → Deposit                    | Banking and payments                                         |
+| **Repurchase Agreement**           | Agreement involving the sale of securities with an agreement to repurchase them later at specified terms.                      | → Debt Instrument → Secured Financing → Repurchase Agreement        | Secured short-term funding                                   |
+| **Reverse Repurchase Agreement**   | The corresponding transaction from the perspective of the cash provider/securities purchaser.                                  | → Debt Instrument → Secured Financing → Reverse Repo                | Liquidity and monetary-market operations                     |
+| **Equity Instrument**              | Instrument representing a residual ownership claim rather than a contractual obligation to repay principal.                    | → Financial Instrument → Equity Instrument                          | Ownership and capital raising                                |
+| **Share**                          | Unit representing an ownership interest in a corporation or other entity.                                                      | → Equity Instrument → Share                                         | Corporate ownership                                          |
+| **Common Share**                   | Equity share generally carrying residual economic rights and potentially voting rights.                                        | → Share → Common Share                                              | Ordinary corporate ownership                                 |
+| **Preferred Share**                | Equity instrument with preferential rights, typically regarding dividends or liquidation proceeds.                             | → Share → Preferred Share                                           | Hybrid capital / preferred ownership                         |
+| **Fund Interest**                  | Ownership interest in a pooled investment vehicle.                                                                             | → Equity Instrument → Fund Interest                                 | Collective investment                                        |
+| **Derivative Instrument**          | Contract whose value depends on an underlying asset, rate, index, event, or other reference variable.                          | → Financial Instrument → Derivative                                 | Hedging, speculation, price exposure                         |
+| **Forward**                        | Customized agreement to exchange an underlying asset or settle its value at a future date and predetermined terms.             | → Derivative → Forward                                              | Hedging and future-price exposure                            |
+| **Futures Contract**               | Standardized, exchange-traded agreement to buy or sell an underlying at a specified future date and price.                     | → Derivative → Futures                                              | Hedging and trading                                          |
+| **Option**                         | Contract giving its holder the right, but not the obligation, to buy or sell an underlying under specified terms.              | → Derivative → Option                                               | Hedging and asymmetric exposure                              |
+| **Call Option**                    | Option giving the holder the right to buy the underlying.                                                                      | → Option → Call                                                     | Upside exposure / hedging                                    |
+| **Put Option**                     | Option giving the holder the right to sell the underlying.                                                                     | → Option → Put                                                      | Downside protection / hedging                                |
+| **Swap**                           | Contract under which parties exchange specified cash flows or financial exposures according to predetermined rules.            | → Derivative → Swap                                                 | Interest-rate, currency, commodity and other risk management |
+| **Interest Rate Swap**             | Swap exchanging interest-payment streams, commonly fixed for floating.                                                         | → Swap → Interest Rate Swap                                         | Interest-rate management                                     |
+| **Currency Swap**                  | Swap involving exchange of cash flows denominated in different currencies.                                                     | → Swap → Currency Swap                                              | Currency and funding management                              |
+| **Credit Derivative**              | Derivative transferring or referencing credit risk associated with an underlying obligation or entity.                         | → Derivative → Credit Derivative                                    | Credit-risk transfer                                         |
+| **Credit Default Swap**            | Contract transferring specified credit-event exposure between parties.                                                         | → Credit Derivative → Credit Default Swap                           | Credit-risk hedging                                          |
+| **Structured Instrument**          | Instrument combining or embedding multiple contractual exposures, often including debt, equity, or derivatives.                | → Financial Instrument → Structured Instrument                      | Customized risk/return exposure                              |
+| **Structured Note**                | Debt security whose payments are linked to one or more underlying variables or embedded derivatives.                           | → Structured Instrument → Structured Note                           | Customized investment exposure                               |
+| **Asset-Backed Security**          | Security whose payments are supported by a pool of underlying financial assets and their cash flows.                           | → Structured Instrument → Securitized Instrument → ABS              | Securitization and funding                                   |
+| **Mortgage-Backed Security**       | Security whose cash flows are principally backed by mortgage loans.                                                            | → Securitized Instrument → Mortgage-Backed Security                 | Mortgage finance                                             |
+| **Collateralized Debt Obligation** | Structured security backed by a portfolio of debt obligations.                                                                 | → Securitized Instrument → CDO                                      | Credit structuring                                           |
+| **Collateralized Loan Obligation** | Structured security backed primarily by a portfolio of leveraged or corporate loans.                                           | → CDO → CLO                                                         | Loan securitization                                          |
+| **Insurance Contract**             | Contract under which an insurer assumes specified risks in exchange for premiums.                                              | → Financial Contract → Insurance Contract                           | Risk transfer                                                |
+| **Annuity Contract**               | Contract providing specified periodic payments, generally in exchange for an initial contribution or premium.                  | → Insurance Contract → Annuity                                      | Longevity/income management                                  |
+| **Pension Contract**               | Arrangement providing retirement-related benefits based on contributions and contractual or statutory terms.                   | → Financial Contract → Pension Contract                             | Retirement financing                                         |
+| **Guarantee**                      | Contractual commitment by one party to perform or pay if another party fails to meet specified obligations.                    | → Financial Contract → Guarantee                                    | Credit enhancement                                           |
+| **Letter of Credit**               | Commitment by a financial institution to make payment upon presentation of specified compliant documents or conditions.        | → Financial Contract → Payment/Credit Instrument → Letter of Credit | Trade finance                                                |
+| **Bill of Exchange**               | Negotiable order directing one party to pay a specified amount to another party.                                               | → Financial Instrument → Negotiable Instrument → Bill of Exchange   | Trade and payment finance                                    |
+| **Promissory Note**                | Written promise by one party to pay a specified amount to another according to defined terms.                                  | → Debt Instrument → Negotiable Instrument → Promissory Note         | Private and commercial debt                                  |
+| **Cheque**                         | Payment instrument directing a financial institution to pay a specified amount from an account.                                | → Payment Instrument → Cheque                                       | Payments                                                     |
+| **Payment Card**                   | Instrument enabling payment through an underlying card account or payment arrangement.                                         | → Payment Instrument → Card Instrument                              | Retail payments                                              |
+| **Electronic Money Instrument**    | Instrument representing electronically stored monetary value usable for payments.                                              | → Payment Instrument → Electronic Money                             | Digital payments                                             |
+| **Digital Token**                  | Digitally represented contractual, ownership, payment, or economic claim that may be transferred through a digital system.     | → Financial Instrument → Digital Instrument → Token                 | Digital finance                                              |
 
-### Characterization
+## Financial Asset Space
 
-### Industry Tree
+> Which are the **financial assets**?
 
-> Finance Industry Tree: Finance Industry Tree: A hierarchical representation of the finance industry, from broad sectors to specific products and services.
+### How to characterize the asset space?
 
-**1. Banking**
+> How is a financial asset (which is always a contract) created? A financial asset is created when a legally enforceable financial contract or arrangement is formed that gives one party a financial claim and, correspondingly, another party a financial obligation or equity interest.
 
-* **Retail Banking**: Savings accounts, checking accounts, personal loans, mortgages, credit cards
-* **Commercial Banking**: Business loans, treasury services, commercial credit
-* **Investment Banking**: Mergers & acquisitions advisory, underwriting, securities issuance
-* **Central Banking**: Monetary policy, currency issuance, lender of last resort
-
-**2. Insurance**
-
-* **Life Insurance**: Term life, whole life, universal life
-* **Non-Life / Property & Casualty**: Auto, health, home, liability insurance
-* **Reinsurance**: Risk transfer between insurance companies
-* **Specialty Insurance**: Credit insurance, marine, aviation
-
-**3. Asset & Wealth Management**
-
-* **Mutual Funds / ETFs**: Collective investment vehicles
-* **Hedge Funds / Private Equity**: Alternative investments
-* **Robo-Advisors / Fintech Wealth Management**: Algorithm-driven portfolio management
-* **Pension Funds / Endowments**: Institutional long-term asset management
-
-**4. Capital Markets / Trading**
-
-* **Stock Exchanges / Brokers**: Equity trading, IPO facilitation
-* **Debt Markets**: Bonds, sovereign debt, corporate debt instruments
-* **Derivatives & Structured Products**: Futures, options, swaps
-* **Clearing & Settlement Services**: Trade confirmation, risk mitigation
-
-**5. Fintech & Payment Services**
-
-* **Payment Processing**: Digital wallets, point-of-sale solutions, remittance services
-* **Digital Banking / Neobanks**: Fully online banking services
-* **Cryptocurrency & Blockchain Services**: Exchanges, wallets, DeFi platforms
-* **Lending Platforms**: Peer-to-peer lending, online microfinance
-
-**6. Support & Infrastructure**
-
-* **Financial Technology Providers**: Software for trading, compliance, risk management
-* **RegTech / Compliance Solutions**: Anti-money laundering, KYC, reporting tools
-* **Credit Rating Agencies**: Moody’s, S&P, Fitch
-* **Financial Research & Analytics**: Market research, financial modeling, quantitative analytics
+| **Dimension**                    | **Description**                                                                                                                                                          |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Claim Ontology**               | What the holder is entitled to receive or hold: money, another financial asset, an ownership interest, or another financial benefit.                                     |
+| **Counterparty Identity**        | The entity against which the financial right exists: government, corporation, financial institution, household, or other entity.                                         |
+| **Rights Architecture**          | The bundle of rights granted to the holder, including rights to payment, delivery, exchange, voting, redemption, or other benefits.                                      |
+| **Obligation Architecture**      | The corresponding obligations imposed on the counterparty, including repayment, payment, delivery, or settlement obligations.                                            |
+| **Ownership Structure**          | Whether the position constitutes a residual ownership interest or a creditor claim.                                                                                      |
+| **Cash-Flow Architecture**       | The structure, timing, and variability of the economic payments generated by the asset.                                                                                  |
+| **Temporal Structure**           | The time structure of the claim, including maturity, duration, tenor, perpetuity, and contingent timing.                                                                 |
+| **Economic Return Structure**    | The mechanism through which the holder obtains economic returns, including interest, dividends, capital appreciation, fees, or contractual payments.                     |
+| **Transferability Regime**       | The extent and conditions under which the financial position can be transferred between parties.                                                                         |
+| **Settlement Architecture**      | The mechanism through which contractual rights and obligations are ultimately discharged, such as cash payment, delivery, or exchange.                                   |
+| **Risk Exposure Structure**      | The sources and configuration of uncertainty borne by the holder, including credit, market, interest-rate, currency, liquidity, and event risk.                          |
+| **Credit Enhancement Structure** | The mechanisms supporting performance of the claim, including collateral, guarantees, insurance, or other forms of credit enhancement.                                   |
+| **Priority Structure**           | The position of the claim relative to other claims against the counterparty in payment, default, or liquidation.                                                         |
+| **Denominational Structure**     | The monetary unit, currency, or reference unit in which the financial claim is denominated.                                                                              |
+| **Legal Constitution**           | The legal form through which the financial position is constituted, such as a deposit, receivable, security, equity interest, or derivative contract.                    |
+| **Origination Mechanism**        | The process through which the financial asset comes into existence, such as lending, deposit-taking, securities issuance, capital contribution, or derivative formation. |
+| **Marketability Regime**         | The conditions governing whether and how the asset can be exchanged in a market, including the existence and depth of secondary markets.                                 |
+| **Valuation Framework**          | The basis and methodology through which the financial position is assigned value, such as contractual amount, market price, present value, or model-based valuation.     |
+| **Contingency Structure**        | The conditions under which the existence, payoff, value, or settlement of the claim depends on future events or states of the world.                                     |
 
 
+### Asset Space
 
+
+| **Asset**                             | **Description**                                                                                                                          | **Asset Tree Path**                                                                      |
+| ------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Financial Asset**                   | An economic resource representing a financial claim, contractual right, ownership interest, monetary value, or other financial position. | Asset → Economic Asset → Financial Asset                                                 |
+| **Monetary Asset**                    | A financial asset representing money or a claim to a fixed or determinable monetary amount.                                              | Asset → Economic Asset → Financial Asset → Monetary Asset                                |
+| **Cash**                              | Currency and immediately available monetary funds.                                                                                       | Asset → Economic Asset → Financial Asset → Monetary Asset → Cash                         |
+| **Deposit**                           | A claim against a bank or other deposit-taking institution for repayment of deposited funds.                                             | Asset → Economic Asset → Financial Asset → Monetary Asset → Deposit                      |
+| **Receivable**                        | A contractual right to receive money or another financial asset.                                                                         | Asset → Economic Asset → Financial Asset → Receivable                                    |
+| **Loan Receivable**                   | A creditor's contractual right to repayment from a borrower.                                                                             | Asset → Economic Asset → Financial Asset → Receivable → Loan Receivable                  |
+| **Trade Receivable**                  | A right to receive payment for goods or services already provided.                                                                       | Asset → Economic Asset → Financial Asset → Receivable → Trade Receivable                 |
+| **Debt**                              | A financial claim entitling its holder to repayment under specified terms.                                                               | Asset → Economic Asset → Financial Asset → Debt                                          |
+| **Debt Security**                     | A transferable security representing a debt claim.                                                                                       | Asset → Economic Asset → Financial Asset → Debt → Debt Security                          |
+| **Bond**                              | A debt security issued by a government, corporation, or other entity.                                                                    | Asset → Economic Asset → Financial Asset → Debt → Debt Security → Bond                   |
+| **Government Bond**                   | A debt security issued by a sovereign government.                                                                                        | Asset → Economic Asset → Financial Asset → Debt → Debt Security → Bond → Government Bond |
+| **Treasury Bill**                     | A short-term government debt security, typically maturing in less than one year.                                                         | … → Government Bond → Treasury Bill                                                      |
+| **Treasury Note**                     | A medium-term government debt security with periodic interest payments.                                                                  | … → Government Bond → Treasury Note                                                      |
+| **Treasury Bond**                     | A long-term government debt security with periodic interest payments.                                                                    | … → Government Bond → Treasury Bond                                                      |
+| **Inflation-Indexed Government Bond** | A government bond whose principal and/or interest payments are linked to an inflation index.                                             | … → Government Bond → Inflation-Indexed Government Bond                                  |
+| **Zero-Coupon Government Bond**       | A government debt security that does not make periodic coupon payments and is generally issued at a discount.                            | … → Government Bond → Zero-Coupon Government Bond                                        |
+| **Floating-Rate Government Bond**     | A government bond whose interest rate periodically resets according to a reference rate.                                                 | … → Government Bond → Floating-Rate Government Bond                                      |
+| **Savings Bond**                      | A government debt security designed primarily for individual investors, often with special redemption or tax features.                   | … → Government Bond → Savings Bond                                                       |
+| **Subnational Government Bond**       | A debt security issued by a state, province, municipality, or other subnational government.                                              | … → Government Bond → Subnational Government Bond                                        |
+| **Government Agency Bond**            | A debt security issued by a government agency or government-sponsored entity, where applicable.                                          | … → Government Bond → Government Agency Bond                                             |
+| **Corporate Bond**                    | A debt security issued by a corporation.                                                                                                 | Asset → Economic Asset → Financial Asset → Debt → Debt Security → Bond → Corporate Bond  |
+| **Commercial Paper**                  | A short-term debt security generally issued by corporations or other institutions.                                                       | Asset → Economic Asset → Financial Asset → Debt → Debt Security → Commercial Paper       |
+| **Equity**                            | An ownership interest representing a residual claim on an entity.                                                                        | Asset → Economic Asset → Financial Asset → Equity                                        |
+| **Equity Security**                   | A transferable security representing an ownership interest.                                                                              | Asset → Economic Asset → Financial Asset → Equity → Equity Security                      |
+| **Share**                             | A unit of ownership in a corporation or similar entity.                                                                                  | Asset → Economic Asset → Financial Asset → Equity → Equity Security → Share              |
+| **Stock**                             | A commonly used term for an equity ownership interest, generally represented by shares.                                                  | Asset → Economic Asset → Financial Asset → Equity → Equity Security → Stock              |
+| **Common Stock**                      | Equity representing ordinary ownership rights in a corporation.                                                                          | … → Equity Security → Stock → Common Stock                                               |
+| **Preferred Stock**                   | Equity with preferential contractual or statutory rights, often concerning dividends or liquidation.                                     | … → Equity Security → Stock → Preferred Stock                                            |
+| **Fund Interest**                     | An ownership interest in an investment fund or pooled investment vehicle.                                                                | Asset → Economic Asset → Financial Asset → Fund Interest                                 |
+| **Mutual Fund Interest**              | An interest in a mutual fund.                                                                                                            | … → Fund Interest → Mutual Fund Interest                                                 |
+| **ETF Interest**                      | An interest in an exchange-traded fund.                                                                                                  | … → Fund Interest → ETF Interest                                                         |
+| **REIT Interest**                     | An ownership interest in a real-estate investment trust.                                                                                 | … → Fund Interest / Equity → REIT Interest                                               |
+| **Derivative Asset**                  | A financial position whose value depends on an underlying asset, rate, index, event, or other variable.                                  | Asset → Economic Asset → Financial Asset → Derivative Asset                              |
+| **Option**                            | A derivative giving its holder a right, but generally not an obligation, to transact under specified conditions.                         | … → Derivative Asset → Option                                                            |
+| **Futures Contract**                  | A standardized derivative contract establishing obligations to transact under specified future terms.                                    | … → Derivative Asset → Futures Contract                                                  |
+| **Forward Contract**                  | A customized bilateral derivative contract establishing an obligation to transact at specified future terms.                             | … → Derivative Asset → Forward Contract                                                  |
+| **Swap**                              | A derivative contract involving the exchange of specified cash flows or financial exposures.                                             | … → Derivative Asset → Swap                                                              |
+| **Contingent Claim**                  | A financial claim whose value or payment depends on the occurrence of a specified event or condition.                                    | Asset → Economic Asset → Financial Asset → Contingent Claim                              |
+| **Insurance Claim**                   | A contractual right to payment contingent on an insured event.                                                                           | … → Contingent Claim → Insurance Claim                                                   |
+
+## Market Space
+
+> Which are the financial markets?
+
+> What characterizes a financial market? A **financial market**` is characterized by an organized or institutionalized system of exchange in which financial claims, instruments, or assets are issued, traded, transferred, or settled between participants.
+
+| **Market**                          | **Description**                                                                                                                             | **Market Tree Path**                                                       |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Financial Market**                | Broad institutional environment in which financial assets, instruments, claims, and liabilities are issued, traded, priced, and/or settled. | Financial Market                                                           |
+| **Capital Market**                  | Market for raising and trading relatively long-term financing and investment claims.                                                        | Financial Market → Capital Market                                          |
+| **Equity Market**                   | Market for issuing and trading ownership interests in companies.                                                                            | Financial Market → Capital Market → Equity Market                          |
+| **Debt Market**                     | Market for issuing and trading debt claims.                                                                                                 | Financial Market → Capital Market → Debt Market                            |
+| **Bond Market**                     | Market specifically for bonds and similar fixed-income securities.                                                                          | Financial Market → Capital Market → Debt Market → Bond Market              |
+| **Money Market**                    | Market for short-term borrowing, lending, and instruments, generally with maturities of one year or less.                                   | Financial Market → Money Market                                            |
+| **Foreign Exchange Market**         | Market for exchanging currencies and trading currency-related claims and derivatives.                                                       | Financial Market → Foreign Exchange Market                                 |
+| **Derivatives Market**              | Market for contracts whose value derives from an underlying asset, rate, index, or other variable.                                          | Financial Market → Derivatives Market                                      |
+| **Futures Market**                  | Market for standardized futures contracts.                                                                                                  | Financial Market → Derivatives Market → Futures Market                     |
+| **Options Market**                  | Market for standardized or otherwise traded option contracts.                                                                               | Financial Market → Derivatives Market → Options Market                     |
+| **Swap Market**                     | Market for swap contracts involving exchanges of cash flows or other financial exposures.                                                   | Financial Market → Derivatives Market → Swap Market                        |
+| **Commodity Market**                | Market for trading commodities and commodity-related claims or derivatives.                                                                 | Financial Market → Commodity Market                                        |
+| **Energy Market**                   | Market for energy commodities and related contracts.                                                                                        | Financial Market → Commodity Market → Energy Market                        |
+| **Metals Market**                   | Market for precious and industrial metals and related contracts.                                                                            | Financial Market → Commodity Market → Metals Market                        |
+| **Agricultural Commodities Market** | Market for agricultural commodities and related contracts.                                                                                  | Financial Market → Commodity Market → Agricultural Commodities Market      |
+| **Credit Market**                   | Market in which credit is originated, transferred, priced, or traded.                                                                       | Financial Market → Credit Market                                           |
+| **Loan Market**                     | Market for originating, trading, or transferring loans.                                                                                     | Financial Market → Credit Market → Loan Market                             |
+| **Mortgage Market**                 | Market for mortgage credit and mortgage-related claims.                                                                                     | Financial Market → Credit Market → Mortgage Market                         |
+| **Repo Market**                     | Market for secured short-term financing through repurchase agreements.                                                                      | Financial Market → Money Market → Repo Market                              |
+| **Securities Lending Market**       | Market for temporary transfers of securities against collateral.                                                                            | Financial Market → Securities Financing Market → Securities Lending Market |
+| **Securitization Market**           | Market involving the creation and trading of securities backed by pools of financial assets.                                                | Financial Market → Structured Finance Market → Securitization Market       |
+| **Private Capital Market**          | Market for capital raised or invested through privately negotiated instruments rather than public securities markets.                       | Financial Market → Capital Market → Private Capital Market                 |
+| **Private Equity Market**           | Market for investments in privately held companies or private-company equity.                                                               | Financial Market → Private Capital Market → Private Equity Market          |
+| **Venture Capital Market**          | Market for equity financing of early-stage and high-growth companies.                                                                       | Financial Market → Private Capital Market → Venture Capital Market         |
+| **Real Estate Finance Market**      | Market involving financing and financial claims related to real estate.                                                                     | Financial Market → Credit Market → Real Estate Finance Market              |
+| **Insurance Market**                | Market in which insurance and risk-transfer contracts are supplied, purchased, priced, and transferred.                                     | Financial Market → Risk Transfer Market → Insurance Market                 |
+| **Reinsurance Market**              | Market for transferring insurance risk between insurers and reinsurers.                                                                     | Financial Market → Risk Transfer Market → Reinsurance Market               |
+| **Carbon Market**                   | Market for trading emissions allowances or carbon-related credits.                                                                          | Financial Market → Environmental Market → Carbon Market                    |
+| **Cryptocurrency Market**           | Market for trading cr                                                                                                                       |                                                                            |
+
+
+## Financial Infrastructure
+
+> Which are the technical production elements that support the financial sector?
+
+| **Technical Production Element**        | **Description**                                                                               | **Tree Path**                                              | **Role**                         |
+| --------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------- |
+| **Financial Infrastructure**            | Technical production systems and resources that enable financial activities and transactions. | Infrastructure → Financial Infrastructure                  | Supports the financial sector    |
+| **Payment Infrastructure**              | Infrastructure enabling transfer of monetary value.                                           | → Payment Infrastructure                                   | Enables payments                 |
+| **Payment Network**                     | Network connecting participants to route payment transactions.                                | → Payment Infrastructure → Payment Network                 | Payment connectivity             |
+| **Payment Switch**                      | System routing transactions between payment participants and networks.                        | → Payment Infrastructure → Payment Switch                  | Transaction routing              |
+| **Payment Gateway**                     | System connecting merchants or applications to payment networks.                              | → Payment Infrastructure → Payment Gateway                 | Payment acceptance               |
+| **Point-of-Sale Terminal**              | Device used to initiate card or electronic payment transactions.                              | → Payment Infrastructure → POS Terminal                    | Payment initiation               |
+| **ATM**                                 | Automated terminal enabling cash withdrawal and related banking functions.                    | → Payment Infrastructure → ATM                             | Cash access                      |
+| **Clearing Infrastructure**             | Technical systems for calculating and managing transaction obligations.                       | → Clearing Infrastructure                                  | Clearing                         |
+| **Clearing House**                      | Infrastructure coordinating and netting obligations between participants.                     | → Clearing Infrastructure → Clearing House                 | Obligation processing            |
+| **Central Counterparty (CCP)**          | Intermediating clearing institution that becomes counterparty to trades.                      | → Clearing Infrastructure → CCP                            | Central clearing                 |
+| **Settlement Infrastructure**           | Systems through which financial obligations are finally discharged.                           | → Settlement Infrastructure                                | Final settlement                 |
+| **Settlement System**                   | System transferring funds or securities to complete transactions.                             | → Settlement Infrastructure → Settlement System            | Transaction settlement           |
+| **Central Securities Depository (CSD)** | Infrastructure maintaining securities records and supporting securities settlement.           | → Securities Infrastructure → CSD                          | Securities settlement            |
+| **Securities Account System**           | System recording ownership positions in securities.                                           | → Securities Infrastructure → Securities Account System    | Ownership records                |
+| **Custody System**                      | Systems maintaining and administering financial assets on behalf of clients.                  | → Securities Infrastructure → Custody System               | Asset safekeeping                |
+| **Trading Infrastructure**              | Technical systems enabling financial-market transactions.                                     | → Trading Infrastructure                                   | Trade execution                  |
+| **Exchange Trading System**             | Electronic system operated by an exchange for receiving and executing orders.                 | → Trading Infrastructure → Exchange Trading System         | Exchange trading                 |
+| **Alternative Trading System (ATS)**    | Electronic venue facilitating transactions outside traditional exchanges.                     | → Trading Infrastructure → ATS                             | Alternative execution            |
+| **Order Management System (OMS)**       | Software used to create, manage, route, and monitor orders.                                   | → Trading Infrastructure → OMS                             | Order management                 |
+| **Execution Management System (EMS)**   | System designed to manage and optimize trade execution.                                       | → Trading Infrastructure → EMS                             | Trade execution                  |
+| **Order Book**                          | Electronic record of outstanding buy and sell orders.                                         | → Trading Infrastructure → Order Book                      | Price/order formation            |
+| **Matching Engine**                     | System matching compatible buy and sell orders.                                               | → Trading Infrastructure → Matching Engine                 | Trade matching                   |
+| **Market Data Infrastructure**          | Systems producing and distributing financial-market information.                              | → Market Data Infrastructure                               | Market information               |
+| **Market Data Feed**                    | Real-time or delayed stream of prices, orders, trades, and related information.               | → Market Data Infrastructure → Data Feed                   | Market information distribution  |
+| **Price Feed**                          | System delivering current or historical financial prices.                                     | → Market Data Infrastructure → Price Feed                  | Price dissemination              |
+| **Reference Data System**               | System maintaining standardized information about financial instruments and entities.         | → Market Data Infrastructure → Reference Data System       | Instrument/entity identification |
+| **Financial Messaging Infrastructure**  | Systems and standards for transmitting financial instructions and data.                       | → Messaging Infrastructure                                 | Financial communication          |
+| **Financial Messaging Network**         | Network transmitting structured financial messages between institutions.                      | → Messaging Infrastructure → Messaging Network             | Transaction communication        |
+| **Financial Messaging Protocol**        | Standardized technical format for exchanging financial information.                           | → Messaging Infrastructure → Messaging Protocol            | Interoperability                 |
+| **Ledger Infrastructure**               | Systems recording financial positions and transactions.                                       | → Ledger Infrastructure                                    | Financial recordkeeping          |
+| **General Ledger System**               | System recording an institution's accounting transactions and balances.                       | → Ledger Infrastructure → General Ledger                   | Accounting records               |
+| **Subledger**                           | Detailed ledger maintaining records underlying a general ledger.                              | → Ledger Infrastructure → Subledger                        | Detailed position tracking       |
+| **Distributed Ledger**                  | Shared ledger replicated across multiple participants.                                        | → Ledger Infrastructure → Distributed Ledger               | Shared recordkeeping             |
+| **Blockchain**                          | Distributed ledger architecture using cryptographic consensus and chained records.            | → Distributed Ledger → Blockchain                          | Distributed transaction records  |
+| **Identity Infrastructure**             | Systems establishing and verifying identities of financial participants.                      | → Identity Infrastructure                                  | Participant identification       |
+| **Digital Identity System**             | System representing and authenticating an entity electronically.                              | → Identity Infrastructure → Digital Identity               | Digital identification           |
+| **Authentication System**               | System verifying that a participant is who they claim to be.                                  | → Identity Infrastructure → Authentication                 | Access control                   |
+| **KYC System**                          | Technology supporting collection and verification of customer identity information.           | → Identity Infrastructure → KYC System                     | Customer identification          |
+| **Credit Information Infrastructure**   | Systems producing and distributing information about creditworthiness.                        | → Credit Infrastructure                                    | Credit assessment                |
+| **Credit Bureau**                       | Organization maintaining and providing borrower credit information.                           | → Credit Infrastructure → Credit Bureau                    | Credit information               |
+| **Credit Scoring System**               | System calculating credit-risk scores from borrower information.                              | → Credit Infrastructure → Credit Scoring System            | Credit assessment                |
+| **Collateral Infrastructure**           | Systems registering, valuing, tracking, and managing collateral.                              | → Collateral Infrastructure                                | Secured finance                  |
+| **Collateral Registry**                 | System recording security interests over assets.                                              | → Collateral Infrastructure → Collateral Registry          | Collateral registration          |
+| **Collateral Management System**        | System monitoring collateral positions, eligibility, valuation, and movements.                | → Collateral Infrastructure → Collateral Management System | Collateral administration        |
+| **Margin Management System**            | System calculating and managing required collateral or margin.                                | → Collateral Infrastructure → Margin Management System     | Risk mitigation                  |
+| **Risk Infrastructure**                 | Technical systems measuring and monitoring financial exposures.                               | → Risk Infrastructure                                      | Risk management                  |
+| **Risk Engine**                         | Computational system calculating financial risk measures.                                     | → Risk Infrastructure → Risk Engine                        | Risk measurement                 |
+| **Value-at-Risk System**                | System calculating potential portfolio losses under specified assumptions.                    | → Risk Infrastructure → VaR System                         | Market-risk measurement          |
+| **Stress-Testing System**               | System estimating financial effects under adverse scenarios.                                  | → Risk Infrastructure → Stress Testing System              | Scenario analysis                |
+| **Regulatory Infrastructure**           | Systems supporting regulatory monitoring, reporting, and supervision.                         | → Regulatory Infrastructure                                | Financial regulation             |
+| **Regulatory Reporting System**         | System generating and transmitting required regulatory reports.                               | → Regulatory Infrastructure → Reporting System             | Regulatory reporting             |
+| **Transaction Monitoring System**       | System detecting suspicious or anomalous financial transactions.                              | → Regulatory Infrastructure → Transaction Monitoring       | Financial surveillance           |
+| **AML System**                          | Technology supporting detection and prevention of money laundering.                           | → Regulatory Infrastructure → AML System                   | Financial crime controls         |
+| **Core Banking Infrastructure**         | Technical systems supporting fundamental banking operations.                                  | → Banking Infrastructure → Core Banking                    | Banking operations               |
+| **Core Banking System**                 | Central system managing accounts, deposits, loans, and banking transactions.                  | → Banking Infrastructure → Core Banking System             | Banking processing               |
+| **Loan Management System**              | System managing loan origination, servicing, repayment, and status.                           | → Banking Infrastructure → Loan Management System          | Lending operations               |
+| **Deposit Management System**           | System managing customer deposit accounts and balances.                                       | → Banking Infrastructure → Deposit Management System       | Deposit operations               |
+| **Treasury Management System**          | System managing liquidity, funding, cash, and financial exposures.                            | → Banking Infrastructure → Treasury System                 | Treasury operations              |
+| **Computing Infrastructure**            | Computational resources supporting financial processing.                                      | → Computing Infrastructure                                 | Financial computation            |
+| **Data Center**                         | Physical facility housing computing and networking equipment.                                 | → Computing Infrastructure → Data Center                   | Computing capacity               |
+| **Server Infrastructure**               | Physical or virtual computing resources running financial applications.                       | → Computing Infrastructure → Server Infrastructure         | Application processing           |
+| **Database Infrastructure**             | Systems storing and retrieving financial data.                                                | → Computing Infrastructure → Database Infrastructure       | Data storage                     |
+| **Cloud Infrastructure**                | On-demand computing, storage, and networking resources.                                       | → Computing Infrastructure → Cloud Infrastructure          | Scalable computing               |
+| **Network Infrastructure**              | Communication systems connecting financial systems and participants.                          | → Network Infrastructure                                   | Connectivity                     |
+| **Telecommunications Network**          | Physical and wireless networks transmitting financial information.                            | → Network Infrastructure → Telecommunications Network      | Data transmission                |
+| **Internet Infrastructure**             | Global network infrastructure used by digital financial services.                             | → Network Infrastructure → Internet                        | Digital connectivity             |
+| **Cybersecurity Infrastructure**        | Technical systems protecting financial systems and information.                               | → Security Infrastructure → Cybersecurity                  | Security                         |
+| **Firewall**                            | Network security system controlling permitted traffic.                                        | → Cybersecurity → Firewall                                 | Network protection               |
+| **Intrusion Detection System**          | System detecting potentially unauthorized network activity.                                   | → Cybersecurity → IDS                                      | Threat detection                 |
+| **Encryption System**                   | System protecting information through cryptographic transformation.                           | → Cybersecurity → Encryption                               | Data protection                  |
+| **Key Management System**               | System generating, storing, distributing, and controlling cryptographic keys.                 | → Cybersecurity → Key Management                           | Cryptographic security           |
+| **Backup Infrastructure**               | Systems maintaining recoverable copies of financial data and applications.                    | → Resilience Infrastructure → Backup                       | Data recovery                    |
+| **Disaster Recovery Infrastructure**    | Systems enabling restoration of financial operations after disruption.                        | → Resilience Infrastructure → Disaster Recovery            | Operational continuity           |
+| **Time-Synchronization Infrastructure** | Systems synchronizing clocks across financial systems.                                        | → Technical Infrastructure → Time Synchronization          | Transaction ordering             |
+| **Financial Standards Infrastructure**  | Technical standards enabling interoperability between financial systems.                      | → Standards Infrastructure                                 | System interoperability          |
+| **Financial Data Standard**             | Standardized representation and exchange format for financial information.                    | → Standards Infrastructure → Financial Data Standard       | Data interoperability            |
+| **API Infrastructure**                  | Interfaces allowing financial systems to communicate programmatically.                        | → Standards Infrastructure → API Infrastructure            | System integration               |
 
 ## Actor Space
 
@@ -297,18 +392,16 @@ In the most abstract, system-level terms, the **function of finance** is:
 | Crowdfunding Platform           | Online platform for funding projects via small contributions from many users        | Enables capital raising for startups, creative projects, or social causes      |
 |Sector Fund|Investment fund focused on a specific industry or sector|Allocates capital to companies within a target sector, enabling focused growth and returns|
 
+## QA
 
-## Financial Ecosystem
+### What is the relation between the term finantial instrument and finatial assets?
 
-> The **financial system** is an ecosystem comprising heterogeneous agents, institutions, instruments, and infrastructures that co-evolve through coordinated and competitive interactions to allocate capital, distribute risk, generate liquidity, and enforce financial commitments.
+> A **financial instrument** is like the recipe, while the financial asset is the cake you get from following it.
 
-> **Note**: Although the term financial system is widely used, the underlying phenomenon is not a closed or sharply bounded system; rather, it is a continuously evolving ecosystem whose boundaries are porous, overlapping, and endogenously reshaped by institutional change, technological innovation, regulatory shifts, and market behavior.
+- **Financial asset** is the economic resource/value itself that you hold.
+- **Financial instrument** is the contract or legal mechanism that creates or represents that asset.
 
-> What is the structure of the system? The financial system is a multilayered coordination architecture composed of institutions, instruments, infrastructures, markets, and balance-sheet networks that collectively enable the formation, transfer, pricing, and enforcement of financial claims.
-
-> Which are the dynamics of such system? The financial system operates through interdependent flow, state, price, risk, information, institutional, and monetary-credit dynamics that jointly govern how capital, liquidity, risk, and information evolve and propagate over time.
-
-## Knowledge Dimension
+### Which academic disciplines, fields, and subfields research the financial sector?
 
 | **Category**                         | **Subfield**                         | **Description**                                                         |
 | ------------------------------------ | ------------------------------------ | ----------------------------------------------------------------------- |
@@ -352,16 +445,6 @@ In the most abstract, system-level terms, the **function of finance** is:
 |                                      | Insurance & Actuarial Finance        | Managing risk via insurance, modeling loss distributions.               |
 |                                      | FinTech                              | Use of technology to innovate financial services.                       |
 |                                      | Islamic Finance                      | Finance principles compliant with Sharia law.                           |
-
-
-## QA
-
-### What is the relation between the term finantial instrument and finatial assets?
-
-> A **financial instrument** is like the recipe, while the financial asset is the cake you get from following it.
-
-- **Financial asset** is the economic resource/value itself that you hold.
-- **Financial instrument** is the contract or legal mechanism that creates or represents that asset.
 
 ## References
 
