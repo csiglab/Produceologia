@@ -4,6 +4,10 @@
 
 > Its mission is to **design and analyze systems of production, distribution, and exchange** that enhance human well-being, strengthen productive capabilities, and ensure the long-term sustainability of economic life.
 
+## Social Field
+
+> ...
+
 ## Research Domain
 
 > Systematic study and design of how societies **produce, exchange, generate technology, and evolve their productive structures**, integrating material, technological and  organizational dimensions.
@@ -17,7 +21,6 @@
 | **Foundations**             | Explores the material, energetic, and ecological bases that sustain production and constrain economic evolution.                  | • How do energy systems, resources, and infrastructure enable or limit production?<br>• How can ecological sustainability be integrated into productive systems?<br>• What are the trade-offs between growth, efficiency, and resilience? |
 | **Finance Space**           | Studies the systems that mobilize, allocate, and govern capital for productive and technological transformation.                  | • How do financial structures shape industrial and technological trajectories?<br>• What mechanisms channel savings into productive investment?<br>• How can financial architectures support innovation and long-term development?        |
 | **Organizational Design**   | Studies the internal architecture, coordination, and reflexive systems of firms and institutions.                                 | • How can organizations be designed to balance efficiency, adaptability, and innovation?<br>• What design principles foster learning, coordination, and viability?<br>• How does design interact with workflow, culture, and strategy?    |
-
 
 ## Service Domain
 

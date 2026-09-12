@@ -1,3 +1,0 @@
-# Digital Design
-
-: 14
