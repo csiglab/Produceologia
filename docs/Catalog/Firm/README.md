@@ -2,7 +2,7 @@
 
 > **Firm Catalog**: A structured catalog of firms, describing their economic, organizational, technological, and operational characteristics.
 
-> See more in [Actor Index](https://bremontix.xyz/lab/research/actor/)
+> See more in [Actor Index](https://github.com/csiglab/Naturgnosis/tree/main/app/social/view/actor/firm)
 
 ## References
 
