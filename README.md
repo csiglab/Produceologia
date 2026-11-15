@@ -1,10 +1,15 @@
 # Produceologia
 
+> Movido a https://github.com/dbremont/Epistecnica.
+
 > **Laboratorium Maius Productivum et Mercatorum**: Characterize productive systems, design convergence plans with the most sophisticated productive systems, and experiment with new forms of production and business at the frontier.
 
 > Nuevas formas de hacer, mejores formas de producir.
 
 ![Produceologia Logo](https://raw.githubusercontent.com/csiglab/Meta/refs/heads/main/img/resized/bremontix-laboratorio-procuceologia_256x256.png)
+
+
+
 
 ## Linux: Build & Run
 
