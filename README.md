@@ -2,6 +2,9 @@
 
 > Movido a https://github.com/dbremont/Epistecnica.
 
+> This will be converted to seriuos  projects on production, note on notes.
+
+
 > **Laboratorium Maius Productivum et Mercatorum**: Characterize productive systems, design convergence plans with the most sophisticated productive systems, and experiment with new forms of production and business at the frontier.
 
 > Nuevas formas de hacer, mejores formas de producir.
